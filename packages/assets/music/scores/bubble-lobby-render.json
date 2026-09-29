@@ -1,0 +1,87 @@
+{
+  "id": "bubble-lobby",
+  "title": "Bubble Lobby",
+  "bpm": 112,
+  "bars": 56,
+  "seconds": 120,
+  "frames": 3840000,
+  "sampleRate": 32000,
+  "channels": 2,
+  "notes": 1598,
+  "instruments": [
+    "pizzicato",
+    "strings",
+    "piano",
+    "bass",
+    "shaker",
+    "flute",
+    "marimba",
+    "kick",
+    "snare",
+    "tom",
+    "cymbal",
+    "glockenspiel"
+  ],
+  "originalPeak": 1.5113825127482414,
+  "gain": 0.5028508624319362,
+  "peak": 0.76,
+  "rms": 0.11888515102042554,
+  "sections": [
+    {
+      "name": "Invitation",
+      "startSeconds": 0,
+      "endSeconds": 17.14284375,
+      "rms": 0.09753078976436456
+    },
+    {
+      "name": "Bubbles",
+      "startSeconds": 17.14284375,
+      "endSeconds": 51.4285625,
+      "rms": 0.11351569257124054
+    },
+    {
+      "name": "Tile Garden",
+      "startSeconds": 51.4285625,
+      "endSeconds": 68.5714375,
+      "rms": 0.10631743179494992
+    },
+    {
+      "name": "Sunlit Refrain",
+      "startSeconds": 68.5714375,
+      "endSeconds": 102.85715625,
+      "rms": 0.14498511120954755
+    },
+    {
+      "name": "Home Again",
+      "startSeconds": 102.85715625,
+      "endSeconds": 120,
+      "rms": 0.10152392663718614
+    }
+  ],
+  "stems": [
+    {
+      "layer": "melody",
+      "file": "masters/bubble-lobby-melody.wav",
+      "bytes": 15360044,
+      "sha256": "eec8a1370ae9b7396ec8e009da35e07df78f5f7c07802356831b4a854a817840"
+    },
+    {
+      "layer": "harmony",
+      "file": "masters/bubble-lobby-harmony.wav",
+      "bytes": 15360044,
+      "sha256": "61643521a3d9e74124c301ead9f79d1f7e3d022dbf95e898d14628634d301486"
+    },
+    {
+      "layer": "bass",
+      "file": "masters/bubble-lobby-bass.wav",
+      "bytes": 15360044,
+      "sha256": "edbc91636b8486065b6af804dde93cb5e9a49085e747a57bae23dbb634f697c0"
+    },
+    {
+      "layer": "rhythm",
+      "file": "masters/bubble-lobby-rhythm.wav",
+      "bytes": 15360044,
+      "sha256": "a4a19b553940e164d3b4f2f4fb6507fbb67ba1e9f761c992430de2c4821226af"
+    }
+  ]
+}

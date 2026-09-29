@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "author": "Sup-a-Dub project",
+  "origin": "Authored geometric flag illustrations",
+  "coverage": 32,
+  "format": "2:3 display rectangles",
+  "flags": [
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "path": "/assets/flags/tr.svg"
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "path": "/assets/flags/us.svg"
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "path": "/assets/flags/gb.svg"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "path": "/assets/flags/de.svg"
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "path": "/assets/flags/fr.svg"
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "path": "/assets/flags/it.svg"
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "path": "/assets/flags/jp.svg"
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "path": "/assets/flags/nl.svg"
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "path": "/assets/flags/be.svg"
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "path": "/assets/flags/ie.svg"
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "path": "/assets/flags/pl.svg"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "path": "/assets/flags/ua.svg"
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "path": "/assets/flags/ro.svg"
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "path": "/assets/flags/ru.svg"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "path": "/assets/flags/at.svg"
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "path": "/assets/flags/hu.svg"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "path": "/assets/flags/id.svg"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "path": "/assets/flags/mc.svg"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "path": "/assets/flags/ch.svg"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "path": "/assets/flags/se.svg"
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "path": "/assets/flags/no.svg"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "path": "/assets/flags/dk.svg"
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "path": "/assets/flags/fi.svg"
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "path": "/assets/flags/is.svg"
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "path": "/assets/flags/cn.svg"
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "path": "/assets/flags/in.svg"
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "path": "/assets/flags/gr.svg"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "path": "/assets/flags/cz.svg"
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "path": "/assets/flags/ee.svg"
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "path": "/assets/flags/lt.svg"
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "path": "/assets/flags/lv.svg"
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "path": "/assets/flags/lu.svg"
+    }
+  ]
+}

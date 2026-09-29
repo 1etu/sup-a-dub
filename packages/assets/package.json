@@ -1,0 +1,27 @@
+{
+  "name": "@supadub/assets",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./graphics": "./src/graphics/index.ts",
+    "./graphics/*": "./src/graphics/*.ts",
+    "./sfx": "./src/sfx/index.ts",
+    "./sfx/*": "./src/sfx/*.ts",
+    "./controls": "./src/controls/index.ts",
+    "./music": "./src/music/index.ts"
+  },
+  "dependencies": {
+    "@supadub/audioengine": "workspace:*",
+    "@supadub/cosmetics": "workspace:*",
+    "@supadub/graphics": "workspace:*",
+    "@supadub/protocol": "workspace:*",
+    "three": "^0.180.0",
+    "@supadub/inputengine": "workspace:*"
+  },
+  "devDependencies": {
+    "meshoptimizer": "0.22.0",
+    "@types/three": "^0.180.0"
+  }
+}

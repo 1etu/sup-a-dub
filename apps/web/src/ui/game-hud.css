@@ -1,0 +1,179 @@
+.flock-stats {
+  position: absolute;
+  top: max(22px, env(safe-area-inset-top));
+  left: max(30px, env(safe-area-inset-left));
+  max-width: 45vw;
+  filter: drop-shadow(0 3px 0 #174477) drop-shadow(0 0 5px #407cab66);
+}
+.flock-total strong,
+.flock-pieces strong {
+  display: block;
+  font-family: 'Supadub Display', sans-serif;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.15;
+  white-space: nowrap;
+  color: #aafa51;
+  -webkit-text-stroke: 1px #e9ffd1;
+  background: linear-gradient(#eaffc5 7%, #b4f967 39%, #85df33 49%, #68c925 51%, #a5ed45 91%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.flock-total strong {
+  font-size: clamp(36px, 4.3vw, 64px);
+  letter-spacing: -1px;
+}
+.flock-pieces {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 7px;
+}
+.flock-symbol {
+  width: 39px;
+  height: 32px;
+  fill: #d6f6ff;
+  stroke: #f3fcff;
+  stroke-width: 1.2px;
+  stroke-linejoin: round;
+}
+.flock-symbol path:first-child {
+  fill: #8ed9e8;
+}
+.flock-pieces strong {
+  font-size: 29px;
+  background-image: linear-gradient(#fff, #f9f6ff 47%, #b4e0f5 51%, #e0f5ff);
+}
+.flock-pieces small {
+  font-size: 18px;
+}
+.stat-caption {
+  display: block;
+  font-size: 15px;
+  color: #f4faff;
+  margin-bottom: 3px;
+}
+#flock-notice {
+  margin-top: 10px;
+  color: #e5ffb9;
+  font-size: 12px;
+  max-width: 220px;
+}
+.game-prompts,
+.game-prompts #game-hint {
+  display: flex;
+  align-items: center;
+  gap: 23px;
+}
+.game-prompts {
+  position: absolute;
+  right: max(28px, env(safe-area-inset-right));
+  bottom: max(21px, env(safe-area-inset-bottom));
+  color: #f8f2ff;
+  font-size: 18px;
+  text-shadow:
+    0 2px 1px #254888,
+    0 0 5px #548fc1;
+}
+.game-prompts #game-hint {
+  margin: 0;
+}
+.game-prompts #game-hint > span,
+.game-prompts button {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  white-space: nowrap;
+}
+.game-prompts button {
+  pointer-events: auto;
+  font: inherit;
+  color: inherit;
+  text-shadow: inherit;
+}
+.game-prompts .key-glyph {
+  height: 32px;
+  min-width: 30px;
+}
+.game-prompts button:focus-visible {
+  outline: 2px solid #b5ff69;
+  outline-offset: 6px;
+  border-radius: 5px;
+}
+.rescue-hint {
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+  margin: 0;
+  max-width: calc(100% - 220px);
+  font-size: 14px;
+  color: #f0f8ff;
+  text-shadow: 0 2px 2px #27598b;
+}
+#game-hud .connection-info {
+  right: 29px;
+  bottom: 64px;
+}
+#game-hud .touch-controls {
+  bottom: 86px;
+}
+@media (max-width: 700px) {
+  .flock-stats {
+    top: max(15px, env(safe-area-inset-top));
+    left: max(15px, env(safe-area-inset-left));
+    max-width: calc(100% - 225px);
+  }
+  .flock-total strong {
+    font-size: clamp(21px, 5.7vw, 35px);
+    letter-spacing: -0.5px;
+    -webkit-text-stroke-width: 0.7px;
+  }
+  .practice-stats {
+    max-width: calc(100% - 30px);
+  }
+  .flock-pieces {
+    gap: 4px;
+    margin-top: 4px;
+  }
+  .flock-pieces strong {
+    font-size: 24px;
+    -webkit-text-stroke-width: 0.7px;
+  }
+  .flock-pieces small {
+    font-size: 15px;
+  }
+  .flock-symbol {
+    width: 27px;
+    height: 24px;
+  }
+  #flock-notice {
+    font-size: 9px;
+  }
+  .game-prompts {
+    right: 14px;
+    bottom: max(17px, env(safe-area-inset-bottom));
+    font-size: 10px;
+  }
+  .game-prompts,
+  .game-prompts #game-hint {
+    gap: 12px;
+  }
+  .game-prompts #game-hint > span,
+  .game-prompts button {
+    gap: 4px;
+  }
+  .game-prompts .key-glyph {
+    height: 24px;
+    min-width: 22px;
+  }
+  #game-hud .connection-info {
+    right: 15px;
+    bottom: 49px;
+  }
+  .rescue-hint {
+    left: 15px;
+    bottom: 19px;
+    max-width: calc(100% - 105px);
+    font-size: 10px;
+  }
+}

@@ -1,0 +1,199 @@
+.control-prompt {
+  display: inline-flex;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+}
+.key-glyph {
+  height: 38px;
+  width: auto;
+  min-width: 34px;
+  filter: drop-shadow(0 2px 1px #1c39734d);
+}
+.console-footer .control-prompt {
+  margin-left: 8px;
+}
+.controls-panel {
+  position: absolute;
+  left: 130px;
+  right: 130px;
+  top: 155px;
+  bottom: 105px;
+  display: flex;
+  flex-direction: column;
+}
+.controls-toolbar {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.controls-toolbar button,
+.control-notice button,
+.controls-presets button,
+.controls-sync button {
+  padding: 10px 14px;
+  border: 2px solid #c0eced;
+  border-radius: 9px;
+  background: #2c78b873;
+  color: #fff;
+  font-family: inherit;
+  font-size: 15px;
+  cursor: pointer;
+}
+.controls-toolbar .triangle {
+  width: 12px;
+  height: 15px;
+  margin-left: 8px;
+}
+.controls-scroll {
+  overflow: auto;
+  flex: 1;
+  min-height: 90px;
+  padding: 8px 18px;
+  border-top: 2px solid #b0dde780;
+  border-bottom: 2px solid #b0dde780;
+  scrollbar-color: #bce8ed #246fb5;
+}
+.controls-presets {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-size: 16px;
+  color: #c2e9f1;
+}
+.controls-presets button {
+  font-size: 14px;
+  padding: 8px 12px;
+}
+.controls-sync {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #d4f6cc;
+  min-height: 30px;
+}
+.controls-sync button {
+  padding: 6px 10px;
+  font-size: 13px;
+}
+.control-notice:empty {
+  display: none;
+}
+.binding-row {
+  display: grid;
+  grid-template-columns: 1fr 160px 160px;
+  align-items: center;
+  gap: 20px;
+  padding: 10px 0;
+  border-bottom: 1px solid #bde6f040;
+}
+.binding-row > b,
+.binding-row > span > b {
+  font-size: 21px;
+  letter-spacing: 0.4px;
+}
+.binding-row small {
+  display: block;
+  font-size: 13px;
+  color: #c2e9f1;
+  margin-top: 4px;
+}
+.binding-row button {
+  min-height: 48px;
+  padding: 0 8px;
+  border: 0;
+  background: #1964a440;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #def3ef;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.binding-row button:focus-visible,
+.controls-toolbar button:focus-visible {
+  outline: 3px solid #bafb65;
+  outline-offset: 3px;
+}
+.binding-row button:disabled {
+  opacity: 0.45;
+  cursor: wait;
+}
+.binding-row button:hover {
+  background: #92d8ef32;
+}
+.empty-binding {
+  font-size: 28px;
+  color: #b4e8ee;
+}
+.control-notice {
+  min-height: 42px;
+  padding-top: 12px;
+  font-size: 17px;
+  color: #e8f8e6;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.help-content .control-prompt .key-glyph {
+  height: 28px;
+}
+.touch-left .touch-controls {
+  left: 24px;
+  right: auto;
+}
+@media (max-aspect-ratio: 3/4) {
+  .controls-panel {
+    left: 42px;
+    right: 42px;
+    top: 170px;
+    bottom: 118px;
+  }
+  .controls-toolbar {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+  .controls-toolbar button {
+    font-size: 20px;
+    padding: 14px;
+  }
+  .controls-scroll {
+    padding: 8px;
+  }
+  .controls-presets {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .controls-presets button,
+  .controls-sync {
+    font-size: 19px;
+  }
+  .binding-row {
+    grid-template-columns: 1fr 120px 120px;
+    gap: 8px;
+    padding: 16px 0;
+  }
+  .binding-row > span > b {
+    font-size: 24px;
+  }
+  .binding-row small {
+    font-size: 16px;
+  }
+  .binding-row .key-glyph {
+    height: 48px;
+  }
+  .control-notice {
+    font-size: 21px;
+    flex-wrap: wrap;
+  }
+  .touch-left .touch-controls {
+    left: 14px;
+    right: auto;
+  }
+}

@@ -1,0 +1,26 @@
+export const RESULT_TIMING = Object.freeze({
+  heading: [1983.333, 2216.667],
+  rawTime: [2666.667, 2716.667, 2800],
+  savedLabel: [3483.333, 3716.667],
+  savedCount: [4166.667, 4216.667, 4300],
+  chainLabel: [4983.333, 5216.667],
+  chainCount: [5666.667, 5716.667, 5800],
+  countPeak: 1.2,
+  bonusStart: 6466.667,
+  bonusColor: [6466.667, 6600],
+  deduction: [7300, 8133.333],
+  deductionStep: 166.667,
+  bonusEnd: 8300,
+  bonusWhite: [8300, 8466.667],
+  savedExit: [8700, 8966.667],
+  savedCountExit: [8700, 8783.333],
+  chainExit: [9033.333, 9283.333],
+  chainCountExit: [9033.333, 9116.667],
+  medalEntry: [9383.333, 9700, 9800, 9900],
+  record: [11650, 11933.333, 12016.667],
+  recordExit: [14033.333, 14100, 14416.667],
+  medalExit: [15200, 15300, 15733.333],
+  controls: [15733.333, 15750],
+} as const);
+
+export type ResultTiming = typeof RESULT_TIMING;

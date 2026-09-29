@@ -1,0 +1,32 @@
+name: Bug report
+description: Report a problem with the game.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: State what you expected and what the game did.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to repeat the problem
+      placeholder: |
+        1. Open...
+        2. Select...
+        3. The problem appears.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, device, and input
+      placeholder: Chrome on Windows, keyboard and mouse
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshot or error message
+      description: Add useful evidence. Remove passwords, cookies, and personal data.

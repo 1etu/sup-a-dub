@@ -1,0 +1,87 @@
+{
+  "id": "home-with-ducks",
+  "title": "Home With Ducks",
+  "bpm": 96,
+  "bars": 48,
+  "seconds": 120,
+  "frames": 3840000,
+  "sampleRate": 32000,
+  "channels": 2,
+  "notes": 1295,
+  "instruments": [
+    "pizzicato",
+    "strings",
+    "piano",
+    "bass",
+    "shaker",
+    "flute",
+    "marimba",
+    "kick",
+    "snare",
+    "glockenspiel",
+    "cymbal",
+    "tom"
+  ],
+  "originalPeak": 1.4866853654384613,
+  "gain": 0.5112043325830793,
+  "peak": 0.76,
+  "rms": 0.10929581261163411,
+  "sections": [
+    {
+      "name": "Welcome",
+      "startSeconds": 0,
+      "endSeconds": 20,
+      "rms": 0.08436856989907215
+    },
+    {
+      "name": "Safe at Last",
+      "startSeconds": 20,
+      "endSeconds": 40,
+      "rms": 0.1054819858454825
+    },
+    {
+      "name": "Remember the Journey",
+      "startSeconds": 40,
+      "endSeconds": 60,
+      "rms": 0.09375228802501377
+    },
+    {
+      "name": "Homecoming",
+      "startSeconds": 60,
+      "endSeconds": 100,
+      "rms": 0.13525082115177028
+    },
+    {
+      "name": "Goodnight Ducks",
+      "startSeconds": 100,
+      "endSeconds": 120,
+      "rms": 0.08974342451389918
+    }
+  ],
+  "stems": [
+    {
+      "layer": "melody",
+      "file": "masters/home-with-ducks-melody.wav",
+      "bytes": 15360044,
+      "sha256": "dd7567ed12396099256928468770888ef6a7c964db30384b763b78a98b2b9ea8"
+    },
+    {
+      "layer": "harmony",
+      "file": "masters/home-with-ducks-harmony.wav",
+      "bytes": 15360044,
+      "sha256": "05017a1dfc3de15c8433823c5446559e8b280b78624fc31bba742bb379efe3e9"
+    },
+    {
+      "layer": "bass",
+      "file": "masters/home-with-ducks-bass.wav",
+      "bytes": 15360044,
+      "sha256": "2178a74fa8d89e93361bed146a659d6d617934ee8ffaeba187c91766bf21d637"
+    },
+    {
+      "layer": "rhythm",
+      "file": "masters/home-with-ducks-rhythm.wav",
+      "bytes": 15360044,
+      "sha256": "5d25c7428659cfef2e7a645a38ae035605469ba62bc10b3c099e3d0b5755fab8"
+    }
+  ]
+}

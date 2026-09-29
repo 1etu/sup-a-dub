@@ -1,0 +1,17 @@
+export const MENU_TIMING = Object.freeze({
+  selectionMs: 150,
+  growStartMs: 400,
+  growPeakMs: 683.333,
+  rowsGoneMs: 1000,
+  confirmMs: 1450,
+  titleSettleMs: 650,
+  titleExitMs: 600,
+  entryPeakMs: 250,
+  entryBaseMs: 416.667,
+  entryArrowsMs: 466.667,
+  entrySelectedMs: 616.667,
+  entryStartScale: 0.06,
+  entryPeakScale: 1.21,
+  confirmPeakScale: 1.2,
+  selectedScale: 1.2,
+});

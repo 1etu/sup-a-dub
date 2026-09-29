@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest a change to the game.
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you want to do?
+      description: Describe the player need or the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed change
+      description: Describe how the game could meet that need.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference or example
+      description: Add a link or image if it helps explain the change.

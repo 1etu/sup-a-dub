@@ -1,0 +1,93 @@
+{
+  "id": "flock-frenzy",
+  "title": "Flock Frenzy",
+  "bpm": 144,
+  "bars": 64,
+  "seconds": 106.66666666666667,
+  "frames": 3413333,
+  "sampleRate": 32000,
+  "channels": 2,
+  "notes": 2196,
+  "instruments": [
+    "pizzicato",
+    "strings",
+    "piano",
+    "bass",
+    "kick",
+    "shaker",
+    "snare",
+    "marimba",
+    "cymbal",
+    "tom",
+    "flute",
+    "glockenspiel"
+  ],
+  "originalPeak": 2.0384251475334167,
+  "gain": 0.3728368446197954,
+  "peak": 0.76,
+  "rms": 0.10484186595631696,
+  "sections": [
+    {
+      "name": "Little Feet",
+      "startSeconds": 0,
+      "endSeconds": 13.33334375,
+      "rms": 0.08099422658532321
+    },
+    {
+      "name": "Gather",
+      "startSeconds": 13.33334375,
+      "endSeconds": 40,
+      "rms": 0.10807669398996053
+    },
+    {
+      "name": "Breathing Room",
+      "startSeconds": 40,
+      "endSeconds": 53.33334375,
+      "rms": 0.07785449492301308
+    },
+    {
+      "name": "All Together",
+      "startSeconds": 53.33334375,
+      "endSeconds": 80,
+      "rms": 0.12724060241987348
+    },
+    {
+      "name": "Victory Lap",
+      "startSeconds": 80,
+      "endSeconds": 93.33334375,
+      "rms": 0.11014740455748366
+    },
+    {
+      "name": "A Little Bow",
+      "startSeconds": 93.33334375,
+      "endSeconds": 106.66665625,
+      "rms": 0.08625089620711307
+    }
+  ],
+  "stems": [
+    {
+      "layer": "melody",
+      "file": "masters/flock-frenzy-melody.wav",
+      "bytes": 13653376,
+      "sha256": "95d526f672596f17c3b0e5320b6ab2370676b8cf788c00cc8cc5a1cc9aeb635d"
+    },
+    {
+      "layer": "harmony",
+      "file": "masters/flock-frenzy-harmony.wav",
+      "bytes": 13653376,
+      "sha256": "0a4195007a932db734191cec5ba2c6c906031cfbfce03a9c9c234c6d46231dd7"
+    },
+    {
+      "layer": "bass",
+      "file": "masters/flock-frenzy-bass.wav",
+      "bytes": 13653376,
+      "sha256": "a1a1520c56dc92af382dad9afac2e3b81d561917d0f27d8fefe71490718671eb"
+    },
+    {
+      "layer": "rhythm",
+      "file": "masters/flock-frenzy-rhythm.wav",
+      "bytes": 13653376,
+      "sha256": "fe502b69ef7a02907d45b984b1e8583c16969051946c17ba28179ac268fe1105"
+    }
+  ]
+}

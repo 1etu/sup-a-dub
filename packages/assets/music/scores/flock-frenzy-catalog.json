@@ -1,0 +1,2250 @@
+{
+  "id": "flock-frenzy",
+  "title": "Flock Frenzy",
+  "bpm": 144,
+  "beatsPerBar": 4,
+  "barsPerChunk": 4,
+  "seconds": 106.66666666666667,
+  "chunks": [
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-melody-normal.opus",
+              "sha256": "cf5c8292606bc29164eb2efdf9b0da4699a17b2abbeff73d94712f68a38052ff",
+              "bytes": 66719,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-melody-normal.m4a",
+              "sha256": "536e2f12afda0ccbdca2d9b682db014bf512d0c38b0ab47eb35fca2921ec51a0",
+              "bytes": 48220,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-melody-low.opus",
+              "sha256": "15ea9d8d9c9fd77da8b9dcf7dfa20c0762dc14e517a477c30f359eb9fb5bc4a0",
+              "bytes": 41955,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-melody-low.m4a",
+              "sha256": "71fc0a9149a93690be3fd8dbacfda992329d1af9f83609dc9baae903e03c2e2f",
+              "bytes": 29985,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-harmony-normal.opus",
+              "sha256": "9bb70e29df54e718d455fed4e71488dca324d4f5f0887eadcb8e0ffaa2e945ca",
+              "bytes": 71203,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-harmony-normal.m4a",
+              "sha256": "6b7ad280055845200362f74aca753c5d3c6581b7d0e1929e5c9802aa8bc5dded",
+              "bytes": 72533,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-harmony-low.opus",
+              "sha256": "257937e15df1adeb6cec2c577763f8dc3991c8843994161752c7b0ef71ad525c",
+              "bytes": 41631,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-harmony-low.m4a",
+              "sha256": "1cce4c74c535f8046fb91f18445340fb2d90e65384d8f7d3affc91a22b62d12f",
+              "bytes": 44500,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-bass-normal.opus",
+              "sha256": "fbbe9a9dba21c71abf95ff7ed82b2320bd1b150fdf69aa785b66a740b81d2b61",
+              "bytes": 48270,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-bass-normal.m4a",
+              "sha256": "ae72c2dcab53840ae1044245470899a9c132200a179578ad851e1663dc808812",
+              "bytes": 72508,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-bass-low.opus",
+              "sha256": "af2c829dc2a76168c780af2ebc7d8d3cc8baac52e28b18f8158ac5aefc0d01dc",
+              "bytes": 34107,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-bass-low.m4a",
+              "sha256": "e05fcca1e563b08cda8f66ffeee29475f2c807e750707072bbeab5f4445dc14f",
+              "bytes": 44516,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-rhythm-normal.opus",
+              "sha256": "1fc4db7d66922aa34550bdc0857dc608ea95fd0075ff6b9406d40c4c5895b2ef",
+              "bytes": 50986,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-rhythm-normal.m4a",
+              "sha256": "9ccc865ac73404266754ce7bc70cf5641baa03eb43f1b61c2a20c711e688024e",
+              "bytes": 78992,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-00-rhythm-low.opus",
+              "sha256": "fb14545126f5b8d2df4c4e355502ae8c22e9a1353c2b95db03383808102804fc",
+              "bytes": 34037,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-00-rhythm-low.m4a",
+              "sha256": "f6133ddde38ce84e3871a6ffee830124add21751c111d748b9c8bf2bd0e31909",
+              "bytes": 44620,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-melody-normal.opus",
+              "sha256": "ed33845dcaebccfad176a8e992ef92f9726225f26dd19e9a072ff29a6a19026a",
+              "bytes": 110107,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-melody-normal.m4a",
+              "sha256": "6837ba40e72e7c4af00442987ac30ff079a38abe6fa915d06bbfab91190939f4",
+              "bytes": 72451,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-melody-low.opus",
+              "sha256": "6aed1780665bb0f6c28ac8431e08a2dbe7780627a781537073abbcee8e3405a6",
+              "bytes": 65661,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-melody-low.m4a",
+              "sha256": "7919985fe2a1ba6102bc9df96aad869915a33afd2c2fb595b12c36775cb6c3ae",
+              "bytes": 44466,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-harmony-normal.opus",
+              "sha256": "5dac8b8845682a5ba28223cb1417d1ec5211b12f3df483cda2b950f98b759ebb",
+              "bytes": 71358,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-harmony-normal.m4a",
+              "sha256": "a8dc1b24cb91bfaba7bcafd5b82ba80f91786a1918a517dcd0dbbc3fd7446c5d",
+              "bytes": 72473,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-harmony-low.opus",
+              "sha256": "ce9b975fe72659b63775ae74cf92981e8c002987d2631e0e4935d19e46172292",
+              "bytes": 41676,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-harmony-low.m4a",
+              "sha256": "5c7d9b4249644ee04f547649fe6bf5bc4b6ac2031835dbc24d816205814f7512",
+              "bytes": 44542,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-bass-normal.opus",
+              "sha256": "f29d27a00cabb9e725bfc49187dfa06ff62d27f0e2dfe9132a1ca85295702cbe",
+              "bytes": 48273,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-bass-normal.m4a",
+              "sha256": "147c060c3c101c006f7404127b0198475541dfe29ba4759dc5acc009cb43b73a",
+              "bytes": 72654,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-bass-low.opus",
+              "sha256": "f8a403c9f8bb947a488dcdcea101fab61514a6d2f32ae1b74e9081d50aeda95e",
+              "bytes": 34103,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-bass-low.m4a",
+              "sha256": "920f1de44be7c9b70d28a06872c1e668a9f45718a26eb57b783348a7e47e2607",
+              "bytes": 44529,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-rhythm-normal.opus",
+              "sha256": "8b0a55264eb1b2974fafb6b76b3b8eda9b47117e112b95da34092d8cd8d0ad35",
+              "bytes": 50881,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-rhythm-normal.m4a",
+              "sha256": "eed506d5754fd9f223c4d07bd8449694aa6307ba4c21c0cd09f30503aa160e35",
+              "bytes": 78923,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-01-rhythm-low.opus",
+              "sha256": "26d956ca948da6b999783da9c07d3e9f9dff9bf098b40105320ff6ada8d23a6b",
+              "bytes": 34259,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-01-rhythm-low.m4a",
+              "sha256": "3143dea62744f5fd82566fb43b83634d2bf406f742e2f9a1b0ca4963ea0ff2fe",
+              "bytes": 44587,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-melody-normal.opus",
+              "sha256": "e2890c4fd89b7827e77429acc890b41ef893e0f40a7a64396ee7805f2126b43f",
+              "bytes": 80128,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-melody-normal.m4a",
+              "sha256": "e7c56196f4a5918f4f17668bef309ef4f3f2e83e23e5146f878ca63f74f56fe6",
+              "bytes": 72373,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-melody-low.opus",
+              "sha256": "b392577e3b2f679781bf7cfa0cd7a08e45c5af76742c6a16d99e9f789443ff6e",
+              "bytes": 52267,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-melody-low.m4a",
+              "sha256": "f3497ae2c43b7ec7fdf175fe84a94e924eb926d6e53a44572113462f70e4e37f",
+              "bytes": 44534,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-harmony-normal.opus",
+              "sha256": "a5974f551d039a362a293c3fc3ab44a7e8942e631b59d6723463f0f8fa2fd515",
+              "bytes": 76491,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-harmony-normal.m4a",
+              "sha256": "81b130c3ded04a28bdb077331fbd55fa9a69f5523656789b6fc61e096331d3e3",
+              "bytes": 72496,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-harmony-low.opus",
+              "sha256": "e94e02a2c5b3e742c98ebe6ab88575b316d845fc85872dbece985dedc6524ab8",
+              "bytes": 47801,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-harmony-low.m4a",
+              "sha256": "f52aa3a1a5d348d74635dd6940a6cbe3150b388f34c76507209b191d0cf6d192",
+              "bytes": 44444,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-bass-normal.opus",
+              "sha256": "aa61b8e323d8a7e06d71de316cc05bbe0b27d387985c8e83230a501ae51f53a9",
+              "bytes": 51651,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-bass-normal.m4a",
+              "sha256": "68390f9284ec6d4f8297397ced692f21f51621bb0e24b14d15762fe66e9749ef",
+              "bytes": 72534,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-bass-low.opus",
+              "sha256": "590e9090c85b560789b455c3878a9d817226322f334fbb664c4746b0d537c154",
+              "bytes": 36109,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-bass-low.m4a",
+              "sha256": "7dc4a3236b41a413e1cf727c454d05200a77d76197d6301a432adbd6d7bcff44",
+              "bytes": 44539,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-rhythm-normal.opus",
+              "sha256": "6de5248cf2ddb55a902fc5dbc9ccf291c91f62db467da5dc13c7c4a725c528f1",
+              "bytes": 49268,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-rhythm-normal.m4a",
+              "sha256": "273654077afb7fd8ebc83cb12ce371eeef4c72c78ce29c9808eb48e4c5a6abe2",
+              "bytes": 77891,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-02-rhythm-low.opus",
+              "sha256": "6dfb0775579133c8692d886f635a96a33d26650dcfca5df2ee072166bd924797",
+              "bytes": 33685,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-02-rhythm-low.m4a",
+              "sha256": "b2ceeb8308eb7d5834e117cf0654d49cf3f4da124afc9980f06569f39118e281",
+              "bytes": 44572,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-melody-normal.opus",
+              "sha256": "5d5abc261b0770a7c6d261dcd1f7efd1292affef1a074f6f5d5ba326a00d9bb4",
+              "bytes": 80234,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-melody-normal.m4a",
+              "sha256": "bd5813f74b681807677f2de5d03f7861bf266c36af66957bc3b7fb32acbf2aa2",
+              "bytes": 72324,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-melody-low.opus",
+              "sha256": "867edf523ff828452f0bc877f5654a76c3cc30dccf08baf8269d30b50bd8f9d6",
+              "bytes": 52324,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-melody-low.m4a",
+              "sha256": "4cc93c13e87d6a241c94f87b5c10fb0e41844ed51a6b3144267de78f22a1f610",
+              "bytes": 44502,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-harmony-normal.opus",
+              "sha256": "6afeb22124c0708949eb20ea870cfd3607aab56f6a87a379dc1581a19804aa54",
+              "bytes": 73219,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-harmony-normal.m4a",
+              "sha256": "60502e1d712d912ce46d8a8ba726a414d15083636b2e73f461a14a3ad8c3727e",
+              "bytes": 72479,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-harmony-low.opus",
+              "sha256": "5e7ba1552d7f18dee701d48d61023298685af55e418218124b9feefd25952ef1",
+              "bytes": 46263,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-harmony-low.m4a",
+              "sha256": "1443b262dfbd04b489c1ebe4091933194ca34653458cd03945c9619b9abf867d",
+              "bytes": 44467,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-bass-normal.opus",
+              "sha256": "0c9d5c4876aa14da6bb8ae36cea0c9a5ff1eb32fc744383953d46e576e92f1a8",
+              "bytes": 51442,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-bass-normal.m4a",
+              "sha256": "0fd076c80c2d2aab4ac8f2d47b4d4e8cd01e4799c7036a0bf9bfcc21e5948fe1",
+              "bytes": 72590,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-bass-low.opus",
+              "sha256": "bebd4ecf200a7dfba95e8a43273d9e452b1b9647fa23610b9d1c6972be2012a0",
+              "bytes": 35982,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-bass-low.m4a",
+              "sha256": "f5ca94c4db389438a7a0c690087616e30a751a90373b9a7bfc5de8c5c2f5073e",
+              "bytes": 44584,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-rhythm-normal.opus",
+              "sha256": "a624d43ad6aa239ccd807926ec051dcd05f84b6740cc14a032af33d6ece70577",
+              "bytes": 52287,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-rhythm-normal.m4a",
+              "sha256": "55924faed7a3a32f3a0c8ba37fea3e2ccd8ad7d53d73b5deaa5f6d149e71714d",
+              "bytes": 78663,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-03-rhythm-low.opus",
+              "sha256": "9159120bfff33f36285669f270e4cea94f2350398adf48cc8f4c21e80baf2faa",
+              "bytes": 35198,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-03-rhythm-low.m4a",
+              "sha256": "90e7b3da192ae8f06d1742aa056d437f69af6fef154fe2db3612e2cf900e3db2",
+              "bytes": 44628,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-melody-normal.opus",
+              "sha256": "22b3eb9801de5859512d75d2ad3181d42e50fe27ccb46955ce6e97a24c623657",
+              "bytes": 80898,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-melody-normal.m4a",
+              "sha256": "bef9bc8e7db441f0dc4a3eec4276b6e42b09a7cbb743ee9dab512ea5ac306ae0",
+              "bytes": 72313,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-melody-low.opus",
+              "sha256": "0858ef494e67e6fab64e575a78cdf365a009e616f56790321e5720f320843309",
+              "bytes": 52929,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-melody-low.m4a",
+              "sha256": "a6de5fe9d889637af4f3079eb6a98ec8648a77f2c27149100480927671368f03",
+              "bytes": 44521,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-harmony-normal.opus",
+              "sha256": "019094a1ddd1fef1e5440a580cd43105c4f0b5215f22280b2d511606ea108118",
+              "bytes": 73226,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-harmony-normal.m4a",
+              "sha256": "d118e25b71421ff31e370d1e074f8004adfe97d1b5f5ce496eefa08e420f5b0f",
+              "bytes": 72480,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-harmony-low.opus",
+              "sha256": "141979070dc8e4b0b7c523ea1099c528fe75da62a3c01d54f6669a64e4cd8445",
+              "bytes": 46194,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-harmony-low.m4a",
+              "sha256": "e67437d3374c497951f7352e31db01800bcac91160ae483062285ea50615eced",
+              "bytes": 44458,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-bass-normal.opus",
+              "sha256": "050b8238e855280a845cdb10989fdc69ff105cec6067f88f9fc80682e57c69a2",
+              "bytes": 51581,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-bass-normal.m4a",
+              "sha256": "ddbc68bb940647d0e10fca8bf3e9f706a5f1bab0146619c3f3aa0331b7919d8c",
+              "bytes": 72664,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-bass-low.opus",
+              "sha256": "65d298722db3b1abafd55b216ad19d19a5e1fab3c1b1a7dbb763311da6886e32",
+              "bytes": 36061,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-bass-low.m4a",
+              "sha256": "4dc82b91431d14d41ed1f5e0ca1c2dffec80ec0f47b0090c0824666058c03ef5",
+              "bytes": 44556,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-rhythm-normal.opus",
+              "sha256": "d9032e28508ba04d9a982793de4f1d71d095a5dc9d5e70cfd1539efdc5097a47",
+              "bytes": 49425,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-rhythm-normal.m4a",
+              "sha256": "2761381cfa74ce83558f8f095f7e9e7db6e1cfb0c2960a05b6b98df3ddafb29f",
+              "bytes": 78301,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-04-rhythm-low.opus",
+              "sha256": "a9965f2d2d4172edcbc63dd57f0ea614cd74adad550c53ac48c933969974e720",
+              "bytes": 33692,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-04-rhythm-low.m4a",
+              "sha256": "ecb6151990a5ff98540512e3fd8414e9213133316a933e287ee7ec5cdcee51dd",
+              "bytes": 44619,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-melody-normal.opus",
+              "sha256": "1c0cf0f007b5bda35d89af1aa9dfb7870bbc97089048c5d5af8b0531c3a6eb11",
+              "bytes": 85722,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-melody-normal.m4a",
+              "sha256": "ddcc92636a9e4e6048583e241011bd255c991b49abed4842f282690a3cb13622",
+              "bytes": 72223,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-melody-low.opus",
+              "sha256": "30f3b74f1e9663955c986bab99660fd52c2d0f9ae23ef1fdfdeea232e5200cb7",
+              "bytes": 55131,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-melody-low.m4a",
+              "sha256": "ef03bee27b389f8245e92322c069f08c2154a1d8e7c4be8709aa9686dc661537",
+              "bytes": 44407,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-harmony-normal.opus",
+              "sha256": "317d59b815b50997d903f1f3cb76cd02e52b0cd0185cb3e2ba669ca70f80d0d7",
+              "bytes": 72939,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-harmony-normal.m4a",
+              "sha256": "cc22eee0964a686104cbc3a5c6c543fba31dd41bab2e8268793380398a6699b2",
+              "bytes": 72365,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-harmony-low.opus",
+              "sha256": "a1630c95fe968b84f783636f202425cc5de7a14ed714cab292096c38316215ab",
+              "bytes": 46311,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-harmony-low.m4a",
+              "sha256": "3bd0bdedb7a309d858a5831d5a3136952b91181034c584da0eaaaba2270e5a87",
+              "bytes": 44496,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-bass-normal.opus",
+              "sha256": "87073ab21f277777cc654c61664f72a2c39df26ba3d43120bedfa3838899598d",
+              "bytes": 51249,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-bass-normal.m4a",
+              "sha256": "367edc1c8d3f84bb61979810b921c8847f8497b5728ccbc5f2d9aaa79f00d97b",
+              "bytes": 72638,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-bass-low.opus",
+              "sha256": "4c662013d3371752db0661f5aeaa8774134d2ff45f8154767c8cb55da6ea0b53",
+              "bytes": 35808,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-bass-low.m4a",
+              "sha256": "4e49b04157ffcb87a09a9fbad02ea9fb0f35628a2100a18b536600c5c97e2106",
+              "bytes": 44609,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-rhythm-normal.opus",
+              "sha256": "e687ff355e5cb23b8d3dbcf5b2ea112f6bb70475689f6fb0f5d7fae4ad7c8d7e",
+              "bytes": 52509,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-rhythm-normal.m4a",
+              "sha256": "112f5228a732b7837e6f58f60676e19d5b53711b05c10d977c9eace8f34e8257",
+              "bytes": 78086,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-05-rhythm-low.opus",
+              "sha256": "6b7d1270a531972f3bbac11f3321f2745c79b68539711913e0bdffad74c9ec93",
+              "bytes": 35010,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-05-rhythm-low.m4a",
+              "sha256": "8b158d394a13655f6ddd64c9b2386db243eee3a3a0849c5e2327040ff33966a0",
+              "bytes": 44692,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-melody-normal.opus",
+              "sha256": "6a5b56e0acf25ad209353a41153c3b965f7b90e208bdf684c60636b185514af4",
+              "bytes": 76019,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-melody-normal.m4a",
+              "sha256": "d0c9a42de95967459652853873c1b3e5b78413743b70c52877c4e9bc6e3b2f75",
+              "bytes": 72212,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-melody-low.opus",
+              "sha256": "ede44951e80a38884285d3d6f1de20afeb99a3c07b6120aa6d60fe9424f62077",
+              "bytes": 49610,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-melody-low.m4a",
+              "sha256": "2075e72d4726ae49c2a5276da44e9ca80f2e26c4cf912aa7bd5ef497776b735b",
+              "bytes": 44522,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-harmony-normal.opus",
+              "sha256": "8590f7434e3f3988b3ecf442b49898a59657226cc4d1f21ec48414bc607a7dab",
+              "bytes": 71148,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-harmony-normal.m4a",
+              "sha256": "3c347a50ea612496c880ff7dd6987710e6791a4416609819db1e25b38484bfda",
+              "bytes": 72339,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-harmony-low.opus",
+              "sha256": "f99777dfa6765cd0550644ceb1cff02157ec481858d682753f35da034fe63df3",
+              "bytes": 42001,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-harmony-low.m4a",
+              "sha256": "ffd87bbc620702f2b301e10358c10f2eb8e41438b9d0f0ed88968b2b342d38c8",
+              "bytes": 44476,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-bass-normal.opus",
+              "sha256": "fe2e767f51b07781ac2b5fbd2611b6a668b27da451058b31107566ea3a4143b6",
+              "bytes": 48215,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-bass-normal.m4a",
+              "sha256": "c8e88545354e0b0744fa1507163b3a85d9fe872fea6161f3ecdb99d9a708a478",
+              "bytes": 72685,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-bass-low.opus",
+              "sha256": "c8b2fe7d544decb32f5f89c1da08f68130709c7367296b0180daefecd98dcfe4",
+              "bytes": 34074,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-bass-low.m4a",
+              "sha256": "8e088d672c2570335ec32b4a060a59d2528bb46bed8ff28beb76bc79e4fb2e0e",
+              "bytes": 44593,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-rhythm-normal.opus",
+              "sha256": "0c059ab6da379171644515f64128962368b587eeb74016b2aaab6cff6783a831",
+              "bytes": 46439,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-rhythm-normal.m4a",
+              "sha256": "2d074aefd903aa18c6a34f5802d3786cd254427548cdcf0a90795bb955f617b2",
+              "bytes": 73008,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-06-rhythm-low.opus",
+              "sha256": "06eb58527f9beea059607dd54b8ad4cdf5f08d7d3ef71a027f5abf5f366a0c62",
+              "bytes": 27105,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-06-rhythm-low.m4a",
+              "sha256": "1444283bfd7a1261567b63c1f88fd6891a60db507967a90dd8acb9ac2de5d558",
+              "bytes": 41824,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-melody-normal.opus",
+              "sha256": "152353bcd77042d3c31915339c0b73f886645cafabf512a4b73bbab11dcd49d4",
+              "bytes": 77905,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-melody-normal.m4a",
+              "sha256": "f337a9cb7fcc366ce4cf1a09a00b6190bab75d609846197dcfdc09fa8a9657c8",
+              "bytes": 72613,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-melody-low.opus",
+              "sha256": "cea7964b97335f144ebefdd54380a0d15b3e744cffed67865cc8117ee2e767cf",
+              "bytes": 50427,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-melody-low.m4a",
+              "sha256": "7c58a9513d2909d2aeb8cd280ba3ce62b70b7e0e4681153812331b2099715ae9",
+              "bytes": 44549,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-harmony-normal.opus",
+              "sha256": "50564866632781e749af08cb1b9ea77bbf5001e42da8716ebda9bd58cc737da5",
+              "bytes": 70896,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-harmony-normal.m4a",
+              "sha256": "338ed7d4d89128dbfaa22b219a3e337c6a168dd3e4cd792791ec521dffe91d83",
+              "bytes": 72495,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-harmony-low.opus",
+              "sha256": "ca5756536ae7852bd4496e35a9271a4ca9780d39da959c50f268b0aeea29f1bd",
+              "bytes": 42274,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-harmony-low.m4a",
+              "sha256": "1356e95ee7ae8212ae5a94dd06f8a0979a4d6bfeaad55b14847d66def7c44af1",
+              "bytes": 44483,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-bass-normal.opus",
+              "sha256": "32f6dc0bb041933ba110f4544adb0c13706893a76e64df2075269d64d18e9b6e",
+              "bytes": 48475,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-bass-normal.m4a",
+              "sha256": "9905db6cfe1521e76a138a453d79da6044d15eb95a99c3e1ab72018d16273927",
+              "bytes": 72669,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-bass-low.opus",
+              "sha256": "0ea9be293e38646d991ce436ff49d7597c8c249ff65b43b8d3841dfdd937988d",
+              "bytes": 34240,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-bass-low.m4a",
+              "sha256": "2bab25001de15133fd6879acea79b184f3eefc98ea5ac22057615f46a4e61831",
+              "bytes": 44693,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-rhythm-normal.opus",
+              "sha256": "253afa130f17a503ca161c269da25f44173cc5ff08771a13aafc15f64c57ffe6",
+              "bytes": 50695,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-rhythm-normal.m4a",
+              "sha256": "2624024dc12e42858078c991153b411f09e8273c71a51404554c333100b1a08f",
+              "bytes": 78705,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-07-rhythm-low.opus",
+              "sha256": "4a7e64e3cb17fa8cb873197a2632074ecec683c40170b5a249014111d1a117cd",
+              "bytes": 34180,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-07-rhythm-low.m4a",
+              "sha256": "e5d2450b85ec6abe29e4c5f26c7ea8e84ec21f4ff181d4eddabac4cb3f1f0bbd",
+              "bytes": 44586,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-melody-normal.opus",
+              "sha256": "4a2bbff870fc1522d75eba8c65ab5a250c7e04097d76f9fa3d3827e23b0f5438",
+              "bytes": 87619,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-melody-normal.m4a",
+              "sha256": "d1719344c6e7cbff399b60aeef66ad751ada4cdb3deba4b782220a2fb7b62849",
+              "bytes": 72360,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-melody-low.opus",
+              "sha256": "aca1ac4abd899189fd40dee0b67f0b4118efe4770b3e814479490934465b40e9",
+              "bytes": 55715,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-melody-low.m4a",
+              "sha256": "c87ece1d6e7a305faf5349c9d813e485c43412964c5f050da91916343efaaef3",
+              "bytes": 44512,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-harmony-normal.opus",
+              "sha256": "8944770a796549ab00c55f6d43ee1b4f06c961d799f3bd19cdd82c99a7a7451e",
+              "bytes": 72574,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-harmony-normal.m4a",
+              "sha256": "c2aba43f580d7a8abd27c3cfdf230a8bdc8efa399deb330814ab95aeb789b464",
+              "bytes": 72474,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-harmony-low.opus",
+              "sha256": "52c7f1f5c7f773292160bfc4aa8bb29c781cc265f195dbf61ee3aa29a309abf8",
+              "bytes": 46489,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-harmony-low.m4a",
+              "sha256": "c3d5659a02c00f06cd01ce5b731ee716be460194f52a7e7cd4feb91b1f6deba0",
+              "bytes": 44489,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-bass-normal.opus",
+              "sha256": "3fbfa486f5237fded5f3fee324b13e5d4c39e79dfc95732165fd1e89b12a98ee",
+              "bytes": 51801,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-bass-normal.m4a",
+              "sha256": "14e437f0c0105f5e682758ab2577ab4e67725206272668547e728d7c89757e92",
+              "bytes": 72616,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-bass-low.opus",
+              "sha256": "fc333b52c15eba3c5d307edf51e557e75f4afe9308c3f837bfe35dacf190e62e",
+              "bytes": 36206,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-bass-low.m4a",
+              "sha256": "bc391bd597989df5835f0edeb5ff977d09a2e00395b86468beeee6f57a3284d3",
+              "bytes": 44546,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-rhythm-normal.opus",
+              "sha256": "67811ac56f52da1c2cf507175eebc414782436827a2ca7f21643b5772da3d46c",
+              "bytes": 49338,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-rhythm-normal.m4a",
+              "sha256": "b1a815af6eb4e481812c545ba2fea00e699f8302e331c245cb8c1ad3fd44df0e",
+              "bytes": 76569,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-08-rhythm-low.opus",
+              "sha256": "846db2610f01fdb9a1312a0e1d6eb59c43e523be0c6f41fbbe852881934f2f50",
+              "bytes": 34038,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-08-rhythm-low.m4a",
+              "sha256": "6b655000bb474fedf1907bc6b21ee30b8c9ae94dd9f752578bc14e13da7a8fad",
+              "bytes": 44685,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-melody-normal.opus",
+              "sha256": "419a77dede77abd4bee57f05ad6249f15b20df4ad9d48ea1e2df1393992f1dc4",
+              "bytes": 87447,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-melody-normal.m4a",
+              "sha256": "91ace7fa7de512e58b93dc5b22a21afef82d91678b6857ca0fdbe2abacbecee9",
+              "bytes": 72366,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-melody-low.opus",
+              "sha256": "5cce0dd43c1ca5df5e63c24f4ef7738e29c66871994118a2a96b934e98917b8b",
+              "bytes": 55582,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-melody-low.m4a",
+              "sha256": "8d953bfc76b20b849dfc4f0362585fa67220f662ed6710a8c2f6879689cfe8c0",
+              "bytes": 44519,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-harmony-normal.opus",
+              "sha256": "8bca197d6b8ba3e45a1f2d52e7e2e38b765efa8ae74f73400b8d954a50a1c438",
+              "bytes": 72890,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-harmony-normal.m4a",
+              "sha256": "f02c5682a60bf9c47edd69245c685e7be05fd565d05e3ff1655b7892858f32c2",
+              "bytes": 72459,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-harmony-low.opus",
+              "sha256": "c0f0f8d9f75fa2d6bbcad5cb88753fea6d337ae4932df6237c9866eb82f910fe",
+              "bytes": 46618,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-harmony-low.m4a",
+              "sha256": "27542a263c9d2df6ce67833e9b294ae8eca120246d483ad2a4d002d8cd206e90",
+              "bytes": 44503,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-bass-normal.opus",
+              "sha256": "bfc05b18776b0dbe9709cef1cbf245e5df78f299c47e1d6715ff1a1372701d42",
+              "bytes": 51685,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-bass-normal.m4a",
+              "sha256": "9a8ae353b2539f7b748e1bb8bd7bc44e88faff8664b81c0beceaf81a4712ac8c",
+              "bytes": 72718,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-bass-low.opus",
+              "sha256": "b27b15258dccf48fefad69f8c53add0ffd35fee95f9368fe5fc83ed93dfb2a0e",
+              "bytes": 36058,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-bass-low.m4a",
+              "sha256": "9a0dfc94e4477ecddadbd16b2fcf039caf463585032183d79b36dd227279f99c",
+              "bytes": 44574,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-rhythm-normal.opus",
+              "sha256": "5e381efedaafe8e1cfaa639803b2734a2462676b7cfb36e8ded066d56a90b565",
+              "bytes": 51483,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-rhythm-normal.m4a",
+              "sha256": "b7edee774d566b4b1cf18e4136a0f7608ecdb4bf7e15f7f8a7a6fcbe8698b2ae",
+              "bytes": 77240,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-09-rhythm-low.opus",
+              "sha256": "1e83ddbc6311598cc9eb544330634cc9d1a263bba2acf2a44beb5956336b6f4b",
+              "bytes": 35105,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-09-rhythm-low.m4a",
+              "sha256": "db72212b565734d87ef935dc08e16e9560f9cf213fd5b8b52917f8a972b16214",
+              "bytes": 44662,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-melody-normal.opus",
+              "sha256": "4c9db8e88df51349da3078cb2716a54ebefb38e840266604bfad8cacb96e3629",
+              "bytes": 87480,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-melody-normal.m4a",
+              "sha256": "bc29683da3219201a9037325092c91399f8d40cb903dcdf07c6512e8b5709d33",
+              "bytes": 72341,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-melody-low.opus",
+              "sha256": "ca99fc096e042bc74e30ea5aee2c3dc35f9a035a6b7bbf82c93d49e9e1f96a5a",
+              "bytes": 55584,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-melody-low.m4a",
+              "sha256": "cce10fd0ce9eadd46e96f8e5e3a973a10bf78234fd5f321e5c26613556ace4b4",
+              "bytes": 44500,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-harmony-normal.opus",
+              "sha256": "bb81c3a17f87bd4d3eff330996ceb9787e80a288dd205b5110fb3e3b599d6785",
+              "bytes": 72867,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-harmony-normal.m4a",
+              "sha256": "685c980a37d048904d7d70076faeaf83110245bedb87e7106bed1634b4a7e93d",
+              "bytes": 72455,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-harmony-low.opus",
+              "sha256": "e857b8599bd91a48fa049935754707f67b1721b41b3f7d5b1d74ac562e7deca8",
+              "bytes": 46869,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-harmony-low.m4a",
+              "sha256": "647f166791a6e964fd1c1df7cbd4e5428b7931c14fafdbf49326463b011ef3e2",
+              "bytes": 44477,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-bass-normal.opus",
+              "sha256": "e331e645f6e474780d98da1bce9ac115e50f3482fb81826e3b1049fca5d5ac74",
+              "bytes": 51707,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-bass-normal.m4a",
+              "sha256": "32b2945d24465f87cb103d31f6aac16bcb6451786f91ee9f243a408e907079d6",
+              "bytes": 72703,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-bass-low.opus",
+              "sha256": "8b2eed2d3a42a2f5e23bbb74394209ce8d1f6ba5e840fcd4ab00a56b3d0e082e",
+              "bytes": 36066,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-bass-low.m4a",
+              "sha256": "6def0f92b761ef71ffdf287d8598c174686919272a116f464c94195d8a99868f",
+              "bytes": 44358,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-rhythm-normal.opus",
+              "sha256": "de9f95196a49918680958d51a5250f08627f15c06a103577fa554d98fa48927f",
+              "bytes": 49348,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-rhythm-normal.m4a",
+              "sha256": "6dbd4c956e76b76e9142e527059261c5e66a88f776f31f1ffbf7b2edfd512262",
+              "bytes": 76402,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-10-rhythm-low.opus",
+              "sha256": "a2acc2e791114fc88205681dbbdb831eb4194a4dc90535a2adcf1ae72f16258b",
+              "bytes": 34359,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-10-rhythm-low.m4a",
+              "sha256": "84019df08f96f9bca7c3c813368678ea1d1a102b7a2262fa26e1a1f75e3a4678",
+              "bytes": 44665,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-melody-normal.opus",
+              "sha256": "a4663d8256db241dbbc3c99118190d55e73d487f9cfc0f3014dd77a3f75667df",
+              "bytes": 90286,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-melody-normal.m4a",
+              "sha256": "924bb88247acaa2b7ecd4b80ebad8ef3a8b44d0d73999e90567d9af01debd57b",
+              "bytes": 72385,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-melody-low.opus",
+              "sha256": "9112dc564510b695881a16a8d37628e2362d8120fa8c1dbde2b109e525168588",
+              "bytes": 57005,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-melody-low.m4a",
+              "sha256": "435aaa2d0e827194ebfd721ef0c7cb5879caf2dbf6d22d0a3d64aaaa9139d288",
+              "bytes": 44527,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-harmony-normal.opus",
+              "sha256": "97fe0f9c8e1617303b9c20faac8c67ee1a49eb06b6863130db88db895d6d2d77",
+              "bytes": 72394,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-harmony-normal.m4a",
+              "sha256": "464d808b9d68ce0fd9c2e4899c9eaa562fa83b843c35c37578bb4ec42b8baa66",
+              "bytes": 72422,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-harmony-low.opus",
+              "sha256": "d1dcd7fe4f8a67201ff3cf8182a9fe4c5a2aeb3f75335a8f6a713410f40fdbf2",
+              "bytes": 46269,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-harmony-low.m4a",
+              "sha256": "32f55c0a847e63c4bb360f624743a857cd2fdb874ce4a5371fc13c7ba2ada72f",
+              "bytes": 44466,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-bass-normal.opus",
+              "sha256": "3fe7ffed7280036972fadef5668ed0e04b948b44d6a50316603c065c94c02876",
+              "bytes": 51828,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-bass-normal.m4a",
+              "sha256": "35b18b81af17be987761f71d75d651040fe320a4abaee35a44fccd6ed476d7cc",
+              "bytes": 72710,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-bass-low.opus",
+              "sha256": "7cc7552a161c6d4767966ef33dfbd5274a20040e1848acd4b0d261dc21d1db00",
+              "bytes": 36139,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-bass-low.m4a",
+              "sha256": "755e96c70d7b190a00f5fc218dcfa568022767bf34acaeb053ff05e6d1b78e87",
+              "bytes": 44230,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-rhythm-normal.opus",
+              "sha256": "d2f37dee1015b2ec7970ae6b650aa6ba15328a105a3ab5a3737acf02aeb6e01e",
+              "bytes": 51500,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-rhythm-normal.m4a",
+              "sha256": "0ff7adda490de5197230ab0783a8f85b5263e450156d0698728f65fe635d7807",
+              "bytes": 77843,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-11-rhythm-low.opus",
+              "sha256": "35833331bfae3ef39dc4077d9560c0fcc2caee693a52fd209ab39ce564eaf5a3",
+              "bytes": 35054,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-11-rhythm-low.m4a",
+              "sha256": "13975356c609516b1ac87ea69e10c7db9b54e1b8b85c73e589f268f6868d50b7",
+              "bytes": 44611,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-melody-normal.opus",
+              "sha256": "8c8a6601cf60c8cd8f4af0b22e3e1a168188de36b40f593fbf36fee8792d64f9",
+              "bytes": 108723,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-melody-normal.m4a",
+              "sha256": "c527aa5e73784aa493268f4863f72167be7db50b36629e763c4f3a75074bc85c",
+              "bytes": 72375,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-melody-low.opus",
+              "sha256": "bbb1a139806103cc4b09c8d9031b7331d9f6fd823c1695f8b2481838830d3c39",
+              "bytes": 65339,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-melody-low.m4a",
+              "sha256": "f2eeee91a9645b1a5aee0c5d8d2d18a99f3870e277508ef8d863291cc8ffa996",
+              "bytes": 44634,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-harmony-normal.opus",
+              "sha256": "47eb7e46fe336347426cc8f89f2479a4817904d84d17aa4f6033cdb28e46435e",
+              "bytes": 70727,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-harmony-normal.m4a",
+              "sha256": "a15357490ff3235ca00cc9651fa2823ea70ba1813e9a42ae375ac1de02741fe9",
+              "bytes": 72423,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-harmony-low.opus",
+              "sha256": "a6a9afb64b999e0dc420268bada71f9c6b1bad9091ef81182f8bf4f0f9e6ea8b",
+              "bytes": 43242,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-harmony-low.m4a",
+              "sha256": "c2348ab5f8a38d8150c17c444fba3fbee4fafee09aeae1a0323a7e8c186f1998",
+              "bytes": 44490,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-bass-normal.opus",
+              "sha256": "db85a7d16ac5fb33c65220d98b923a25aba5324524498b571324e1ef99146b1b",
+              "bytes": 51313,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-bass-normal.m4a",
+              "sha256": "17a112de062e366ac9a8ed0c88b1c6510b74a8de5cd5450d1b0e87d202533cf7",
+              "bytes": 72676,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-bass-low.opus",
+              "sha256": "cdad711a31a2daf9e09447aa2c5a9902ed170e53f135ed24e1f45e696c83b631",
+              "bytes": 35696,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-bass-low.m4a",
+              "sha256": "3631312607046f7758e627176aaac589d14028c3fd306d1929b95c35b28b131b",
+              "bytes": 44558,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-rhythm-normal.opus",
+              "sha256": "875dbf7d38d1265aba91f66adc1e9ef08329b7f41f2f8b024e5c6f32c66fa439",
+              "bytes": 49341,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-rhythm-normal.m4a",
+              "sha256": "ce97bc68974f0ba1db5a4bc5f8eefaa58a422f8971733a35ef898938be5cf60b",
+              "bytes": 77220,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-12-rhythm-low.opus",
+              "sha256": "a0803aebebf0b3268a1deda2dd3bf7ecfa4931f9d4313945f3db4d137590452d",
+              "bytes": 34077,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-12-rhythm-low.m4a",
+              "sha256": "6a95c70cf46e1141f8bf3bc48bc629e8eed3ac1e3c0b4b1d29fd54bc2d33e7d7",
+              "bytes": 44696,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-melody-normal.opus",
+              "sha256": "d21fbb25d75458d3be2d1e5c645a3d2699c5bec0e1fc41801c4a10e2b64c71d4",
+              "bytes": 105981,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-melody-normal.m4a",
+              "sha256": "315c96bb8936988fcfe8b9b128c40281de4cdbc46eaebc5e445cb651cba662c4",
+              "bytes": 72289,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-melody-low.opus",
+              "sha256": "4c6ec5e46c2526e109d7c8b5aad70134c441cef7a59d9ef989b117255e33026e",
+              "bytes": 64003,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-melody-low.m4a",
+              "sha256": "ef6fba4e73400d95444d1771270670c6841946f991fbb7123a15bd2bbe051be4",
+              "bytes": 44595,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-harmony-normal.opus",
+              "sha256": "3e2b1d1e93cd052966b6e822831e59848d3dda5048d00031d2835f08b02c53f5",
+              "bytes": 70428,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-harmony-normal.m4a",
+              "sha256": "dc7ab6ba1673562d08559fb3436d2447b22cf95303d165591301c4d7659929c7",
+              "bytes": 72387,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-harmony-low.opus",
+              "sha256": "0f30769642ea4d0aed596931b61b28388daa7fbfee43afebffc4bc3d696af10c",
+              "bytes": 43231,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-harmony-low.m4a",
+              "sha256": "d4e7c07f7f418d7484600ca7bede5e1d721fd09e7b45bf10976796b7439e1dd7",
+              "bytes": 44475,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-bass-normal.opus",
+              "sha256": "5c1ef5fd42aa96f9fcad3d4490e24e014e8b644820ebc37c77d937298a315ea1",
+              "bytes": 51353,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-bass-normal.m4a",
+              "sha256": "a49e25a326d679f0960ce85f587130eb7098c9221bb0b040567809ae6981c187",
+              "bytes": 72675,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-bass-low.opus",
+              "sha256": "025b74f548f2bc59323d8d2fc7f74bbf5595fcd12d0e100f7348f50f5be887aa",
+              "bytes": 33969,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-bass-low.m4a",
+              "sha256": "b724df1b1798a321fa93832aa45ca9c9c927ac5317cf01a0e380f5dd09d5ec08",
+              "bytes": 44507,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-rhythm-normal.opus",
+              "sha256": "f0b11082d937d5323c867a49c3d39aa502967444f3cdc6cca29d6c74a2bc1e88",
+              "bytes": 51831,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-rhythm-normal.m4a",
+              "sha256": "c9f841f52d94bc0c02de772766c06b8361642d3002ff2866f3b57d88f14162b1",
+              "bytes": 75687,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-13-rhythm-low.opus",
+              "sha256": "376fc228a3aa2967354c938b769110c634680b110090169263c7657f52bd2e1b",
+              "bytes": 35004,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-13-rhythm-low.m4a",
+              "sha256": "8c0f30458caab7e2ef477c8afdf6617785fda404e687594794c8b06c2e0c46cb",
+              "bytes": 44655,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-melody-normal.opus",
+              "sha256": "8c30bd5fa245b2ddf4db5bbc2bd073b24e56a8c90fb9c76481daa3f8d634849c",
+              "bytes": 76649,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-melody-normal.m4a",
+              "sha256": "c1a72df26eb6ae8e992402c0799f20503eb95d291d2991617f4933a1403e988a",
+              "bytes": 72934,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-melody-low.opus",
+              "sha256": "79c79b0017ccd49fc2964dc2010cccca9da7fe975bf79bb8a75e8a4bd607b0c1",
+              "bytes": 51140,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-melody-low.m4a",
+              "sha256": "6b212898842567b02da20bcf29b0b772277b1dea8e06b72773bd75a9e4031c17",
+              "bytes": 44566,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-harmony-normal.opus",
+              "sha256": "cd7620dd377282352bc017acf7eb318b40db03d6ef074347163e85b182707eca",
+              "bytes": 72805,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-harmony-normal.m4a",
+              "sha256": "e5ea78749de737a2957de1e81f80d5b41e515a46341fdf3093343a7d4fe9bed3",
+              "bytes": 72448,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-harmony-low.opus",
+              "sha256": "2c8484e2dca8945a8c842f8a05a913bd71cd9040aad3c7c46f45e9f3c0ed17eb",
+              "bytes": 44917,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-harmony-low.m4a",
+              "sha256": "5a4e9e2bc4c9c4267a9c07dd80aa4a69bb75b62248a3c8cb48d7fd43736a35f6",
+              "bytes": 44485,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-bass-normal.opus",
+              "sha256": "b25fe3a870301b8c849be0e2e3d7a566293b0ee2bb4366256ae52c10fa68af8c",
+              "bytes": 48514,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-bass-normal.m4a",
+              "sha256": "1e5fc19c2e0c8c7a70726c379a6bbf9bfcce800a2eddd8ff758ade4f9c88828e",
+              "bytes": 72684,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-bass-low.opus",
+              "sha256": "13133248915897fe42b302d60e9f8e969b73058d07ad0aeb46505b32b70044e4",
+              "bytes": 33628,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-bass-low.m4a",
+              "sha256": "77040376ef96cb6023a0f56e4e02c39b8366834964c5f77d5b93bbbdd3ad952d",
+              "bytes": 44528,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-rhythm-normal.opus",
+              "sha256": "c2662710f4657c6c05f5a7e75cfeb3f733060c9c66d1ae36f0141d43744c659c",
+              "bytes": 51305,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-rhythm-normal.m4a",
+              "sha256": "349585342c3028d90e66071daa43eb4bccf4cfcd6ec7860bf11e3b00d40516ef",
+              "bytes": 79123,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-14-rhythm-low.opus",
+              "sha256": "8e5f1b9f3859c9ef8e43d8e30a012c4745361c838c77bf745dbc684e90eeaac2",
+              "bytes": 34113,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-14-rhythm-low.m4a",
+              "sha256": "c76bc1132f4049058854b53a8db4294841dee43b815806a1ef686fa6ee91dd14",
+              "bytes": 44615,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-melody-normal.opus",
+              "sha256": "ac24de79304d60775fcdc7f2059deacf3436f28555b6da9079a0e81eed097a95",
+              "bytes": 75986,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-melody-normal.m4a",
+              "sha256": "4051ff7e29b342cc9b234374771933a2a18931d05250d140e19b7c51137177a6",
+              "bytes": 72615,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-melody-low.opus",
+              "sha256": "53f06192be4df0166d773a94c087ab4d68c6d2360d6d0e5b4a6c5a90ce179565",
+              "bytes": 50525,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-melody-low.m4a",
+              "sha256": "e8bc6fd5bb6f058a6df38a5ec97667a5e73edc4e3d41478e14505c528e2ad4d6",
+              "bytes": 44600,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-harmony-normal.opus",
+              "sha256": "1a93e144a5c1e644751c4eca8da2b4ed0dbad942bf04454cfae311884c7f1904",
+              "bytes": 73515,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-harmony-normal.m4a",
+              "sha256": "6a20ffcd23155fab9556ea17c19424451f4e400be61459aef997d52249cc2599",
+              "bytes": 72447,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-harmony-low.opus",
+              "sha256": "90eaeeb6d161fb5c6167601a2b69054b1aae546a3a0d1996a87a7ffc38300aee",
+              "bytes": 45755,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-harmony-low.m4a",
+              "sha256": "0c24967a465f1362033d757e20722b643c1c917843ec7f0d211c132734a66b30",
+              "bytes": 44519,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-bass-normal.opus",
+              "sha256": "71065a58eacf95216751ad73cdf6317bd728bdc36605c68fd812693adc19a957",
+              "bytes": 48389,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-bass-normal.m4a",
+              "sha256": "827b6b5e0a5a6028d4e31eff0329e7f52c826499f449e06a9362d4b2bc5b9473",
+              "bytes": 72591,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-bass-low.opus",
+              "sha256": "7806d8d04debdeb0cc7820f4165d05edfa4872d85a594df8fdd72904385bbd55",
+              "bytes": 34118,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-bass-low.m4a",
+              "sha256": "54a84667ff149b1745f54d508a11b17824441eb16d5c841ff001ff6a499546d8",
+              "bytes": 44590,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-rhythm-normal.opus",
+              "sha256": "2d6ab5f5b30814ac226b7d2baf3696fe95e39918b8f2bcf58473d2bbaa71ccb4",
+              "bytes": 51029,
+              "seconds": 7.06665625,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-rhythm-normal.m4a",
+              "sha256": "fba0a5391f215757db687242791346ebaf45a69c8b670187bb375fe984d08602",
+              "bytes": 78403,
+              "seconds": 7.06665625,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/flock-frenzy-15-rhythm-low.opus",
+              "sha256": "bf239fa0ff5e30ab20c985105d8879b60b6e8f30ffeaf8aaf9a0cc1166a242e0",
+              "bytes": 34156,
+              "seconds": 7.06665625,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/flock-frenzy-15-rhythm-low.m4a",
+              "sha256": "e1c99751e83e19faaf74ce4bbfc6a751b199c76f559f6e529f3b5a6c90bc4bd7",
+              "bytes": 44610,
+              "seconds": 7.06665625,
+              "channels": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

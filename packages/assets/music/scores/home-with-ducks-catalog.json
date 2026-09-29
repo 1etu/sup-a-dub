@@ -1,0 +1,1690 @@
+{
+  "id": "home-with-ducks",
+  "title": "Home With Ducks",
+  "bpm": 96,
+  "beatsPerBar": 4,
+  "barsPerChunk": 4,
+  "seconds": 120,
+  "chunks": [
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-melody-normal.opus",
+              "sha256": "474a2dca2dc6916291b88c2ad3ef573499952eb8be5a33291925d1eaa142752d",
+              "bytes": 78584,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-melody-normal.m4a",
+              "sha256": "6751c9a2305873f5d6c177957ce7d8c7b004a73394d1946fbb214cbc12974557",
+              "bytes": 66248,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-melody-low.opus",
+              "sha256": "611ad9445172aa816a8beb6e4574f566846723388160ce6c31c2b963b77ae3d8",
+              "bytes": 50546,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-melody-low.m4a",
+              "sha256": "1c5a6af1f47ea0afec147af0edb2f38cfa97c825f5177cb5130e618483938d3f",
+              "bytes": 41012,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-harmony-normal.opus",
+              "sha256": "10a4b03c092bdef4eeb87e709909e927cd4ade4ddebda62af5e821b1fb71c030",
+              "bytes": 104594,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-harmony-normal.m4a",
+              "sha256": "a45a516c25c33e3d04454924f27c661845b89e4564d9e865b060241a73311476",
+              "bytes": 106310,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-harmony-low.opus",
+              "sha256": "df4f16fa05c76514d38601284ab575c3a6e26c5d0d8a307de03832cbdc02721a",
+              "bytes": 66067,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-harmony-low.m4a",
+              "sha256": "5d2f308097d20e96e3dde268aaa91618659d8ee0c36a42ad19c318483691c23e",
+              "bytes": 64996,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-bass-normal.opus",
+              "sha256": "0355e55db31ed395d4f7e7db0ae89963c80b738a6154f611c05fd179a5002340",
+              "bytes": 75984,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-bass-normal.m4a",
+              "sha256": "a2c66b3b852f92301197afe3a2ecb2fb4415bafffe93eb105721dc756663f994",
+              "bytes": 106373,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-bass-low.opus",
+              "sha256": "a83bddbff7c03206a15876829ea3b74c900961396395912621008f94e2c91ce1",
+              "bytes": 53010,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-bass-low.m4a",
+              "sha256": "2cb7beace39a7b4782332fbd0cc80f48a558f402c89efbeb69af8b67ed8c9b04",
+              "bytes": 65094,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-rhythm-normal.opus",
+              "sha256": "3671c16e068fbf260f2ecbaf96630edc647c1f01e5e5d2d875b6ea0c0a3069d0",
+              "bytes": 38454,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-rhythm-normal.m4a",
+              "sha256": "87f2bbf580eef698b7c3825c002c832d63afffa7e351c215b7a89d4216cfa0a1",
+              "bytes": 60838,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-00-rhythm-low.opus",
+              "sha256": "4fa1174c620c2003d1ce3d879e183937621b847c0014bafe92559f69eb82139f",
+              "bytes": 25276,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-00-rhythm-low.m4a",
+              "sha256": "3f3171944130a94214a04fb271f9933733bcfc58596dc259d9bd8e42a5e7fe09",
+              "bytes": 37615,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-melody-normal.opus",
+              "sha256": "796faa65bfe11df5f715442204fef7b47b2ab6c2c4a17f840c06b5c5463dba16",
+              "bytes": 124310,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-melody-normal.m4a",
+              "sha256": "6bd3f401d07cb6e3a33c3c580f10dc6426eb3a48c7dde578e9f45ad559346050",
+              "bytes": 106075,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-melody-low.opus",
+              "sha256": "15df6cf210161b8061a74fd8558fb13bcb0e7e9c37c99c7c07da096be92473db",
+              "bytes": 77217,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-melody-low.m4a",
+              "sha256": "4f54b6a7135f975ff8f113a534f67a20e24e885a30b4c325fda3bd07b85e3ae4",
+              "bytes": 65083,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-harmony-normal.opus",
+              "sha256": "d8d47ee7774b9bc258a1d7ec1ca9c84bba0478b5713bc72a183021ed44f31e75",
+              "bytes": 104448,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-harmony-normal.m4a",
+              "sha256": "1f5cebba25a88e9b34c6df2a63bfa41cd3a470188416d76257f6c5de32c1a6a4",
+              "bytes": 106193,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-harmony-low.opus",
+              "sha256": "965ae0d2f6684ee1eff2a0a961e0f4c40e1ec487ef6e814c2f32f528b8486630",
+              "bytes": 66142,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-harmony-low.m4a",
+              "sha256": "73a6c5d639078b57b6c9f55d22d29f5bc890897c5267574e0e3c4a08b4280977",
+              "bytes": 64923,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-bass-normal.opus",
+              "sha256": "fe4a9cd9fac12ac2e829f6c634f35c63adba79024962f85d85d10eb5ba3f40f9",
+              "bytes": 76810,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-bass-normal.m4a",
+              "sha256": "74e7cf75cdd7b86ee389a2ff6bae529a26b9dcbd11915abdced33544100bde12",
+              "bytes": 106435,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-bass-low.opus",
+              "sha256": "f1d5335a0b9a2dd43fc99c0a1944fd301ec006f67bc0e98977da34feba199eb1",
+              "bytes": 51785,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-bass-low.m4a",
+              "sha256": "ee27eedc0bed7b29322c851de65bd2645ba0a81d6da05bde2df41d9e7b9b4da1",
+              "bytes": 65097,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-rhythm-normal.opus",
+              "sha256": "0719b6fa8d78abc21f1467838573888f401d280617f8cccc3455a564772f4e84",
+              "bytes": 39307,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-rhythm-normal.m4a",
+              "sha256": "d8bf9a265a2d469e4d5cf69fb4e6a712d949a30a15ec57aef495c19166ba7166",
+              "bytes": 61328,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-01-rhythm-low.opus",
+              "sha256": "d74b35660311e12514ec2f50073d1ba6473679dcd71551517e885cb52fc86fa4",
+              "bytes": 26198,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-01-rhythm-low.m4a",
+              "sha256": "d104d2111516b53efa1b088cb3bb22219c360d4e413c2b1fb19c3ef1d4eee982",
+              "bytes": 37882,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-melody-normal.opus",
+              "sha256": "147204618de1df093022eafdddec594f6d9c1034b0c556c490da1ba2e53a3cf0",
+              "bytes": 112389,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-melody-normal.m4a",
+              "sha256": "111c9ac71199367e112b6c5ba707fb6902225f3c439f155cea198b015c3e729a",
+              "bytes": 106188,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-melody-low.opus",
+              "sha256": "2f8cff9efdf623e60e150c5e6251fc3f513e13b5c73eb15477905ec2deeda53f",
+              "bytes": 73092,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-melody-low.m4a",
+              "sha256": "214d98d6fad074a05e607af1e3f0e4e30c4d696547256569d49d995b2979007b",
+              "bytes": 64900,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-harmony-normal.opus",
+              "sha256": "83fb12621780dee7f0f1e5cfc97fa42c3f311292c7f60ddde7e76bf0d6a3da56",
+              "bytes": 108487,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-harmony-normal.m4a",
+              "sha256": "2bbeadd462371d1ced2721d835cd386d3eed3f9ed63ba39899ec2060c357782d",
+              "bytes": 106252,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-harmony-low.opus",
+              "sha256": "64d826d0fc5e9852393877ec1a0c233e9120ee9dae776259a0a1faa55f86b045",
+              "bytes": 67532,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-harmony-low.m4a",
+              "sha256": "76fdac3481515a1cc361776838a95279c41d438c29f9591ffb6d7db6a710c159",
+              "bytes": 64925,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-bass-normal.opus",
+              "sha256": "98bd6772a839a755ee2cbce8c43f6baf68ddcecd6cd9681833aa61218e074816",
+              "bytes": 76561,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-bass-normal.m4a",
+              "sha256": "3c1a5b02248e5c5dcb55f31e7d1b367e84a42d54fc478b4d176f95fec7d73b27",
+              "bytes": 106508,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-bass-low.opus",
+              "sha256": "6a828cc0bee8d363fc402cf8336dc5e80bcf5cc341b7de0723cf26e7633fc944",
+              "bytes": 51768,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-bass-low.m4a",
+              "sha256": "36e6cd600e022e07162125d4de8b2905ea36212182a67e1d9cc1d2e9283e39cc",
+              "bytes": 65083,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-rhythm-normal.opus",
+              "sha256": "baf8c83e7c9e3ef8f4b03b9d5770f4d535303945f2136a0b0244a312ddebb320",
+              "bytes": 75183,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-rhythm-normal.m4a",
+              "sha256": "175a12a658f3509806c2ea306c6cbe7f5c917f839fad82ea0eca7177fc3d9cf9",
+              "bytes": 116800,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-02-rhythm-low.opus",
+              "sha256": "7cfc95fe0f5564ec65c0a052a5c840a91895aa7baa6cecf5d80060cd0a2d7c2f",
+              "bytes": 49688,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-02-rhythm-low.m4a",
+              "sha256": "3581c8bae24e4e5c36b7eff26d6da48d183f05b560a0ab3f943c461ba39a94ed",
+              "bytes": 65170,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-melody-normal.opus",
+              "sha256": "a2ff7116d6a111db73c13744ae41ece0a353c049ebb53a3452f6291c7c5bf187",
+              "bytes": 114947,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-melody-normal.m4a",
+              "sha256": "a901c0151a4677f6e658644979ed5ddc2918f9183b4899cbc15b65f607341484",
+              "bytes": 106472,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-melody-low.opus",
+              "sha256": "f169ba0fc3cba39fdf9ae065fb8987e1c4f9a33fb0dc437b13b4ca5770b1016a",
+              "bytes": 74341,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-melody-low.m4a",
+              "sha256": "f092e977da0fc8656ac8ce225dbfae3695460984683f82b3a7bfb549ec90be8c",
+              "bytes": 65118,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-harmony-normal.opus",
+              "sha256": "5eb9183b27dfa10244ffd21128884ccf5944f0e5f6b1355b22633c2d30bf948d",
+              "bytes": 108662,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-harmony-normal.m4a",
+              "sha256": "e32884fd47112bc75111cb2192dee4eb70ee759ef56a5b2bc47a2df6ec0b7b2b",
+              "bytes": 105957,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-harmony-low.opus",
+              "sha256": "cd9acd3484ac164e75331dc95251bf1005e9a14197c4edecde7ff3688aa6b909",
+              "bytes": 67574,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-harmony-low.m4a",
+              "sha256": "945cd727af398b071e6e29344ce1f4c7657bb64d5f71fe5f8352f339200dc7f4",
+              "bytes": 64900,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-bass-normal.opus",
+              "sha256": "72ca5e5081ecb300ead8121e325884ab0d487beeb09bda242c68ea61895414bd",
+              "bytes": 76233,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-bass-normal.m4a",
+              "sha256": "7a6f97471bdf1cac3f16c31e09c727f12dacf757498d035825b23382ff920112",
+              "bytes": 106435,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-bass-low.opus",
+              "sha256": "adb5b9c3eadab34ad1531af00d35976cba2ca419d7e2eaff71eb288e1ab43772",
+              "bytes": 52115,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-bass-low.m4a",
+              "sha256": "3c51cbf0836a0821916f0b184675db45f59f9f8b411a3b56b74f70c15cd3e6e5",
+              "bytes": 65102,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-rhythm-normal.opus",
+              "sha256": "12ce752d31be0057c8670c192701eaff42df4d44569a5b3f925f9f40062b1a12",
+              "bytes": 75399,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-rhythm-normal.m4a",
+              "sha256": "e5b06d00685ee3fe418bd6445e34a06409fad565b086de0aa98807f4109f6c2c",
+              "bytes": 116683,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-03-rhythm-low.opus",
+              "sha256": "ad0fd38b95ebf7eaa321c15a380a01756b287f1db08ef95d99e464b854fbab61",
+              "bytes": 49733,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-03-rhythm-low.m4a",
+              "sha256": "49f1193013a5f3240712a44cbe1eafb3b3f800664bf8630fd2c701db8c185a12",
+              "bytes": 65081,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-melody-normal.opus",
+              "sha256": "003ff35e97f6ddd59120ea80c2085b81ddde2d0becb913f2d1db3cf29d141d42",
+              "bytes": 156305,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-melody-normal.m4a",
+              "sha256": "42132fe6856484df4de7efd503b28b28565b73b03ad7659714c8c9a4470ebdbd",
+              "bytes": 106265,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-melody-low.opus",
+              "sha256": "779a447fe7a17f49367753cbf2f69e427a5de23fc008717bd744c519508352d2",
+              "bytes": 90995,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-melody-low.m4a",
+              "sha256": "59dd6f37a501dfb47804e0abe13e83d50cec26d7a328049ebfed70af72a72370",
+              "bytes": 65261,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-harmony-normal.opus",
+              "sha256": "d8cfe27d0c5bf4de556f9eee9805c0e1c5cfd31a5585d675ffd13ea9145d0e55",
+              "bytes": 103934,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-harmony-normal.m4a",
+              "sha256": "b2c4594eee2e2865de11adcb018f4a921ac576dafd63202f4d12c45d50308d1a",
+              "bytes": 105991,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-harmony-low.opus",
+              "sha256": "69fc93abdb34e0380debc9087f043a71cddc19d8c974656b8c9c349c06156406",
+              "bytes": 65586,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-harmony-low.m4a",
+              "sha256": "a1f3152b10d8823a6bff3ddc1f9631bc1efd5234eebe01cc62fc37f9e66dcf0c",
+              "bytes": 64877,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-bass-normal.opus",
+              "sha256": "c12e93870f2ada1994f0ec6e51b07275696e57d52f9ce9f1f77d80d0ca3719b5",
+              "bytes": 75426,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-bass-normal.m4a",
+              "sha256": "1d7170a76bf99ce395a49bf7bbcead61a173f479475d7731bfccdd7a71262570",
+              "bytes": 106532,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-bass-low.opus",
+              "sha256": "fe066e0dcc0b4684d6a22105edfcfa8ebd16270dd882f97308ddd15d29e63e8b",
+              "bytes": 53303,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-bass-low.m4a",
+              "sha256": "ce89790e1f073d7e0b2ef73fbc0ea9443dfdd6746d15f0863f7a2d2c659e0ac4",
+              "bytes": 65028,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-rhythm-normal.opus",
+              "sha256": "f4243e9aae9fc3d4f657b8897af357eb027afb4f0bf822e836578b5acec634e2",
+              "bytes": 75107,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-rhythm-normal.m4a",
+              "sha256": "d3ea3c6da0722f0b0ce631d2293c1c5b1719de2c6ec6e2983bbcf7497d38d3d8",
+              "bytes": 113709,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-04-rhythm-low.opus",
+              "sha256": "046e0b06776aa16ccc876e1a673d5a2e5e494b52007c1b67c3621f8bb366790b",
+              "bytes": 49591,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-04-rhythm-low.m4a",
+              "sha256": "f79dfa22df8fa69009afd9ddca7c9fe1cfb57d9c2b48783f3889364062d7d9a9",
+              "bytes": 65196,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-melody-normal.opus",
+              "sha256": "7dfa81a38c4220239fdf520b22d2713a4b92b4dd80578e065b2fd8d960c5640d",
+              "bytes": 154030,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-melody-normal.m4a",
+              "sha256": "938f0da5d10fd8936d35178736743f55b64900d8b33194ff7bc793406c821568",
+              "bytes": 106166,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-melody-low.opus",
+              "sha256": "b349e8b4a0ec20f4f56102e415c550f4f191d4b964664f90eceacc078f607564",
+              "bytes": 90431,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-melody-low.m4a",
+              "sha256": "71375cd1e161d2faa9fe4a55e6c80959728e84613d1d44dbc2ad8e0e2b508bd7",
+              "bytes": 65283,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-harmony-normal.opus",
+              "sha256": "4120b656b7522a9b659a03cd5b9c9247b6494d38020f8ba9f13ccdcc9b069cf1",
+              "bytes": 103997,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-harmony-normal.m4a",
+              "sha256": "86fd8e949433a84c1bb6c127e749f365801e042d9c49775d9432d80a00257c6a",
+              "bytes": 106138,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-harmony-low.opus",
+              "sha256": "74268b428e8a489f6a65733e7a2d1a0249be582c01c19ab78a26f83edfc36fb9",
+              "bytes": 65323,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-harmony-low.m4a",
+              "sha256": "06134e8fe9cd41149fe1b0233bb4b95ff2374ba0bbd53ac2f006a48badfdc5c8",
+              "bytes": 64883,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-bass-normal.opus",
+              "sha256": "d4cf5774881791af471459dafba4a500ce85b78686d4d2cbd78b29bab37b4ef7",
+              "bytes": 75569,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-bass-normal.m4a",
+              "sha256": "bde9c608b6338b71f51019363b319df229d1d342a318ade420afb1f2c52c9b02",
+              "bytes": 106434,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-bass-low.opus",
+              "sha256": "d4040c70330919ea51ca6b9814107e0f1fff9f53f7eb286e81fbe162e64c664a",
+              "bytes": 53381,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-bass-low.m4a",
+              "sha256": "be52b64bd2140580c7f0a651be540fad2a9ce8f5f9ab5779f841170afae6adf1",
+              "bytes": 65013,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-rhythm-normal.opus",
+              "sha256": "b39e6e9a4469f6696df0a786bca572576c173ea61343ae4dc321aeefceed6b4d",
+              "bytes": 75071,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-rhythm-normal.m4a",
+              "sha256": "120c452e5272771df9a3a95f59ce95bda95f9c606628bfc5c5a5d0c2059ea4a4",
+              "bytes": 114466,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-05-rhythm-low.opus",
+              "sha256": "624ca392c25c0b155fadebae8f997b03fd1002c53cee82b3842688aff9830a84",
+              "bytes": 49703,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-05-rhythm-low.m4a",
+              "sha256": "f05c1a13b92a25a7d9c798fff3ef141267e34e9456d71b7d749f867888b0c37e",
+              "bytes": 65113,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-melody-normal.opus",
+              "sha256": "1575cb42c26219171711af55a3bb2e4b71567d5abdb47957268678d510ccc3d8",
+              "bytes": 135711,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-melody-normal.m4a",
+              "sha256": "5be1a69071f6b7c7bf0a34b72a8d543b845ab08161a9b3930185e1fd50bbaabe",
+              "bytes": 106091,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-melody-low.opus",
+              "sha256": "9de8a2655ae53516f2b714095cc997d89e7b25f21e743956a5b7d2d49cc9906d",
+              "bytes": 85026,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-melody-low.m4a",
+              "sha256": "2e3d01fad6e704cf64fb6816ea65136d8a9c39ce44ae7b7b74f5d56f4343efa1",
+              "bytes": 64972,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-harmony-normal.opus",
+              "sha256": "ad55ec396fb32ae3b102f8a800dd9fcc53a5faab5510edec4e1f08663c2c1199",
+              "bytes": 108303,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-harmony-normal.m4a",
+              "sha256": "3069ab444fcb0f12af4439bacbc08529c5b8b10604854526821aa3e300938cc5",
+              "bytes": 106232,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-harmony-low.opus",
+              "sha256": "81ee0fa67ff2c82385ab1815b9e33d95af22234bf43504b3201225196f9c6782",
+              "bytes": 70133,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-harmony-low.m4a",
+              "sha256": "32e37a72742a39802715e118b2bc8c8ee0202975f19e4784e1ab9343a7db0e6f",
+              "bytes": 64927,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-bass-normal.opus",
+              "sha256": "6f3ccb96371d4ddf14f8deda3c139cd6b36fe762eb98d56aa7cb8062e2379f5a",
+              "bytes": 81634,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-bass-normal.m4a",
+              "sha256": "9bffa7ca0f634f0fffda8b42f8bb92959478d12fc117ad179254eb30150020ec",
+              "bytes": 106480,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-bass-low.opus",
+              "sha256": "e7fe0a399b4068f2de701dc26f7dd51c51d9041ba754884493f5b6f8677691fa",
+              "bytes": 56892,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-bass-low.m4a",
+              "sha256": "25b367620e03badf89a5d6ee0c3d7fefddf91b0e33a11d7bd075ba3608ca3cb2",
+              "bytes": 65097,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-rhythm-normal.opus",
+              "sha256": "96566e482472975b3a8d072e333b3716b6d4a2670972b3a34a58e2a7df0ccd8a",
+              "bytes": 72883,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-rhythm-normal.m4a",
+              "sha256": "78e54c19c83da385b881bef94f5f227ba9099b86c94f90c3354bdb8f363412c5",
+              "bytes": 115818,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-06-rhythm-low.opus",
+              "sha256": "e2f77194adfa92394dbe50750c999ec0ac11aabe5e4f08e68daec54ec9243e5e",
+              "bytes": 50657,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-06-rhythm-low.m4a",
+              "sha256": "9a120a18711a60e7b80ea94e884cb2c11a0a9a9fc4a7f0c548349322f34f3f2c",
+              "bytes": 65312,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-melody-normal.opus",
+              "sha256": "e3793236a361c51ee21566256c19a5694f7d81b1f09b8e31d5126dbda2c121d1",
+              "bytes": 142530,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-melody-normal.m4a",
+              "sha256": "854576b13b79be00e5ae24034c1a199ef55d1b2c91089a194f2332e6d8c2dd7a",
+              "bytes": 106140,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-melody-low.opus",
+              "sha256": "16f5b7a59a13bc9160679717720ef1d65c9a369b613a880ad3549500c817a7e1",
+              "bytes": 89455,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-melody-low.m4a",
+              "sha256": "ea9f1970b07b9d1004a6902af433544dd05c7445a3dc8737ba90de952c01f45a",
+              "bytes": 64947,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-harmony-normal.opus",
+              "sha256": "ceb67010e14372700410ec9e40619109d6eeb42bc9a59e9389398240f6e789a7",
+              "bytes": 108351,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-harmony-normal.m4a",
+              "sha256": "8b0756d558429b36316986428a4a64fe0d710be6b7d0319b05ff1e11bfe2ac23",
+              "bytes": 106166,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-harmony-low.opus",
+              "sha256": "7279dc3e7da69da8af3731c10f465adf483ba7ad6fd328694a8eaf01b1da9fd5",
+              "bytes": 70095,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-harmony-low.m4a",
+              "sha256": "a0e2889c31004beab3806fe25dfd989bed05e67c61d39be78fd6de22af79b8be",
+              "bytes": 64925,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-bass-normal.opus",
+              "sha256": "24d033f4b183ba1da92a750e9e23f6927eb66ffd06865e7b3df6aaa05a297ca5",
+              "bytes": 81054,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-bass-normal.m4a",
+              "sha256": "e9d24ecb0ecc84a54287370fb069a1ab50d6419e630abbfb5ee1952a8749ea8b",
+              "bytes": 106443,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-bass-low.opus",
+              "sha256": "5e623ff8972c1366ecf59d901a9fce8472a79496721652ef701578295bb355a1",
+              "bytes": 55949,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-bass-low.m4a",
+              "sha256": "b9b7c784ed18dc2c91bf27717e5757b41dfba3a28f9064c23a33e7c4f7ccb517",
+              "bytes": 64821,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-rhythm-normal.opus",
+              "sha256": "b58009d28503c25eb2ad5a4fccd85ea6b95eaaf157a4196474f49e05179a7616",
+              "bytes": 76275,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-rhythm-normal.m4a",
+              "sha256": "8c2d8a96fa2f97319f10e251902c12fe7fadcb8a950c9254d1d31650df570cfa",
+              "bytes": 115589,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-07-rhythm-low.opus",
+              "sha256": "87880cfec25dab3cfd6c0d9f71d0441d91d1683371221b063d8de453c17cf39a",
+              "bytes": 51749,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-07-rhythm-low.m4a",
+              "sha256": "f71499f1c9d4e6b99274bfa2f1a05d1bc6447ef9ac1be050fdb8420ea426a01f",
+              "bytes": 65230,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-melody-normal.opus",
+              "sha256": "b7c20225fb784e9a4056ca5b7845853979431af3d0ab7c01a54bc4b783a55396",
+              "bytes": 142405,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-melody-normal.m4a",
+              "sha256": "f2e76568bd1274bde37051d0304adecf3639294a4acaca9e6a7d4e3a14948f37",
+              "bytes": 106250,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-melody-low.opus",
+              "sha256": "9a5e35c4766c00b692cabb47067cdc3f4aa0503c7f07e06eb1ff1d7e9e578523",
+              "bytes": 89018,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-melody-low.m4a",
+              "sha256": "2a7be6259ddac8adccc30ddd71158bd818411d2832a62c834c6208c96f728673",
+              "bytes": 65030,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-harmony-normal.opus",
+              "sha256": "ee2697c02cdaca2d8294c23aefdd297b012015210de5754da0388768755ad736",
+              "bytes": 108323,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-harmony-normal.m4a",
+              "sha256": "33b452d11cf74e0403f72ab20f68b0efd31f959bf1985ca4a1cf9982abec508d",
+              "bytes": 106164,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-harmony-low.opus",
+              "sha256": "c483d6082da99244093c64f3ae39b053ae31e7aa1d83e7e50dbc09e74d46e109",
+              "bytes": 70068,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-harmony-low.m4a",
+              "sha256": "490eb904532ebe83dbe3583b41462efdce5cbb3d187e395324e9e4e6ff35ac27",
+              "bytes": 64919,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-bass-normal.opus",
+              "sha256": "cb40089ab8363182f4b4f421c7c14a7574cf5ac81f8d0b7c3b101aba3f1b01dd",
+              "bytes": 81058,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-bass-normal.m4a",
+              "sha256": "e0822e6950eff6f0c544a07e50f28eeb6c7abd126a21230f24592d66b78643b8",
+              "bytes": 106431,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-bass-low.opus",
+              "sha256": "90196f8784c94ceb25522783553011155cbf594e306a23cd34ae638a3d3cfa84",
+              "bytes": 55968,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-bass-low.m4a",
+              "sha256": "e89e09dba809e987f3a24ff23c6e246fc68c6df839afc42a9e2c6e8e791efe80",
+              "bytes": 65088,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-rhythm-normal.opus",
+              "sha256": "11edcac2ec674b76943f670bca2ffd73130d759c2c755b709196dafffff5aca5",
+              "bytes": 73208,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-rhythm-normal.m4a",
+              "sha256": "ca0101673d2306a01401228557fe6063ef6deddc7e620b60be534bf89c75d39c",
+              "bytes": 116707,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-08-rhythm-low.opus",
+              "sha256": "f13fd93c8884fd03c28f3dc7ba91a2048738a05b0893dce024934e660cad707c",
+              "bytes": 50521,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-08-rhythm-low.m4a",
+              "sha256": "db13d885e8a04ebff30e2b6bf2bcaabaf20a9efaa3c4efe9d51e06e053b87968",
+              "bytes": 65320,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-melody-normal.opus",
+              "sha256": "0f0363c09b774224cf81f7abaeef7ce98978a7a9171312bb7960a6e67d2daa31",
+              "bytes": 145504,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-melody-normal.m4a",
+              "sha256": "35e0169002d3ee01d86964908a84f6d81f70aa4652b80d43dd08abc56cd3d180",
+              "bytes": 106064,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-melody-low.opus",
+              "sha256": "d927208e54b138a4e0d6b9b74af2ccba773a9392cc4a20df3025457d7fe3adf6",
+              "bytes": 91382,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-melody-low.m4a",
+              "sha256": "13f73f6980ed4d6c2032f72a975cebb5b3eb4e2f0266bac7b4657b0f7299f838",
+              "bytes": 64960,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-harmony-normal.opus",
+              "sha256": "1e87893642138e0ac66340a6f550d0a6d9ac966ae92ef31567149cd279aaadcc",
+              "bytes": 108556,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-harmony-normal.m4a",
+              "sha256": "cb5361ac12e90062934f8928d9389d0747ff374a5f5e538242b944a85ce101b4",
+              "bytes": 106073,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-harmony-low.opus",
+              "sha256": "2264ec6aa8cc1681c312bee1b69ddfb7de8f71774cab1289e8fe7709d1da10bc",
+              "bytes": 70157,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-harmony-low.m4a",
+              "sha256": "ff8470bed4480d2ff0aa53b102f97c4648b726ddb28715e9e6bc0542e065308c",
+              "bytes": 64908,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-bass-normal.opus",
+              "sha256": "de202d7115c7e5b925341d09ab844e6ec2e22c775880b26e04cb9d64403f4101",
+              "bytes": 80827,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-bass-normal.m4a",
+              "sha256": "53e95353f9062fd836b58f8e45c37c9413d873f670b6857f3b56dd109d1039ef",
+              "bytes": 106392,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-bass-low.opus",
+              "sha256": "b4eb4640926a29b60d749f6d0c894c9bd339e6a69b1fcbb500e9c99109cd452f",
+              "bytes": 55777,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-bass-low.m4a",
+              "sha256": "1b51f68bf4177cb30b28d52aa5abcc1e0930db0e770feeb9b8c1faf255b7a0b8",
+              "bytes": 65156,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-rhythm-normal.opus",
+              "sha256": "95d197f347b675891ad966a733f78c819a1a53ae5f01bb1bca3338af2e5bd295",
+              "bytes": 76460,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-rhythm-normal.m4a",
+              "sha256": "cd38e766f67ec4d998f37e76d86dade4616127ec533e073d3894d337da65b27f",
+              "bytes": 114084,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-09-rhythm-low.opus",
+              "sha256": "92c9cff6eac14d1086b9695b2d59750eed52171ccb35c5f76351fb593676e97a",
+              "bytes": 51472,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-09-rhythm-low.m4a",
+              "sha256": "de471b95de3da5b96dc98f39b7133e9c1762038e8e76282e011d70f0e0f1f823",
+              "bytes": 65205,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-melody-normal.opus",
+              "sha256": "0c78342ab9000d43ea971a5ad730a484b39342b8a3b7bbe296b711fd28498d7c",
+              "bytes": 112370,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-melody-normal.m4a",
+              "sha256": "a51ffded4d8bd859399636afe0d8432b20f9ead287fbab08f5c4828164da6280",
+              "bytes": 106631,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-melody-low.opus",
+              "sha256": "5392397860b896285869606034adc8d57ad9db8bf26fbe7eac44affa16127802",
+              "bytes": 73016,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-melody-low.m4a",
+              "sha256": "c20005df3c746089d72b2ad6bdb7d838ef7c073eed17ee88489dd58a359b171c",
+              "bytes": 65018,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-harmony-normal.opus",
+              "sha256": "b312aac7a81abed751e71f0abe1a47a109ad6e7712a5f16cb08175c41006b946",
+              "bytes": 103873,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-harmony-normal.m4a",
+              "sha256": "3c5e17f46a6bad3bf0aec68150854fc96169c030971af93449274caf7aaabb06",
+              "bytes": 106067,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-harmony-low.opus",
+              "sha256": "70697c7e028787d1eab69deb5c5331f86ea06417ef9315db1c0bbff0075eaa38",
+              "bytes": 63178,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-harmony-low.m4a",
+              "sha256": "9ccda6c0542ee135db8b36c0fe4f83aa0eda7c6d3e2eea264ebc907277263a0c",
+              "bytes": 64888,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-bass-normal.opus",
+              "sha256": "52092c6b2fb47e0cbb15b4df297d170e3debd7344dc64cc0e8dcb14aef9f0e30",
+              "bytes": 73906,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-bass-normal.m4a",
+              "sha256": "f95bd9d32d4bdc572b9b77d1c23f86e93009932bef8169338629aaefe54a0d97",
+              "bytes": 106178,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-bass-low.opus",
+              "sha256": "ab3cdf1339eec8a891f3674c5d6e2e36508edd816f5581e21def232527007121",
+              "bytes": 51888,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-bass-low.m4a",
+              "sha256": "05e3a5840c92c77bedb837c26da2a4222645ea2b83bd5b82a7a2b2138870c5de",
+              "bytes": 65013,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-rhythm-normal.opus",
+              "sha256": "131188ee7f7bd45e59b55da442f4989ae79e58c58483912e570e6e06cab4104c",
+              "bytes": 41550,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-rhythm-normal.m4a",
+              "sha256": "b6a61d23279d2a0a21ddf8955e2bcecbad673813c33145685e353dcc1458560a",
+              "bytes": 63794,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-10-rhythm-low.opus",
+              "sha256": "2ec882a7af993804313502bed55edd3c6d96fa8867c11582f0f4440e103f6604",
+              "bytes": 23829,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-10-rhythm-low.m4a",
+              "sha256": "8ac6eca9ff0e4c87935900d420859b7c2667f8958ff7b54918482ec0b11cdb84",
+              "bytes": 39389,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-melody-normal.opus",
+              "sha256": "d0e574a0e9ee1bc91d4c124a71096fc4a01eaff76e42d028716148b67028fa36",
+              "bytes": 111253,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-melody-normal.m4a",
+              "sha256": "427a3f63648bfbd7f829331de75dd935125278e3c303b76806c478cc77ffa4fe",
+              "bytes": 106305,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-melody-low.opus",
+              "sha256": "57bbe34cfeb4e38746620d17c14ed0d63c420606fd157c82cf22b6afbd3875a0",
+              "bytes": 71780,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-melody-low.m4a",
+              "sha256": "c30fd3a2205d34fc6e0485a413459769c5e4904dd90857f99a4260beb8195d94",
+              "bytes": 65033,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-harmony-normal.opus",
+              "sha256": "23b63232f1c080898dee7c8bf649d582f00d106d3717f20d22438f48c5bb17bb",
+              "bytes": 103557,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-harmony-normal.m4a",
+              "sha256": "59c28855b7710513551f508f27be8e294df243cce7584f38ce6c95d1be8f0b4b",
+              "bytes": 106216,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-harmony-low.opus",
+              "sha256": "840fdedec749e3e6ffaad60e9fcf6ea12c6e931b99f7efc16b5916e571983497",
+              "bytes": 63903,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-harmony-low.m4a",
+              "sha256": "710bbd2576a7b0a86b2283b39afba4a13d446254468ea68f714bfddbb1d531b8",
+              "bytes": 65020,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-bass-normal.opus",
+              "sha256": "0e8cc592c9c48e27a09b3e2d4c0777abce50ede88810617ba7e669e216c363e3",
+              "bytes": 73925,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-bass-normal.m4a",
+              "sha256": "867b9a8eee54adc23298005d62cf2a9502969218fea22d547e622cce306332db",
+              "bytes": 106382,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-bass-low.opus",
+              "sha256": "3e0040f399ee712bd331bee872d31c88ed23d8b4e07315f4ce46ab6130b9f245",
+              "bytes": 51898,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-bass-low.m4a",
+              "sha256": "26067f8f4d703c70d6e5dd3ae79c655336b711ecc63dc8a2ff38b367e837c713",
+              "bytes": 65108,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-rhythm-normal.opus",
+              "sha256": "3671c16e068fbf260f2ecbaf96630edc647c1f01e5e5d2d875b6ea0c0a3069d0",
+              "bytes": 38454,
+              "seconds": 10.4,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-rhythm-normal.m4a",
+              "sha256": "87f2bbf580eef698b7c3825c002c832d63afffa7e351c215b7a89d4216cfa0a1",
+              "bytes": 60838,
+              "seconds": 10.4,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/home-with-ducks-11-rhythm-low.opus",
+              "sha256": "4fa1174c620c2003d1ce3d879e183937621b847c0014bafe92559f69eb82139f",
+              "bytes": 25276,
+              "seconds": 10.4,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/home-with-ducks-11-rhythm-low.m4a",
+              "sha256": "3f3171944130a94214a04fb271f9933733bcfc58596dc259d9bd8e42a5e7fe09",
+              "bytes": 37615,
+              "seconds": 10.4,
+              "channels": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

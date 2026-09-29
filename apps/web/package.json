@@ -1,0 +1,24 @@
+{
+  "name": "@supadub/web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun ../../node_modules/vite/bin/vite.js --configLoader native --host 127.0.0.1",
+    "build": "bun ../../node_modules/vite/bin/vite.js build --configLoader native"
+  },
+  "dependencies": {
+    "@supadub/assets": "workspace:*",
+    "@supadub/achievements": "workspace:*",
+    "@supadub/cosmetics": "workspace:*",
+    "@supadub/protocol": "workspace:*",
+    "@supadub/gameengine": "workspace:*",
+    "@supadub/audioengine": "workspace:*",
+    "@supadub/sprites": "workspace:*",
+    "@supadub/core": "workspace:*",
+    "@supadub/features": "workspace:*",
+    "@supadub/graphics": "workspace:*",
+    "@supadub/network": "workspace:*",
+    "@supadub/inputengine": "workspace:*"
+  }
+}

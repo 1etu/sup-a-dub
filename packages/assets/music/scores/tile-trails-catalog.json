@@ -1,0 +1,1690 @@
+{
+  "id": "tile-trails",
+  "title": "Tile Trails",
+  "bpm": 108,
+  "beatsPerBar": 4,
+  "barsPerChunk": 4,
+  "seconds": 106.66666666666667,
+  "chunks": [
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-melody-normal.opus",
+              "sha256": "5e7f6870b1326d36d0a5913a41e74c6528278ea7c105f98fedd98e2f09582bd2",
+              "bytes": 62067,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-melody-normal.m4a",
+              "sha256": "32f8289679b513a6134704a7d9ace84c642c7df19af676527b2c4160137175bf",
+              "bytes": 59378,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-melody-low.opus",
+              "sha256": "f3a43754f33b7a351abbd1043c4161be0bd5e97bf11617c3dafcd93af1022f86",
+              "bytes": 42263,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-melody-low.m4a",
+              "sha256": "e91da132cb9f304e657617f78e721bdc9f4e861957d7c1354932b549b0f6741f",
+              "bytes": 37295,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-harmony-normal.opus",
+              "sha256": "28c5c17ff4179bf3008c93835ecb41ff17eedeced899a4cce1ef0cb36198c88b",
+              "bytes": 94890,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-harmony-normal.m4a",
+              "sha256": "a918d4342aa553d004dfa99563f8ae95abbad2f1b31250377954ef8cfc534b44",
+              "bytes": 94874,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-harmony-low.opus",
+              "sha256": "e5b7f4585e88a4cf257b52f0dccf6cbe7fa71621811a1ab88bea081bc9be7d37",
+              "bytes": 57448,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-harmony-low.m4a",
+              "sha256": "f2164f906ba9693109a4fdbfea5d3be19c1f0a30082d30efb941f69aa6076078",
+              "bytes": 58142,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-bass-normal.opus",
+              "sha256": "3c0fbb2016fa1342edd71a6f75810900fbdc8f5de078a033f71201d17d56034c",
+              "bytes": 65937,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-bass-normal.m4a",
+              "sha256": "b0514f3d85ed0855f9de7e932d09ba5eb66b3cf42c5b4ba622734aa18731a6d8",
+              "bytes": 95052,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-bass-low.opus",
+              "sha256": "e991aa97f357d1536c7aa41a9994dcc1396769a70716cd2360f9a0f5d313ca60",
+              "bytes": 46602,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-bass-low.m4a",
+              "sha256": "e3cf40c04da732446f96ab19a62f945a21a3f3ff3040cc2e4462d7386509650b",
+              "bytes": 58232,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-rhythm-normal.opus",
+              "sha256": "02a2a0aa8770f4fdafdeb82a1047b14507bc9e5c8865e181285b310d8cc08a7c",
+              "bytes": 37388,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-rhythm-normal.m4a",
+              "sha256": "b7a7dfe3cb80671cdeb464b119c3456714783fc10e0c0bd1aef3263c6120369f",
+              "bytes": 61688,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-00-rhythm-low.opus",
+              "sha256": "4bc7dd0ed88826aca2471d17122879c86a85eab3f214f564aa0288c8a9bc198b",
+              "bytes": 23597,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-00-rhythm-low.m4a",
+              "sha256": "9853f7ce5cf47061500b936a0b59962b39f98c742471a479cd78a211d4ce9feb",
+              "bytes": 36843,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-melody-normal.opus",
+              "sha256": "c09e33277383bfa1cf6e554528c5fc460a942826013d05d0defd5e0c4f239316",
+              "bytes": 97969,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-melody-normal.m4a",
+              "sha256": "c77e5aa9ab3a148ed2edcc3b095bab129b04bca87cec30623dcbc25d317b3a01",
+              "bytes": 94886,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-melody-low.opus",
+              "sha256": "32b436172bf08f3b79ae4d6a81b761e0a08026ba2b8a90f0664ab71fe7454090",
+              "bytes": 63719,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-melody-low.m4a",
+              "sha256": "cbc25d2f61ec0456fb4565f929fc4bc51cf87edef322bafecc8b7dada480772d",
+              "bytes": 58214,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-harmony-normal.opus",
+              "sha256": "363f2072ba8a73da8dcc03fbe92eb1d5227a1996d88c1cbef374b571a275e65e",
+              "bytes": 94797,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-harmony-normal.m4a",
+              "sha256": "0fe920b48e5ec880035a65f8ca74cb6dc4074071ae21f3dc63524a6adc028c71",
+              "bytes": 94856,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-harmony-low.opus",
+              "sha256": "4715f7d3194c174f2092e2835c2639470f9f1def39edb6e27c816cd887cf8f49",
+              "bytes": 56497,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-harmony-low.m4a",
+              "sha256": "3f224340f843beb303c8ad31163e88b77d353246457b69ce9b6510e007949235",
+              "bytes": 58117,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-bass-normal.opus",
+              "sha256": "7d62b75b7693f2a918594e92b9610c3c13701436bf9d888a1add1568214330c3",
+              "bytes": 65947,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-bass-normal.m4a",
+              "sha256": "6e6683aa39feb911af19ba848580c644532e934f20586b5008fb45ab55103384",
+              "bytes": 95141,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-bass-low.opus",
+              "sha256": "80f27cc0a94feb56cacbc9b2f9a06bdb533aae8d684d50ce00e12f23de8d8ebb",
+              "bytes": 46591,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-bass-low.m4a",
+              "sha256": "94907456dd738b40385610575e3dbdf24ac3035775f377f1bbdd9b75e852aa6e",
+              "bytes": 57768,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-rhythm-normal.opus",
+              "sha256": "df38b6044d179085764a4bea39162f9f21ed00af4eb85e74d3322863514d7c95",
+              "bytes": 38137,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-rhythm-normal.m4a",
+              "sha256": "96bb2c57ed4979fb223d4ca0753d3ffd7fc430a2cd8aeebdd0f9f823caac1e51",
+              "bytes": 62590,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-01-rhythm-low.opus",
+              "sha256": "221df79f3663b9c562a9116843ed7d471c498fabb55589df2ee043276ab761fe",
+              "bytes": 23308,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-01-rhythm-low.m4a",
+              "sha256": "42f23b10be1a2f894cbde1ffd21cac278a2c3512c5124c62924cdcd443b06609",
+              "bytes": 37409,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-melody-normal.opus",
+              "sha256": "789942e44d1ac4c14521ce4e1c053a95883095d9544fd89bcf8798c58c3bc733",
+              "bytes": 104099,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-melody-normal.m4a",
+              "sha256": "9f6b262ce46580d96dc129c19df1c603f821abfbec67ffb44cee33725ee53ae4",
+              "bytes": 95017,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-melody-low.opus",
+              "sha256": "68d949f9421f42a9d239517f474646af89b7b6f40ef55034765812898673b6b2",
+              "bytes": 61342,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-melody-low.m4a",
+              "sha256": "4bf6d5bf4b6b841e667a18b3ae2d75433dbcfea05c19b9d4838e262c2bcf1610",
+              "bytes": 58208,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-harmony-normal.opus",
+              "sha256": "d6f024f9c28bcd6f25756a81f349910c7e39431fffc36862867351803dc155b9",
+              "bytes": 99288,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-harmony-normal.m4a",
+              "sha256": "794cf6b669773fe405b1eb41ee4112f371e34cd6e19029cb4613e32ce03c6e21",
+              "bytes": 94862,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-harmony-low.opus",
+              "sha256": "599f080018936404e3d499b17f205f61c58a5e3c2ce2debe475c1182c11a7e66",
+              "bytes": 60932,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-harmony-low.m4a",
+              "sha256": "7edf903ad187d2c914db668a9cd3c7c446800eb9381e29ea02aa030ee6695c6b",
+              "bytes": 58146,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-bass-normal.opus",
+              "sha256": "2642d47f4149057553f765fa34598757e85a8118da347948ed7f9e9da3506065",
+              "bytes": 66132,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-bass-normal.m4a",
+              "sha256": "8671a9bb544dcd7d2f6a0e147588478f7c619c35732d0b591771c27ffe897bfd",
+              "bytes": 95053,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-bass-low.opus",
+              "sha256": "ae76e6c37909ab7b99703cb106f3e77c13a80628ea3ba8ded5d39da978727c40",
+              "bytes": 46700,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-bass-low.m4a",
+              "sha256": "84a5ca063ad39620aa47ebbde2fea335374003680e5f6d0aa1f13174d49e810b",
+              "bytes": 58209,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-rhythm-normal.opus",
+              "sha256": "00c69e1c8f9ff344ecd16b7a932c7e3f51357d4fe2831c00f1097a27d47d61fb",
+              "bytes": 66573,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-rhythm-normal.m4a",
+              "sha256": "cf9cbca9c210598e4a43e193e49adc9bddf7d936fd4037537167d4078f829798",
+              "bytes": 104327,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-02-rhythm-low.opus",
+              "sha256": "38fd87f690e10f479e7425cf600f0a7bd0ae39344a23952cd27ab02eb302c6e6",
+              "bytes": 44504,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-02-rhythm-low.m4a",
+              "sha256": "59190ca42eb5fa88838f5188523a979abd1709693953328254d137236b2d1545",
+              "bytes": 58304,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-melody-normal.opus",
+              "sha256": "64792061de6bde7bcf5c694198ebaa5263171900a2d6f865e9a08fd581836276",
+              "bytes": 104083,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-melody-normal.m4a",
+              "sha256": "af04f625c8c7c0b8560899dfd19df221602e254b20e02ce9eddc600db46c0894",
+              "bytes": 95026,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-melody-low.opus",
+              "sha256": "719dec0249b09c7ec71b61184a94973642fde6b78081d237cdfaed4b7844f4cf",
+              "bytes": 61371,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-melody-low.m4a",
+              "sha256": "0468871e106d57e07b94c24904895b98d98e8f981d4050acb485cad705193046",
+              "bytes": 58238,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-harmony-normal.opus",
+              "sha256": "45f951864a4846c39e18aaf3a62135bfcd494b4e0d41b6a0f2b68076700dcce1",
+              "bytes": 99333,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-harmony-normal.m4a",
+              "sha256": "0e18e7496ecc9c0dc5f31d44a327d211b0356c179b7864f4754a6d0e96a33a1a",
+              "bytes": 94904,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-harmony-low.opus",
+              "sha256": "f26a6ff4a352388df9c3d495c68f038492cc7c4bde78a06bca83d3c3ce9a44ee",
+              "bytes": 61750,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-harmony-low.m4a",
+              "sha256": "080cb8ca3fdcd7c46a3ae238e4c2cc9e6ffe5db4c1b6bb99684f10e59a0b5745",
+              "bytes": 58146,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-bass-normal.opus",
+              "sha256": "00a456e06fd6aa79210a67715234714514acf25182a832323dd6b0341cdb1ff6",
+              "bytes": 66168,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-bass-normal.m4a",
+              "sha256": "5db804fbf5f65ba8be6845f21f6cc88c41440ba076b3e8dcd6dd76fce916ac7e",
+              "bytes": 95093,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-bass-low.opus",
+              "sha256": "befeb16ffc6b9177a90cbb661e82010f2607ba5feb974d70ea1f19150456d6a6",
+              "bytes": 46728,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-bass-low.m4a",
+              "sha256": "7241e9d3d00b57e1f16cec7ec085ac31165a0896d299ecde36fa24704d61f161",
+              "bytes": 58211,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-rhythm-normal.opus",
+              "sha256": "c6a10a4b41a33bd167330205561fcc614b32867e1cfc57244de3b664443eea17",
+              "bytes": 67401,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-rhythm-normal.m4a",
+              "sha256": "0fb8cc0b74a8888fb8df39221353ac1345d719d57ee7078cbbb2f90ae3f31dbb",
+              "bytes": 103229,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-03-rhythm-low.opus",
+              "sha256": "98c82544f0b90fe4b9f78eb252a6d7e51044a66a503e76e2af2b4904688ac3cb",
+              "bytes": 45117,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-03-rhythm-low.m4a",
+              "sha256": "f320b4cc4ca650a9153e36af9a0587c44021082f8825b133a1ff8520bd686e49",
+              "bytes": 58277,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-melody-normal.opus",
+              "sha256": "43104f974e52fbc446e9c0c46a22ab766e97755630174289c98fc33fae078d41",
+              "bytes": 105715,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-melody-normal.m4a",
+              "sha256": "083ead797fcefa951732eaf5730f5b94ac3367a2a0e91d044c44e5451a658af8",
+              "bytes": 94828,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-melody-low.opus",
+              "sha256": "7a782ba178540b220162b9aa6b7d8db8055f65703935cc2459aa85fd34c69bad",
+              "bytes": 62237,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-melody-low.m4a",
+              "sha256": "1ac8380ae0d587b4ece45da22166b02aee8e1bd801194dac06ff7a20f22f522e",
+              "bytes": 58230,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-harmony-normal.opus",
+              "sha256": "945f51ccdd3ad32fc3d387bd532092442f393d3d691f0ff92bdfadd61c8998f4",
+              "bytes": 99540,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-harmony-normal.m4a",
+              "sha256": "49be33f9e9df7aee98c5ef4451eb8aa7546f2dfb95a6300de520bef6a2170665",
+              "bytes": 94928,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-harmony-low.opus",
+              "sha256": "eed9ba3462956fed5bd25b5c032f539945a9671616f1bc81c05f451063bad9eb",
+              "bytes": 61929,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-harmony-low.m4a",
+              "sha256": "b329849c7bfe65c410117d736bd4cad116392a620981340f65fc7f2cfc6ea6d5",
+              "bytes": 58138,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-bass-normal.opus",
+              "sha256": "9ac53d6dbd9669cef3abe1d32ff3776183f46d1dbfbe96bb932f2513f55cf525",
+              "bytes": 66346,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-bass-normal.m4a",
+              "sha256": "a787746c1de6b0e8a9676e4eaee6bb1d6202b0e1b32a8db133a7f5808e9c8d79",
+              "bytes": 95100,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-bass-low.opus",
+              "sha256": "2a4d029593d56ba093292e708399b6512e01c314691894fe03dd6a09a5ef7cb2",
+              "bytes": 46881,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-bass-low.m4a",
+              "sha256": "2b9ecb099a7f884c42f289745b772fdfb497844d190da2a142839ad2728475c1",
+              "bytes": 58213,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-rhythm-normal.opus",
+              "sha256": "c28ca7306583e888f9f16e4f3bdefe8d2567e803afc0db4a2113e5f00ad89a33",
+              "bytes": 64016,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-rhythm-normal.m4a",
+              "sha256": "90cddcb58ba1482cc9fde2560d0598276af1e96c9b89f43c3d7518cefa195198",
+              "bytes": 104250,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-04-rhythm-low.opus",
+              "sha256": "f53f692c36a2a3b4c12557adb4834cd9d8f0097c802d7bbe2495896181b55b64",
+              "bytes": 44170,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-04-rhythm-low.m4a",
+              "sha256": "18b3dc481a8a570cb94d7f4555b191e2ec614e97cc6fe19339a6c85e5c701d61",
+              "bytes": 58338,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-melody-normal.opus",
+              "sha256": "8712acf5f3ead5ff322fbc4c9a92af7365f5bb14338b58a76017dbd329099bd1",
+              "bytes": 118133,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-melody-normal.m4a",
+              "sha256": "59cc645036540126da954176696708f6c34cbdc589cd3c600f1af674d9d2672d",
+              "bytes": 95039,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-melody-low.opus",
+              "sha256": "2bcfb1bca74113078c4a04c3d7b22eb5094e33d5d778af340975bb5aeb2ac888",
+              "bytes": 71341,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-melody-low.m4a",
+              "sha256": "eea063f39b19bcc7b5f26c5af5c71e946aeae3e108a87d0497fa42800e9127d1",
+              "bytes": 58220,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-harmony-normal.opus",
+              "sha256": "42cbfa694e8fb474920d1bfbd481d154c4884091bcc5abe2a2fc51ef165d812a",
+              "bytes": 99271,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-harmony-normal.m4a",
+              "sha256": "44a3c039c3aa9614218e58b13a9b069e7b492f412c9e0d2a16102a93b81f553f",
+              "bytes": 94881,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-harmony-low.opus",
+              "sha256": "a860013adbea1e223b51109372ed6ea08b39b81ac6eb07d1918a26a6898bcab9",
+              "bytes": 61862,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-harmony-low.m4a",
+              "sha256": "e5dd0abab770074ce6320c3f49315392e9f55670611d738d56dc3b27bb3c657f",
+              "bytes": 58150,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-bass-normal.opus",
+              "sha256": "06977f8306ad561f6f55b15505265ec34e8dab00cf61b36beda6768e64c97898",
+              "bytes": 66246,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-bass-normal.m4a",
+              "sha256": "021da2d8d8e5aeebb53d180cacb63dd05e899df9be4179c56a1be62ffcf1e675",
+              "bytes": 95118,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-bass-low.opus",
+              "sha256": "563633b658f5fb62c1c425cb4335d0d6dc35b93164c441d7a1ab0c8496236e01",
+              "bytes": 46858,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-bass-low.m4a",
+              "sha256": "afb232ec157e3e248596696aaf83d44cc25688193abc82875af34a6eb67d8948",
+              "bytes": 58211,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-rhythm-normal.opus",
+              "sha256": "0f517099eff4cafa0c3c06a98e7afa49f33183fd438dab54c9233a3f5633c1a7",
+              "bytes": 67923,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-rhythm-normal.m4a",
+              "sha256": "0db0b7a2547e91c10941ea62e1b7ced4caf5d7686127a0e7b7612f0165e39597",
+              "bytes": 103530,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-05-rhythm-low.opus",
+              "sha256": "870e018e1d979b033a03691b60a9704d74f617b75bdb3e2bce6fa341d097a9d4",
+              "bytes": 45241,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-05-rhythm-low.m4a",
+              "sha256": "dc2d963860f32a88f56802c092c06522974a2d8dfb50e1b3fd52abcd22e3bc5d",
+              "bytes": 58296,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-melody-normal.opus",
+              "sha256": "6de1d89afa288617c265cb4287a233972e92f4e85ea22149e3ed876901ca2858",
+              "bytes": 111620,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-melody-normal.m4a",
+              "sha256": "f7459aeda10bc46678d2c0d26a98f557635bc4634f61363a5026e9f2e1e4f622",
+              "bytes": 94794,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-melody-low.opus",
+              "sha256": "92beff562e4d376d687bea7f475cf3a2b1b9e985b95bf045c3cb35c17669946a",
+              "bytes": 68207,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-melody-low.m4a",
+              "sha256": "062055e765ad9eafeb125b1fb077f3087a6471e038409e41f4953e36ce934739",
+              "bytes": 58249,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-harmony-normal.opus",
+              "sha256": "9d7ab6960ca5aebc5d58ecaa36b786d87a15879c6eb3eb3053cf8aac82da65ff",
+              "bytes": 94226,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-harmony-normal.m4a",
+              "sha256": "d1de35bc411025045a778d2347a59c837913d50e820597c28d79428e834916ae",
+              "bytes": 94825,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-harmony-low.opus",
+              "sha256": "fb2bebac91a8159aa032d643f010dff77fd9ae95cee8e4827ce7b8c86ae776cd",
+              "bytes": 56826,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-harmony-low.m4a",
+              "sha256": "c16338b1c352c5e95fdfc3290ccf29b4ee2e4e74f701813d75f7665df5bc52c7",
+              "bytes": 58165,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-bass-normal.opus",
+              "sha256": "00a805631e644168569da73234b473d2caf0c2fbbf8797f4ec7db7139913df37",
+              "bytes": 66564,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-bass-normal.m4a",
+              "sha256": "5eca0008d5796e2e03a24af3d4d2da32034d0575dbb9289cf6113354c61bebe1",
+              "bytes": 95294,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-bass-low.opus",
+              "sha256": "0332afbeb0109dd7baf12abf0d0bfd3f1d17538d02323ea07d4bd37dbfc9c48a",
+              "bytes": 46582,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-bass-low.m4a",
+              "sha256": "99c4871810325669ee08147c11a743aec9694a470c05907ec3caccb5764aaf59",
+              "bytes": 58200,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-rhythm-normal.opus",
+              "sha256": "b9bc352403edfdcc7ac53dd4de53881e72fc031131f8bcfe3154641a2346861a",
+              "bytes": 66812,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-rhythm-normal.m4a",
+              "sha256": "85d67feb77fe404cfdf684b0a2d05abd93f05887f9877cea4b59e9dfc15e896b",
+              "bytes": 104217,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-06-rhythm-low.opus",
+              "sha256": "342c129bc981ca23cbf75c893b27ef5db2caf27f66df33bb558c8dcb40f341a7",
+              "bytes": 44269,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-06-rhythm-low.m4a",
+              "sha256": "ad1e32f5d7379e8ae0c26fede41b09270dc681cc247dd892cc2d3c34be9dce4c",
+              "bytes": 58253,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-melody-normal.opus",
+              "sha256": "711c1a4458dd86044a6df4f3f0151aae9cd4a9329be1e921cd496b0aec4a8cc7",
+              "bytes": 109474,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-melody-normal.m4a",
+              "sha256": "bdca9ec11aa661a2e99cb29ea240bd0ed68e03376f081f60858267d6a6148ffd",
+              "bytes": 94844,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-melody-low.opus",
+              "sha256": "9cb37eb5cdcdfa3a0aba80029cc58b0eea813a73efa8a6aea407073c45ec307f",
+              "bytes": 67254,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-melody-low.m4a",
+              "sha256": "e8ede0cf8b545d4375cc32a07ce5c1dfb2e4e71e1fc2283d1a8e6b7f93958dd2",
+              "bytes": 58204,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-harmony-normal.opus",
+              "sha256": "bba3991f7c8775b14e2d36a66fbd0857ef6545f36f2c1f21a76685724641a3fe",
+              "bytes": 94025,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-harmony-normal.m4a",
+              "sha256": "50b46dcedb97b90b2a526648c001f90f539c629dc0ecfdffe53abbc41027611e",
+              "bytes": 94962,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-harmony-low.opus",
+              "sha256": "908f568b64bddd19bc875e0d16cc813da10d9c65de0c277bd913b4f559b289de",
+              "bytes": 56893,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-harmony-low.m4a",
+              "sha256": "01a17155db8b2712cf4de3f6390655f76e6fc84d2781aad3660b723c0ecafecf",
+              "bytes": 58148,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-bass-normal.opus",
+              "sha256": "f32798caa1076edb9daa282cbf4ce12ce94cc637dc0af1285c2e647ef88bb533",
+              "bytes": 66471,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-bass-normal.m4a",
+              "sha256": "07aa5ad27562369ab29f352935ab43403609e2dab406c71b57b59f735a168c54",
+              "bytes": 95054,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-bass-low.opus",
+              "sha256": "4991b877373b1ffd98cc114090326f8bcad01125041025d8a71676dd636fc2d5",
+              "bytes": 46456,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-bass-low.m4a",
+              "sha256": "f22c130c11fa6808ee6241f3e5411ef7676f063dabd19fa58c38d1ae28bf872f",
+              "bytes": 58204,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-rhythm-normal.opus",
+              "sha256": "7ce1c62ad2df7a38b7c0a36a4f2c4dfe15106d0290cc244b3d1f26f19df37d35",
+              "bytes": 66089,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-rhythm-normal.m4a",
+              "sha256": "c5d3f527a038f8d05845e857c03fef685a065ffd7c0ac53146fc71abf1ee7e88",
+              "bytes": 103180,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-07-rhythm-low.opus",
+              "sha256": "9cf5357be8199fdffbd6494e02b2c682dc4d1fc363d2eab1e31a92d22b4bc0bb",
+              "bytes": 44289,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-07-rhythm-low.m4a",
+              "sha256": "77c32d7dbe1005bb2c16e5daf0b0e6825cdbe7c8ae89b19f8357e2c5393757ba",
+              "bytes": 58264,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-melody-normal.opus",
+              "sha256": "9a809937f6cbe56fdb6610b891fd9add8c9f45bac0662bfe339ff0c0972d1732",
+              "bytes": 102029,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-melody-normal.m4a",
+              "sha256": "5e1f17d555d766206317d329f69733369b9cc819ed1785c7795b1a5e48c4dca3",
+              "bytes": 94954,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-melody-low.opus",
+              "sha256": "426a827216f37b6c63951165c07cf1e2ae8e7e8fcf98ad90a7e9e7b092dbcafb",
+              "bytes": 67282,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-melody-low.m4a",
+              "sha256": "2c08b7c2886a486436db291cb2203d22b53011d3347302c5199c5bf6235b3857",
+              "bytes": 58172,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-harmony-normal.opus",
+              "sha256": "a4d73381b100f6224e2ba6cad48b73bc1a863623c0c75ae937193db62037af13",
+              "bytes": 97793,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-harmony-normal.m4a",
+              "sha256": "9f49e1fdab9f676b64764baed07ca1982970a078724edf4900ca8fa981bd0e48",
+              "bytes": 94906,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-harmony-low.opus",
+              "sha256": "6fda13e72bd176191bfc549148f0c663797413c1216c5189730f6976f8ed1c95",
+              "bytes": 60182,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-harmony-low.m4a",
+              "sha256": "5b6ddc41f05f34266e194e5135b0d700afc47f29c4848c4b97fa84722df52ade",
+              "bytes": 58165,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-bass-normal.opus",
+              "sha256": "1c8800bac41a74c332013f30f62056cf3112a17c6c1ecadb3a5a89bd268b06a5",
+              "bytes": 69682,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-bass-normal.m4a",
+              "sha256": "46940f8cfb43cf34814a716cc1601ea2eccd100e6b349c17a7428c29aefabf93",
+              "bytes": 95209,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-bass-low.opus",
+              "sha256": "0e1cb3a0948cdf46dc83a3d572ab44cc4e1f89d98342165db76d5feeacc3b194",
+              "bytes": 47844,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-bass-low.m4a",
+              "sha256": "7856fa8f2efa70033d06687a0ccdedc878888a8f36b1029a45cfbba9dd495fe0",
+              "bytes": 58187,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-rhythm-normal.opus",
+              "sha256": "07a8a215f1847f81b58493737e932b5326d05342e1a0f2a208e5beb924a42219",
+              "bytes": 64370,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-rhythm-normal.m4a",
+              "sha256": "976799a6f9d8aeb73a2c6045f6cec70813414de183992ea5987e0ec103a3eb1b",
+              "bytes": 103181,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-08-rhythm-low.opus",
+              "sha256": "0049aecfb2a83d4cfc31b62cf61e6b8d0dd815d931b6ce215cbedabc6a8f49bc",
+              "bytes": 44895,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-08-rhythm-low.m4a",
+              "sha256": "ebac215fba68b0ce15c961f942c45b1199945f0f1a14054f3c040d7cfa544b69",
+              "bytes": 58456,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-melody-normal.opus",
+              "sha256": "d836d65573c96becced49affa8bf515ec945690481ca96ead0aa3443b433fb5a",
+              "bytes": 105044,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-melody-normal.m4a",
+              "sha256": "b8d0acf50ccff8c2f288c6a8551650e577e8d1f47ad973e6ddf2330a62706833",
+              "bytes": 95393,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-melody-low.opus",
+              "sha256": "20319b5f164fb1f8734cd3988539c08153f5eeb793c8174606a5dbdc92f8d9de",
+              "bytes": 68736,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-melody-low.m4a",
+              "sha256": "c0f7572ff74fc828d565cc17b113645038c0c9baf712268cf6584cc7760dd7ce",
+              "bytes": 58142,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-harmony-normal.opus",
+              "sha256": "eca1a8a336e246357b02866d031e4732c940118240cc4400d5dfeeb7ad9cf732",
+              "bytes": 97829,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-harmony-normal.m4a",
+              "sha256": "bc6eff845f833e0abd149796c179bad9dc84b219922eb102a054e43a95164c8e",
+              "bytes": 94877,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-harmony-low.opus",
+              "sha256": "9e232d4a69ef63c68495983f7b18da00feebb55879fd83660e6c8b5aae4bde4d",
+              "bytes": 60802,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-harmony-low.m4a",
+              "sha256": "8dd8503131ad7a23407ef9f00cbeb1e5dfa7a138b742c89daf61a96d894f3926",
+              "bytes": 58153,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-bass-normal.opus",
+              "sha256": "2c5af49905b4b4059f2333e09ef480fef5768daf8dafead6e7a7e8634fffaa5a",
+              "bytes": 69840,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-bass-normal.m4a",
+              "sha256": "b8f8f20578b1ae0141639964549f331b2aab956a47eb281a90ffed46fe223317",
+              "bytes": 95056,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-bass-low.opus",
+              "sha256": "dc00e8bad30479685fc446548b44eca2ae80dd69a76092f0593ef3f2acc0b487",
+              "bytes": 48568,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-bass-low.m4a",
+              "sha256": "d98e2ff5025ee42b9ae1586b479ded97d9d4bf90a8fa602ba59e46694390c020",
+              "bytes": 58278,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-rhythm-normal.opus",
+              "sha256": "d97cf2583cb0bf8f6c85c50a7b9ad307633ee5857fb25d0b6536c3ff5681d361",
+              "bytes": 66921,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-rhythm-normal.m4a",
+              "sha256": "3a6c422a9cee30425abfdcd6fc13feb142991f97b08bd4dee1d2056d2b8618cb",
+              "bytes": 100705,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-09-rhythm-low.opus",
+              "sha256": "9210329afbc8b90364c2e7ff40deaffa33f9e6a16504217df6181198fd69bdf5",
+              "bytes": 45299,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-09-rhythm-low.m4a",
+              "sha256": "e31eb94fd29588a25e2a3efe64a8aca1c638564edd46a3b8203b00c2b91cfff0",
+              "bytes": 58497,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-melody-normal.opus",
+              "sha256": "009dbd7b20e7ea71a0ecb7bb8f748fd49f8010f3b439e3e1f5b6852872b51956",
+              "bytes": 139554,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-melody-normal.m4a",
+              "sha256": "1d1614b8801eea205d23ec1afdfeb0e591dbe6c330e9b6b683d03d2081ed4b8e",
+              "bytes": 96073,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-melody-low.opus",
+              "sha256": "f3d64c57059d6f5606db5a3b4ee6337f9d12e816557310dfb25c4c4406814240",
+              "bytes": 82717,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-melody-low.m4a",
+              "sha256": "d2988de131f724a89f13a2b765d7b3fcd59932c82af81c8f2681bc4380caf21d",
+              "bytes": 58391,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-harmony-normal.opus",
+              "sha256": "3e464176d14423fa241be99f7a7e6f91509a636e93e938276929f851d05c2755",
+              "bytes": 93269,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-harmony-normal.m4a",
+              "sha256": "f86be06e0858fd4c0f39d7cd2a97fa3a3ae9afe6c9b99ff767e252283c28ed88",
+              "bytes": 94822,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-harmony-low.opus",
+              "sha256": "f46a4e3ef867db144b5b1ee55dbe5868fb2a3226eb4e0e98d739a83a5eb5d810",
+              "bytes": 56163,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-harmony-low.m4a",
+              "sha256": "aa820cfa5709f9348054b9acdb7f4b5f9cb16ebae3baef21d3d4377b9463f742",
+              "bytes": 58152,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-bass-normal.opus",
+              "sha256": "3a0f0051d7edd93a6b27b6cf62b50f19c4edbbbbb307f8357c6be3c6722d0563",
+              "bytes": 65204,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-bass-normal.m4a",
+              "sha256": "d0031b11c9ddbc376f2e0ca97429a57a29e3845451bc46d400cc72af7f6aa190",
+              "bytes": 95091,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-bass-low.opus",
+              "sha256": "d3be65ee2d76fed02e8f58f8b963c97c7eb7255798b0c951acb2a1f2df475315",
+              "bytes": 45824,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-bass-low.m4a",
+              "sha256": "7a021d52f38e2b602e400d6dbb3de762f41cc3e8a2165865b1189e3b98f3eedc",
+              "bytes": 58197,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-rhythm-normal.opus",
+              "sha256": "756bfaf3254ee58978a82b05fa9854cbac036d9f47129c8ce9a98c13d85c9bbe",
+              "bytes": 40012,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-rhythm-normal.m4a",
+              "sha256": "79b021b2ee86da28dd9ff96dd29bfff3bc9757ffc526b07102e249399d342e7f",
+              "bytes": 64467,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-10-rhythm-low.opus",
+              "sha256": "6b3f1dc27cba5ae94d9dd4cefcf244741de3dcfa6bae066674c19002454dd7d6",
+              "bytes": 21704,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-10-rhythm-low.m4a",
+              "sha256": "4def20e9396100f5ee96dddc6f510212b16bae9360f325d9ceb7c9cfc00f5fe9",
+              "bytes": 39060,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-melody-normal.opus",
+              "sha256": "bc3e6be2252f703b3b8ced6691ba2c01f16d98313ee23264f87f2a2c4acd91fd",
+              "bytes": 137435,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-melody-normal.m4a",
+              "sha256": "6ef545f4bf36b9f6a9e7555b9f311543507bc073b444c9a891da65f5808bb6aa",
+              "bytes": 96290,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-melody-low.opus",
+              "sha256": "51083b71a70df71c710cfa62289c3338540cefe232f490331e6696bf270c0787",
+              "bytes": 81203,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-melody-low.m4a",
+              "sha256": "57d688d4db5cf4d239dc7100c10a6fabb0b8126202d18b6ed1b07909c704452a",
+              "bytes": 58642,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-harmony-normal.opus",
+              "sha256": "364e8b1513bdcae994a357aa0f4d0ca7e45dfed9e879202b448d38ade6c6e60b",
+              "bytes": 92956,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-harmony-normal.m4a",
+              "sha256": "ca776aa26e77443cfca6982e6fb9051141e0e0a2481a0522d97507a7bd9b7c8e",
+              "bytes": 94826,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-harmony-low.opus",
+              "sha256": "63076d09041de95dc9d2a163b52d701de913bbac2ffdfec2744dfb917c434c6b",
+              "bytes": 56079,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-harmony-low.m4a",
+              "sha256": "0f1cbef3742e7b650e53ae19ea3e0ae0536cfb4e9d8de90c035e6852745ca966",
+              "bytes": 58132,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-bass-normal.opus",
+              "sha256": "05e659428f0e1d0dcb30695a3e804f38608d7917c55efcc23e0ca651406d5048",
+              "bytes": 65298,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-bass-normal.m4a",
+              "sha256": "7dfeed7be0f3f097a6cfbb90124d129b20f3c61ea9249f874866c49bb7bfe345",
+              "bytes": 95066,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-bass-low.opus",
+              "sha256": "0637a8237b91460f8c26dc31a9ca88e75e26b206eb961a94c7c62987ea216ab3",
+              "bytes": 45885,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-bass-low.m4a",
+              "sha256": "1f793f25207ee253dbf8b398b491c803bf3af1cb8bfced46e4fd05317ec6df91",
+              "bytes": 58214,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-rhythm-normal.opus",
+              "sha256": "60d1a94aaa86520497a915026150a597783ef925694331400cacfc668e64ca58",
+              "bytes": 37503,
+              "seconds": 9.288875,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-rhythm-normal.m4a",
+              "sha256": "0502d11930121c87ba4ee25a97c266525be36dcb06f188d444560a54f71c90a3",
+              "bytes": 61721,
+              "seconds": 9.288875,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/tile-trails-11-rhythm-low.opus",
+              "sha256": "21b01819a09696e663b3e40e170b5e71709fa80ada0e5bce90b27c43cccb1677",
+              "bytes": 23581,
+              "seconds": 9.288875,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/tile-trails-11-rhythm-low.m4a",
+              "sha256": "f5211e8f4d0dbaa5779bbb28f96dafc7e98cd6e44e0cb87d2f689f939ba48cee",
+              "bytes": 36819,
+              "seconds": 9.288875,
+              "channels": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

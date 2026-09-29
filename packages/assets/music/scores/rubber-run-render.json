@@ -1,0 +1,87 @@
+{
+  "id": "rubber-run",
+  "title": "Rubber Run",
+  "bpm": 128,
+  "bars": 56,
+  "seconds": 105,
+  "frames": 3360000,
+  "sampleRate": 32000,
+  "channels": 2,
+  "notes": 2019,
+  "instruments": [
+    "pizzicato",
+    "strings",
+    "piano",
+    "bass",
+    "kick",
+    "shaker",
+    "snare",
+    "marimba",
+    "cymbal",
+    "glockenspiel",
+    "tom",
+    "flute"
+  ],
+  "originalPeak": 1.5369020402431488,
+  "gain": 0.494501262995111,
+  "peak": 0.76,
+  "rms": 0.13600857245335077,
+  "sections": [
+    {
+      "name": "Ready",
+      "startSeconds": 0,
+      "endSeconds": 15,
+      "rms": 0.10684972275633521
+    },
+    {
+      "name": "Duck Dash",
+      "startSeconds": 15,
+      "endSeconds": 45,
+      "rms": 0.14542597519780676
+    },
+    {
+      "name": "Breath",
+      "startSeconds": 45,
+      "endSeconds": 60,
+      "rms": 0.09989052987161265
+    },
+    {
+      "name": "Rapid Tiles",
+      "startSeconds": 60,
+      "endSeconds": 90,
+      "rms": 0.15378083372900556
+    },
+    {
+      "name": "Last Bend",
+      "startSeconds": 90,
+      "endSeconds": 105,
+      "rms": 0.13601037855548173
+    }
+  ],
+  "stems": [
+    {
+      "layer": "melody",
+      "file": "masters/rubber-run-melody.wav",
+      "bytes": 13440044,
+      "sha256": "402494fff0e2ec9aba01961bd87c12a86575e9352241cb1976e9dc471f6ec749"
+    },
+    {
+      "layer": "harmony",
+      "file": "masters/rubber-run-harmony.wav",
+      "bytes": 13440044,
+      "sha256": "ca4e045c2bfdff89148d88416a75ad76d2042e8d3bcd0060f74c976fdf2477f5"
+    },
+    {
+      "layer": "bass",
+      "file": "masters/rubber-run-bass.wav",
+      "bytes": 13440044,
+      "sha256": "609b93588233ae5d2bf78ab7a216cdc96bab35a765aea3a2c6600d82b29f1e93"
+    },
+    {
+      "layer": "rhythm",
+      "file": "masters/rubber-run-rhythm.wav",
+      "bytes": 13440044,
+      "sha256": "bb3201c6429936150b7aa85bc9165a2bfcc167ee0ef12607ef84fc082b9c738a"
+    }
+  ]
+}

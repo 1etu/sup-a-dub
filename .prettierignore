@@ -1,0 +1,14 @@
+node_modules
+dist
+reference
+packages/assets/fonts
+packages/assets/models
+packages/assets/review/**/*.json
+packages/assets/flags/manifest.json
+packages/assets/icons/manifest.json
+packages/assets/ui/awards/manifest.json
+apps/web/public
+bun.lock
+data
+test-results
+playwright-report

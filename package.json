@@ -1,0 +1,34 @@
+{
+  "name": "sup-a-dub",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "packageManager": "bun@1.4.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "bun scripts/dev.ts",
+    "assets": "bun scripts/sync-assets.ts",
+    "build": "bun run assets && bun run typecheck && bun run --filter @supadub/web build",
+    "start": "bun apps/server/src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "admin": "bun scripts/admin.ts",
+    "format": "prettier --write apps packages scripts",
+    "format:check": "prettier --check apps packages scripts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/bun": "^1.3.0",
+    "@types/three": "^0.180.0",
+    "meshoptimizer": "0.22.0",
+    "prettier": "^3.9.9",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.12"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "description": "A little duck. A very big tub. A multiplayer browser game inspired by Super Rub a Dub."
+}

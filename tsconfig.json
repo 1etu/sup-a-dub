@@ -1,0 +1,86 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": [
+      "ES2022",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "types": [
+      "bun",
+      "vite/client"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@supadub/protocol": [
+        "packages/protocol/src/index.ts"
+      ],
+      "@supadub/simulation": [
+        "packages/simulation/src/index.ts"
+      ],
+      "@supadub/gameengine": [
+        "packages/gameengine/src/index.ts"
+      ],
+      "@supadub/audioengine": [
+        "packages/audioengine/src/index.ts"
+      ],
+      "@supadub/assets": [
+        "packages/assets/src/index.ts"
+      ],
+      "@supadub/achievements": [
+        "packages/achievements/src/index.ts"
+      ],
+      "@supadub/cosmetics": [
+        "packages/cosmetics/src/index.ts"
+      ],
+      "@supadub/sprites": [
+        "packages/sprites/src/index.ts"
+      ],
+      "@supadub/core": [
+        "packages/core/src/index.ts"
+      ],
+      "@supadub/features": [
+        "packages/features/src/index.ts"
+      ],
+      "@supadub/graphics": [
+        "packages/graphics/src/index.ts"
+      ],
+      "@supadub/network": [
+        "packages/network/src/index.ts"
+      ],
+      "@supadub/assets/*": [
+        "packages/assets/src/*/index.ts"
+      ],
+      "@supadub/assets/graphics/*": [
+        "packages/assets/src/graphics/*.ts"
+      ],
+      "@supadub/assets/sfx/*": [
+        "packages/assets/src/sfx/*.ts"
+      ],
+      "@supadub/inputengine": [
+        "packages/inputengine/src/index.ts"
+      ]
+    }
+  },
+  "include": [
+    "apps/*/src",
+    "apps/web/vite.config.ts",
+    "packages/*/src",
+    "scripts/admin.ts",
+    "scripts/dev.ts",
+    "scripts/sync-assets.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

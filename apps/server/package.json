@@ -1,0 +1,14 @@
+{
+  "name": "@supadub/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@supadub/features": "workspace:*",
+    "@supadub/network": "workspace:*",
+    "@supadub/protocol": "workspace:*",
+    "@supadub/simulation": "workspace:*",
+    "@supadub/achievements": "workspace:*",
+    "@supadub/cosmetics": "workspace:*"
+  }
+}

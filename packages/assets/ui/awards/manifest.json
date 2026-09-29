@@ -1,0 +1,127 @@
+{
+  "authored": true,
+  "originalGameAsset": false,
+  "references": [
+    "reference/source-bible/replay-source/frame-145.png",
+    "reference/source-bible/replay-source/frame-150.png",
+    "reference/original/menu.png"
+  ],
+  "generatedAt": "2026-09-29T02:27:57.454Z",
+  "bun": "1.4.0",
+  "browser": "153.0.8010.53",
+  "channel": "chrome",
+  "errors": [],
+  "captures": [
+    {
+      "grade": "gold",
+      "width": 512,
+      "height": 512,
+      "transparent": 94472,
+      "opaque": 166234,
+      "bounds": {
+        "left": 26,
+        "top": 25,
+        "right": 484,
+        "bottom": 486
+      },
+      "luminance10": 126.38879999999999,
+      "luminance90": 226.7748,
+      "resources": {
+        "geometries": 13,
+        "materials": 4,
+        "textures": 1,
+        "triangles": 56884
+      },
+      "environment": {
+        "sourceWidth": 512,
+        "sourceHeight": 256,
+        "sourceBytes": 2097152,
+        "targetWidth": 384,
+        "targetHeight": 512,
+        "retainedTextures": 1,
+        "retainedTargets": 1
+      },
+      "gpu": {
+        "geometries": 13,
+        "textures": 3
+      },
+      "filename": "award-gold.png",
+      "bytes": 304425,
+      "sha256": "9ae822d3f6c27f3168f33d96991a196e5477877d58e6ee6271e558340416b8ad"
+    },
+    {
+      "grade": "silver",
+      "width": 512,
+      "height": 512,
+      "transparent": 94472,
+      "opaque": 166234,
+      "bounds": {
+        "left": 26,
+        "top": 25,
+        "right": 484,
+        "bottom": 486
+      },
+      "luminance10": 137.945,
+      "luminance90": 252.29,
+      "resources": {
+        "geometries": 13,
+        "materials": 4,
+        "textures": 1,
+        "triangles": 56884
+      },
+      "environment": {
+        "sourceWidth": 512,
+        "sourceHeight": 256,
+        "sourceBytes": 2097152,
+        "targetWidth": 384,
+        "targetHeight": 512,
+        "retainedTextures": 1,
+        "retainedTargets": 1
+      },
+      "gpu": {
+        "geometries": 13,
+        "textures": 3
+      },
+      "filename": "award-silver.png",
+      "bytes": 279133,
+      "sha256": "84ea0ad9a33db15d7276a25ca7933e8021ee7e5552efc1971c3454b62193f35c"
+    },
+    {
+      "grade": "bronze",
+      "width": 512,
+      "height": 512,
+      "transparent": 94472,
+      "opaque": 166234,
+      "bounds": {
+        "left": 26,
+        "top": 25,
+        "right": 484,
+        "bottom": 486
+      },
+      "luminance10": 75.142,
+      "luminance90": 203.5178,
+      "resources": {
+        "geometries": 13,
+        "materials": 4,
+        "textures": 1,
+        "triangles": 56884
+      },
+      "environment": {
+        "sourceWidth": 512,
+        "sourceHeight": 256,
+        "sourceBytes": 2097152,
+        "targetWidth": 384,
+        "targetHeight": 512,
+        "retainedTextures": 1,
+        "retainedTargets": 1
+      },
+      "gpu": {
+        "geometries": 13,
+        "textures": 3
+      },
+      "filename": "award-bronze.png",
+      "bytes": 312785,
+      "sha256": "31bfa1ad9d6445a08d903c0636933809ea8591129fbd56dc19f8a20a3b176991"
+    }
+  ]
+}

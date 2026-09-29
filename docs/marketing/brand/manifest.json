@@ -1,0 +1,129 @@
+{
+  "createdAt": "2026-09-29T14:04:49.968Z",
+  "browser": "153.0.8010.53",
+  "renderer": "Three.js 0.180.0 / WebGL2 / NeutralToneMapping",
+  "sourceModel": "packages/assets/models/duck.glb",
+  "sourceFont": "packages/assets/fonts/supadub-display.ttf",
+  "bodyFont": "packages/assets/fonts/rajdhani-bold.ttf",
+  "fontDependenciesInSvg": false,
+  "renderStats": [
+    {
+      "name": "captain",
+      "calls": 2,
+      "triangles": 5024
+    },
+    {
+      "name": "pink",
+      "calls": 1,
+      "triangles": 4212
+    },
+    {
+      "name": "mint",
+      "calls": 1,
+      "triangles": 4212
+    },
+    {
+      "name": "gold",
+      "calls": 1,
+      "triangles": 4212
+    }
+  ],
+  "exports": [
+    {
+      "file": "supadub-wordmark.png",
+      "width": 1452,
+      "height": 265,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "supadub-avatar.png",
+      "width": 1024,
+      "height": 1024,
+      "cornerAlpha": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "supadub-avatar-512.png",
+      "width": 512,
+      "height": 512,
+      "cornerAlpha": [
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "supadub-avatar-192.png",
+      "width": 192,
+      "height": 192,
+      "cornerAlpha": [
+        255,
+        255,
+        255,
+        255
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "supadub-wordmark.png",
+      "bytes": 182318,
+      "sha256": "726eb99ca3397761f0725cd06cdd00808be75d570498704f80bc4a82119d8862"
+    },
+    {
+      "file": "supadub-wordmark.svg",
+      "bytes": 64256,
+      "sha256": "ccac34d0e4673eeb5d9020f82e728e2b4eeb3b7f6ed964c641e85e43f4d4dd1f"
+    },
+    {
+      "file": "supadub-avatar.png",
+      "bytes": 1504640,
+      "sha256": "20df0ac8f3f6fe2ffa46cec89f3985cd730e4af96acd9994fd205bcf34accbce"
+    },
+    {
+      "file": "supadub-avatar.svg",
+      "bytes": 527915,
+      "sha256": "32ba4a260594d39d74e07c79fe9e05fcce12c5482250dc3722a30430ee72069a"
+    },
+    {
+      "file": "supadub-avatar-512.png",
+      "bytes": 423304,
+      "sha256": "3f0fabf964479b169cdf9074045c5d22197c136b12ec1f4d3d1a5f2a9da96459"
+    },
+    {
+      "file": "supadub-avatar-192.png",
+      "bytes": 70766,
+      "sha256": "58cb411539d200af6bdee1a9f0d185f9f10bc2849be88b26a47d09a9acecdff6"
+    },
+    {
+      "file": "badges.svg",
+      "bytes": 28339,
+      "sha256": "f25ff8055848a45b7b17bab4404de49c3ea01451a9e0b5287c00e4e02d48f4a7"
+    }
+  ],
+  "errors": [],
+  "hero": {
+    "file": "supadub-hero.png",
+    "width": 1672,
+    "height": 941,
+    "method": "ImageGen promotional key art",
+    "createdAt": "2026-09-29T14:17:38.217Z",
+    "sha256": "3cd0e944ac5069cbb71ece4bea086110994512c106c4405bfa5f2032bbf0fb68",
+    "references": [
+      "Original 2007 promotional composition study",
+      "Project wordmark",
+      "Project yellow and gold duck renders"
+    ],
+    "note": "Illustrated promotional artwork, not an in-game screenshot or a literal model render."
+  }
+}

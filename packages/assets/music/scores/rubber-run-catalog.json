@@ -1,0 +1,1970 @@
+{
+  "id": "rubber-run",
+  "title": "Rubber Run",
+  "bpm": 128,
+  "beatsPerBar": 4,
+  "barsPerChunk": 4,
+  "seconds": 105,
+  "chunks": [
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-melody-normal.opus",
+              "sha256": "b997173e944ec59069bce9f5dcbbeaff85253ac47887f4bc028d3034f1e04361",
+              "bytes": 80737,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-melody-normal.m4a",
+              "sha256": "5ff81629f465439764429e0003ed78b58257dfb2fead563f047ca58109871077",
+              "bytes": 55431,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-melody-low.opus",
+              "sha256": "2f1ebeeb5ab6cd6c40f62db9ed225a03942c60a6ef142fe137aec43ae8f4cf4f",
+              "bytes": 48190,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-melody-low.m4a",
+              "sha256": "7898c72af9ea64a737a00fcf0c04e20080ccdec7db08ddf4744602acc60a642a",
+              "bytes": 34532,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-harmony-normal.opus",
+              "sha256": "fb67e32c54eefd09217ea3e8f20eaa8f8fe92a5951e93ee8287e43799ce035ae",
+              "bytes": 78166,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-harmony-normal.m4a",
+              "sha256": "a01c4fd8f56fd95e33556bbe808389ab5cf35668ff2f8676e9bf1b95dd67893f",
+              "bytes": 80795,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-harmony-low.opus",
+              "sha256": "2c1501e6effa67cb0e759d434fc9dc72d1cabdf27ed06e904470cd37edd2daec",
+              "bytes": 48867,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-harmony-low.m4a",
+              "sha256": "222d8a8b8391b3816b1c4410295ecaa3804152916256b564ade43d18af97e4f0",
+              "bytes": 49636,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-bass-normal.opus",
+              "sha256": "61d0688c24e11d7112a35e350a3c6545c734f48257492b204737774ecb289792",
+              "bytes": 58736,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-bass-normal.m4a",
+              "sha256": "fc6d0f26d9c519f33d2739f978963b4cd39a66fd7a464658fd3e86536f0c2f7b",
+              "bytes": 80984,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-bass-low.opus",
+              "sha256": "60c27efd399582b794c22e43593c04e92c2d53e0242570df0a8b1b0057936ad0",
+              "bytes": 40677,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-bass-low.m4a",
+              "sha256": "487aacaf04594afe73ebf98fbdc6f3203c797a8118f5c7b9acdaec8d5c3bdf1d",
+              "bytes": 49665,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-rhythm-normal.opus",
+              "sha256": "a91ba3fe94ece63682cdd9b31f9682ec08ef0efdef32843ce6b797195c94b215",
+              "bytes": 57322,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-rhythm-normal.m4a",
+              "sha256": "01c67abf8e3dbefe06beb4a4de7826bb6fbc488ddafb08cf90e3c0dba0bd9b89",
+              "bytes": 88825,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-00-rhythm-low.opus",
+              "sha256": "ff406b111df4359f93f3b2c84e3d50d24313db33db19f7c58fde3c754bf54632",
+              "bytes": 38179,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-00-rhythm-low.m4a",
+              "sha256": "d7b71c1da72bc8b271f6045454241c2fcff9c547753de1a35a411b7a685a03e5",
+              "bytes": 49744,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-melody-normal.opus",
+              "sha256": "d95e7b35be7870906c7b240c32972702da2d0f1368661e6b966aaa35567dcdd2",
+              "bytes": 131188,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-melody-normal.m4a",
+              "sha256": "9432e6bea896e03561a57b0842a847019220b1dfd737cc8a4abcf860450cd730",
+              "bytes": 80711,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-melody-low.opus",
+              "sha256": "237d15481339746aa07a10583581b5f9a657771e66b04d734a00abc2f76da5d0",
+              "bytes": 76615,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-melody-low.m4a",
+              "sha256": "9c0a182309bf76f449fefd4d428e2e7ec1a72d27a6f636a65bbede464fbc6b04",
+              "bytes": 49642,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-harmony-normal.opus",
+              "sha256": "8f1b7b960a291064903d54f32740592c7dabbf8a785a9a32469ae74d64713008",
+              "bytes": 78343,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-harmony-normal.m4a",
+              "sha256": "0b3c0bcfbc28d5721c1621a8a62cb71e090b3f7c5d2cd5ba94d6834a1ff22de6",
+              "bytes": 80839,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-harmony-low.opus",
+              "sha256": "f82b46fcd9d0ddd4ba2d0a83fd6f99a4f6ba5a7bf53d11f0bbf905d4b520b52d",
+              "bytes": 49089,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-harmony-low.m4a",
+              "sha256": "8eaed064b12ca32e3724b008da591388a628c272b462d44e1be97d581d7ad4ab",
+              "bytes": 49611,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-bass-normal.opus",
+              "sha256": "38fb474dbabb551e85f48bc7fe89f8a11b983014a56fdfd93325dd64eac57799",
+              "bytes": 58479,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-bass-normal.m4a",
+              "sha256": "f678c4c2e5cd4ea25bd2f7e5029044e45d07781dc6fa5f754714d56e02532f77",
+              "bytes": 81059,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-bass-low.opus",
+              "sha256": "48634d5a6d0605c2de83d43799a3e70ec6349fd28bfff0ed3621db37a03bd780",
+              "bytes": 40553,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-bass-low.m4a",
+              "sha256": "16ce55abe51d007fba42982548e7026c163e9c1654162aa9e37e0f3261773a69",
+              "bytes": 49739,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-rhythm-normal.opus",
+              "sha256": "d1eff94f0c8c8d803504d52144303929c10b329b5c27fb7d2b50a8aae752e139",
+              "bytes": 56784,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-rhythm-normal.m4a",
+              "sha256": "39fd8b419199eb1944a56bf6331aed1cb8259b135d155fae75e2d15496aa1e60",
+              "bytes": 87388,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-01-rhythm-low.opus",
+              "sha256": "d7995ab31ccb21c0dc78e0906778a3821123449e86493e7ae6d171998351587a",
+              "bytes": 38255,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-01-rhythm-low.m4a",
+              "sha256": "6a63e2fff0116a02174963aa614df5e114da60948b372bc0c92f5015bc339af4",
+              "bytes": 49717,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-melody-normal.opus",
+              "sha256": "cdd4e8667cfb0fa5fd9cbe097bac501b59fc37fb1c0b48160e00f953ea3fff2e",
+              "bytes": 93714,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-melody-normal.m4a",
+              "sha256": "d175f8ee8a26c3999a13ded4f25d5766d89907a9622d030dd518701c0309c1a0",
+              "bytes": 80741,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-melody-low.opus",
+              "sha256": "ab909c6371ba75183146705cab672105c903d754be8e21c694e60059c62f02e5",
+              "bytes": 59197,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-melody-low.m4a",
+              "sha256": "04f9370ef67f3eda02a8ed683184d073a555932823b0d2ad4ab44e2ef498b258",
+              "bytes": 49630,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-harmony-normal.opus",
+              "sha256": "8363a1818d7acaa3a6d3f46fa15443fd1c709fa04f29172ed03ad1159093bd58",
+              "bytes": 84006,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-harmony-normal.m4a",
+              "sha256": "157c481f73c54274247fa7f9bdf81da89d6f212fa2cfdfc9c8f307c95ffc8fa9",
+              "bytes": 80843,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-harmony-low.opus",
+              "sha256": "143a91305f416379b1ed17e3a0c5c8184471ceba92902a8e041c9163a7e47b89",
+              "bytes": 55544,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-harmony-low.m4a",
+              "sha256": "d8f3e66622b9d1069e0ebac85582591b0cd12c786e5b811810b9b0320facc661",
+              "bytes": 49568,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-bass-normal.opus",
+              "sha256": "3d06850833be294673b95ef6130288fee05a6efd61e0cb163435acd23cfbd8fb",
+              "bytes": 63871,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-bass-normal.m4a",
+              "sha256": "5392f578c478597d52c9dd832fa203e560f5416917bb8166fc27036f98937829",
+              "bytes": 81151,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-bass-low.opus",
+              "sha256": "ed16a70383242b6808e4775df079badfe4bf50a502021f55b9c42216552beca7",
+              "bytes": 43576,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-bass-low.m4a",
+              "sha256": "eec17671002684bd23bb071ef183dd26c2b6a21f9901c0990a4d7510b14651d7",
+              "bytes": 49749,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-rhythm-normal.opus",
+              "sha256": "171df263323f601d342ec89aa167274e065af162ca80ae0f95cc09bf7de8123c",
+              "bytes": 55408,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-rhythm-normal.m4a",
+              "sha256": "4b0f12280a9d0b06731ce6d3d96537d34a17532ff6e4b474ae9c92184940a6af",
+              "bytes": 87341,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-02-rhythm-low.opus",
+              "sha256": "ef949e6c71419345b5e6f71d3fd1acdf15f5d1d06d2996caa83724c531915fdb",
+              "bytes": 38518,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-02-rhythm-low.m4a",
+              "sha256": "bfbf007eb1b936e9fed4725df11ea1db9b28741ae91cb4e532da58e01be81b58",
+              "bytes": 49893,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-melody-normal.opus",
+              "sha256": "42ce4609bb327c2e0c566e9dfaacfe0539e0257f85edf00c049a4c71b9bb0616",
+              "bytes": 101208,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-melody-normal.m4a",
+              "sha256": "74287d7faf7ce1b20ff8c9acdb3d4d61885caf096e1695527ff981c08c68f8b3",
+              "bytes": 80748,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-melody-low.opus",
+              "sha256": "e8cb3fff4f746b842dd1fc939541cb284510864c4e0f99650dd4e141b0616a48",
+              "bytes": 63725,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-melody-low.m4a",
+              "sha256": "e28e4ce0172531cc1c583ddce3b4396e77e1fac10fc1bb1dc556758fbf944eb4",
+              "bytes": 49600,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-harmony-normal.opus",
+              "sha256": "2a76420d311449f87594e3069a4217ab3aa8a0bc8a9b3c441f406af83d8c05a4",
+              "bytes": 84386,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-harmony-normal.m4a",
+              "sha256": "9d1d618655dcf7db97333b562abbc42916cb29cfd4e09e6e99eefef8cb4c757d",
+              "bytes": 80847,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-harmony-low.opus",
+              "sha256": "efdbb3df0ca5817213da45a2c01672995e0d22ea1fa619db7ca91c784cec421b",
+              "bytes": 55503,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-harmony-low.m4a",
+              "sha256": "cae500c711811b096a25651b9c8ae8db92e6562075a9941d56dcace224dc2263",
+              "bytes": 49547,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-bass-normal.opus",
+              "sha256": "e91bddae3aec81e7051437bcda9a95a2cf18c28c19c1d93d0da12eaefb93f0c1",
+              "bytes": 63782,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-bass-normal.m4a",
+              "sha256": "7bf8c71079a1649581403b54a1ee806108588637f8742eef983eef797d94ffe6",
+              "bytes": 81113,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-bass-low.opus",
+              "sha256": "5a02a5f83264fd93b87fb0cace606db1f899af5f052f4fc44a8bb526c26b55af",
+              "bytes": 44157,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-bass-low.m4a",
+              "sha256": "5dee4d8f463018e4d559a7dda9ee5408638a264f3048e1c724d295c0e83c5647",
+              "bytes": 49701,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-rhythm-normal.opus",
+              "sha256": "19fdaf5231222f4cbe72e7b7f7bc980894eb1a4480dfd772aa6416923be03e8f",
+              "bytes": 57541,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-rhythm-normal.m4a",
+              "sha256": "433e7888f9db9f49a2c42107b3df5ed811eee818db2669e7d659511515964b97",
+              "bytes": 84139,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-03-rhythm-low.opus",
+              "sha256": "297c81f39b441fa5df7a265368c04e5ef36560f0f779ebf1943b361eec8d1fa5",
+              "bytes": 39157,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-03-rhythm-low.m4a",
+              "sha256": "531f9a8be3f62d07107630f3dc55358b86a72a39fd8e5866fde5126d07ce98be",
+              "bytes": 49724,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-melody-normal.opus",
+              "sha256": "40241154892c66454ec914f4d4347257ef5aab8e1329ee23d467277d816a81b0",
+              "bytes": 101284,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-melody-normal.m4a",
+              "sha256": "58287be8ad7957ed9c0399e0b2850c18177890070fa00135ab1792fee4f793ac",
+              "bytes": 80788,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-melody-low.opus",
+              "sha256": "a4c0b178dfc8e8c712604d78f31cffc7836668f8a670c46f037a6abca4459a6e",
+              "bytes": 63798,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-melody-low.m4a",
+              "sha256": "08f4dedd7834fecc6450481ec9c7c7da3d59f4b579d5dbfedc841f4e96e0c7be",
+              "bytes": 49560,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-harmony-normal.opus",
+              "sha256": "934761d9c928ea44a9fbd68d399545890f57ad7cdb5d718d9856f570de89e7d1",
+              "bytes": 84359,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-harmony-normal.m4a",
+              "sha256": "e57ef0a1529245f5816b84fa9c20496b66ccc39750fd60d26304d2cb63fc600b",
+              "bytes": 80849,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-harmony-low.opus",
+              "sha256": "1053aeb85ffa4973aa7a95af0f4eb4b16da2e954eccfb4fd3dd847ea2509696d",
+              "bytes": 55532,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-harmony-low.m4a",
+              "sha256": "745232982843e3fd8913ec5235545c1985d45fd81fdbe7a4d88b00253387ad80",
+              "bytes": 49543,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-bass-normal.opus",
+              "sha256": "18359c5a5f5f7a047f18b8bf6451cce9c2f932c1f681235eb869791129feee54",
+              "bytes": 63764,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-bass-normal.m4a",
+              "sha256": "a9b60695a289014ab83519dc1cb64b88cc541050b7171cccf24c51eb7e744551",
+              "bytes": 81042,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-bass-low.opus",
+              "sha256": "b6c8e045d9c9448cfaf5bf2f31d74c12b6db89a6597ccf5fed2ea3eccab17ba0",
+              "bytes": 44150,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-bass-low.m4a",
+              "sha256": "b5ef9a151f0ae167f3736205c3f1173ac8fcdf95b8c71eb616b3bb12ce4ac09c",
+              "bytes": 49710,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-rhythm-normal.opus",
+              "sha256": "d456a13af5ecc262e41e990b25530b8be88b5fdcb4fd60ef05a2db420ba27f25",
+              "bytes": 55082,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-rhythm-normal.m4a",
+              "sha256": "48ca6321f9bc09374d20fca031cf7158845e601ac9e084f947093c80188e2c55",
+              "bytes": 85717,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-04-rhythm-low.opus",
+              "sha256": "2af12bb1b00910acbe77718924044e081f48c5cd2a548fb0a44f379742c8cf89",
+              "bytes": 38309,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-04-rhythm-low.m4a",
+              "sha256": "0103de1ebe9e16fc6fc7077e44f9f213e514eaa929388aba4a90e3fdf1450ba2",
+              "bytes": 49959,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-melody-normal.opus",
+              "sha256": "76abebfcbccf3560a4009bd2d57189d2b62c0d0dd599ec5db423201b32d171d5",
+              "bytes": 103241,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-melody-normal.m4a",
+              "sha256": "e9bf8c2c063aed688b9aaf65b2e2a47e2be331ed7fd501c93db2b70623055739",
+              "bytes": 80794,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-melody-low.opus",
+              "sha256": "547ac7aff79c3d82c6241f7189acc7f1a489bf9d44992973bf214c60917ee13c",
+              "bytes": 65469,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-melody-low.m4a",
+              "sha256": "0fc9c62af8ffbe3000954ebbf53b7c0f05d414e47957315d831036d2bd1ee3c5",
+              "bytes": 49642,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-harmony-normal.opus",
+              "sha256": "e97b6ba6cea740b6592ca1b64b8db8c32ec0fce46614c1033a589220370fb77d",
+              "bytes": 84150,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-harmony-normal.m4a",
+              "sha256": "38f55d641dce935e2c74726e994fe2885658d386d8a35a7b14b1a3459e9c37fb",
+              "bytes": 80768,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-harmony-low.opus",
+              "sha256": "e674487a2797d2971859c51e4ddc528eacadea9f1b3b49cd7d8f46d667322f21",
+              "bytes": 55421,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-harmony-low.m4a",
+              "sha256": "6e9e029cfbd5284a2bbc89c0be212b0605d9fa04468fc3efdcc10a5acb0eb2ee",
+              "bytes": 49596,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-bass-normal.opus",
+              "sha256": "ce84480cf6f2dd16ca7364dcf7208f32fde0719efa6cd34544adc0cfdc8f289c",
+              "bytes": 63676,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-bass-normal.m4a",
+              "sha256": "75e6e26c3acb5c73170aacba711d1d6e392bb4fe4214ec1b304fb0e1543648a6",
+              "bytes": 81055,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-bass-low.opus",
+              "sha256": "ba55e68fad373a34d00b3e08d785e325c98d9e7e2133a8d02b44c3768ce48920",
+              "bytes": 44118,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-bass-low.m4a",
+              "sha256": "7cf7a74d053d81f89d78c6f31758995b56c942433e199868c88d9af26f15ed7d",
+              "bytes": 49653,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-rhythm-normal.opus",
+              "sha256": "88b3abbe4b7e8006c041823290eab461216e31532a2d4b283c830572af79b51a",
+              "bytes": 57754,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-rhythm-normal.m4a",
+              "sha256": "ee83e0dbf95a27979120f961a5d0b8409d5d41c58f05faefb76b0d81702ee318",
+              "bytes": 85123,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-05-rhythm-low.opus",
+              "sha256": "33fabb292284db5f16f0f731b54654cf6ed12b9d9001e4e9e65a6664debe5314",
+              "bytes": 39074,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-05-rhythm-low.m4a",
+              "sha256": "44b83b8ef648998deb0d92a4ef35dd95f304c2491a00f939d9bc9c8723191d74",
+              "bytes": 49745,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-melody-normal.opus",
+              "sha256": "51487084fc71e081d5fbcefd5916c5d7cb5bd1b0bb779bfc79444f7659824b73",
+              "bytes": 87699,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-melody-normal.m4a",
+              "sha256": "8ed21f719fd258dd32f4579858bdc60a3bd0efe43f218aec9c4fc093d9e48e01",
+              "bytes": 80840,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-melody-low.opus",
+              "sha256": "5531f80081006fa89cdf9307ce7a04c0d7c6478ed8d14be218f155bcd8eee60d",
+              "bytes": 57858,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-melody-low.m4a",
+              "sha256": "0819ff45c56992f7ddfd0e8700b1f5802438da5b3bf490c9a0c196e65564d4a9",
+              "bytes": 49663,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-harmony-normal.opus",
+              "sha256": "27c013ae78a196c17f582eb2b1553c0e20506e64d405872bcb8aac86ab70e272",
+              "bytes": 77162,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-harmony-normal.m4a",
+              "sha256": "17c5324eff5386766f9ce35af5c4e7240cb88910497369c0d6a339df21007144",
+              "bytes": 80683,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-harmony-low.opus",
+              "sha256": "7529c46bf9d4fd693c04706166eb28e38508afe8943dba4b1287f943fa472cb2",
+              "bytes": 49117,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-harmony-low.m4a",
+              "sha256": "951ce12cbb4e0775ae4b2d5af42535f4c34c13be3d3f95bdeb2ae7672895817f",
+              "bytes": 49584,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-bass-normal.opus",
+              "sha256": "83a263d07b69efd4262703e0c2595ff793d56540eb02f3a2d69b7d01ea826eb7",
+              "bytes": 57205,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-bass-normal.m4a",
+              "sha256": "15ae289ee821b56937597686ad79eff66c5d891fcbf0000441b18861302a01d9",
+              "bytes": 81141,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-bass-low.opus",
+              "sha256": "d42b1207df35b898781ef78c82a32e9046848c469f53dc65a1b4b310377fccb5",
+              "bytes": 40278,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-bass-low.m4a",
+              "sha256": "7339faa6ce333a5132ff25cd6fbee7d2224c6ddba68b94171f3fa6c616ac671e",
+              "bytes": 49653,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-rhythm-normal.opus",
+              "sha256": "3c50bf89e76ea2eea0039d17973b68adbd8299debd399be577035c3e879638be",
+              "bytes": 50363,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-rhythm-normal.m4a",
+              "sha256": "619312ee9be2bb99c650cabbeaf2a36497d8f9a4e8e8e1d76443e5e5195d1a2b",
+              "bytes": 78557,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-06-rhythm-low.opus",
+              "sha256": "bcc93354b888c23ed33de6c35bd887338834482fcc9c30c99f7dc5a29777da7e",
+              "bytes": 30273,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-06-rhythm-low.m4a",
+              "sha256": "cebf9635a1d3bbe6710f2644093680ef1376f7a9f76793fe8d4cce6950457b40",
+              "bytes": 45198,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-melody-normal.opus",
+              "sha256": "61ab7db1a21d392b661d9adaa5adb782aaefffe98019c0e85eef0742c0df4299",
+              "bytes": 89845,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-melody-normal.m4a",
+              "sha256": "b5b8f3aa4e0934660e5d4d558f15cb11b3740c17e095dd4f5536c1604209fee0",
+              "bytes": 81033,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-melody-low.opus",
+              "sha256": "9953378961669193fb8758140059d17c57e052cc4563effe85c345569dc8ebe7",
+              "bytes": 58743,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-melody-low.m4a",
+              "sha256": "99c14b97f5d65280e45756aadb7c8ee9cdd5feb601b6530f9d092bcadbfbe13c",
+              "bytes": 49542,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-harmony-normal.opus",
+              "sha256": "dce17c89e083dec9b64bcc5dc9d6ff6e103d9c09be98fa1f33a60aa557ef8c46",
+              "bytes": 76884,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-harmony-normal.m4a",
+              "sha256": "653050f9d54ef010576550d84fe3a1acb10f5bdd4c7ba40cac09679253c5a985",
+              "bytes": 80774,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-harmony-low.opus",
+              "sha256": "7c5e9ab8a5bc86e280c7b0235cd31d78f710ad8a3028721d02ea1907cc481718",
+              "bytes": 48965,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-harmony-low.m4a",
+              "sha256": "5f7549d4cfcfce048ae323fc6e5bc44de845bf0474dde1b304ebf643b5f2d5e0",
+              "bytes": 49565,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-bass-normal.opus",
+              "sha256": "beaa6ca1eb05d0604198e81f19987e88212844e984c8ba3321440d0786ceb3c9",
+              "bytes": 57287,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-bass-normal.m4a",
+              "sha256": "eb905e00f45b8dba5bd2e4822d1f06e034faa3fac0f07728cbcf56c1d8a5c4d7",
+              "bytes": 81075,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-bass-low.opus",
+              "sha256": "a492764f67312a57b6bcb9363b4e6effbeca99112bbdf8a5474352561eff4bae",
+              "bytes": 39820,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-bass-low.m4a",
+              "sha256": "9ef6fbb5b19edf4bd05786f897f57a744331ade24e9c5697677a543e793a708b",
+              "bytes": 49676,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-rhythm-normal.opus",
+              "sha256": "fa67d51ea5b471e0ec4bea7f22fe1b8a71c33abd3e954c4602338ca609ab0a31",
+              "bytes": 56803,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-rhythm-normal.m4a",
+              "sha256": "60a9791c8cc8197349c1d7d60bd7421dbdd638dff207aa305c96c2d1d1bb908d",
+              "bytes": 88011,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-07-rhythm-low.opus",
+              "sha256": "a1fcdeec53109c1797b2ea9fcc7148a9c23c0ee78a4e84886500bef921131c1d",
+              "bytes": 38107,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-07-rhythm-low.m4a",
+              "sha256": "22fca5e1f247f16fb0b92165883657916eb1f311e5b0c5759bb1504a3f36abc1",
+              "bytes": 49701,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-melody-normal.opus",
+              "sha256": "b61e43c97167176dfa07b3e15f0df3b69f5c1c76dc460222c881a9fc4479b064",
+              "bytes": 132289,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-melody-normal.m4a",
+              "sha256": "b7ab0895caa96b0c91a52eb02a8a5c687b9e298d6845dc651962f786ceb9d12c",
+              "bytes": 80729,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-melody-low.opus",
+              "sha256": "c3dc40dae591dcd1c020e02c7381863ae7797f895713d6e5f1fe67fb9d160edc",
+              "bytes": 78641,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-melody-low.m4a",
+              "sha256": "fbc807da262bad0f56a39b1ee1e73613140e52545d087802a7e2da8860875d9f",
+              "bytes": 49654,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-harmony-normal.opus",
+              "sha256": "eba3d10d833548d14a5614d6c5b0be6ad26137a2909dc7cab1eca7ee85ec859d",
+              "bytes": 84089,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-harmony-normal.m4a",
+              "sha256": "560c6c9c3bd2facf5929b7264bfb902be296ae660dba669b7f6014de5ae6bd37",
+              "bytes": 80933,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-harmony-low.opus",
+              "sha256": "951f955fc8944487b8e787edd5a2b84c71bc371a226b0c0adb941b5e8d0243d0",
+              "bytes": 55611,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-harmony-low.m4a",
+              "sha256": "46a153127ca47391b7e67708438dfbce81b049fd0f70ff8ace91e0b36eef946b",
+              "bytes": 49569,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-bass-normal.opus",
+              "sha256": "415a81ecdd45c0a65dd8ada09c096786502441f6331b829ad4d139c70dbdb5cd",
+              "bytes": 63699,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-bass-normal.m4a",
+              "sha256": "f7e763e4783838ea8eb1cafc44945e7639c42f72e7e6b23edd3a4dccc0e68f4e",
+              "bytes": 81078,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-bass-low.opus",
+              "sha256": "63b5149c7996241ff892ca59e9988376c9acfb6c57632a77fe0264c45dbb6c56",
+              "bytes": 43603,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-bass-low.m4a",
+              "sha256": "982d5bc435cd61538bfa6e4a2e3fda4cd50b2c9bdbb097901dfd46b059707ed1",
+              "bytes": 49728,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-rhythm-normal.opus",
+              "sha256": "77a6ffaaf3b7d624d2c753cdf32f4f3c46c6c2b488f03767062fd649261128dd",
+              "bytes": 55119,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-rhythm-normal.m4a",
+              "sha256": "abf02af9879b94bf1e5d1896491c0bccb932c636d10f3614d973c41e01297b03",
+              "bytes": 86049,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-08-rhythm-low.opus",
+              "sha256": "3eb0565e3c9d0d4e6c522a0a5b0b8613e8b446e2d423bedc81b20a37a091e463",
+              "bytes": 38232,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-08-rhythm-low.m4a",
+              "sha256": "40aeec123c1ef9409f9cf0804d5861c71da4257f32ef787413c89f39755255a6",
+              "bytes": 49973,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-melody-normal.opus",
+              "sha256": "0c62309c042913b958d8ef2cf9280864ec618350d9fbdfa8ed8109f19ec1460e",
+              "bytes": 132304,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-melody-normal.m4a",
+              "sha256": "68b7caed11f7286b0f6b1eb91b209548dda7a20231f822af8f0810aa4a19209c",
+              "bytes": 80767,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-melody-low.opus",
+              "sha256": "8b88228c8b94788a874b4672c8b096b388e80c8341169262bdd55a245072e64e",
+              "bytes": 78873,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-melody-low.m4a",
+              "sha256": "6d3babadd48ca4f72a8f8343c76c6a7b94c3f2d1cec526aeb2b75a08548da2ee",
+              "bytes": 49649,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-harmony-normal.opus",
+              "sha256": "6980b9798f8435d587d62425edcd470ab1740574e179ff900a75de1c04f7410b",
+              "bytes": 84805,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-harmony-normal.m4a",
+              "sha256": "498457e14ac2e3f66f4ad4897290702f5fa1ec16f558574d41fde8ba9f79d956",
+              "bytes": 80801,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-harmony-low.opus",
+              "sha256": "0a4cffebdf69ab845251c3ffde5f6b7832da6365d7aed2fd5a1d3edffeb12db2",
+              "bytes": 55824,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-harmony-low.m4a",
+              "sha256": "6a55e47e543fc93263a2a2ecd4c575a0b3b0edbf3270c6a7683687add53d01eb",
+              "bytes": 49570,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-bass-normal.opus",
+              "sha256": "6e598db222199711b2df7de5a381bed5d5247dc443ae323af36fa5d7bca1473d",
+              "bytes": 64044,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-bass-normal.m4a",
+              "sha256": "0ec9b283af28864f6544e59b3d19276d691cc5fcc4bcdb13b4b5ac40e25fd3e7",
+              "bytes": 81123,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-bass-low.opus",
+              "sha256": "88269bf561d3b4ec0a51e4a329ee4ab948460bb820d60baaf1e49937eb82b304",
+              "bytes": 43739,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-bass-low.m4a",
+              "sha256": "e7abffda79b171efa429dc7e1815f75cd7c72d44555a0eb4df52fe52376712e9",
+              "bytes": 49714,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-rhythm-normal.opus",
+              "sha256": "e8057cbc110d1db7e1a7762a79b5d439739d8ea58b82dcec1bc938705f4dedb5",
+              "bytes": 57549,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-rhythm-normal.m4a",
+              "sha256": "4d6eb224a195caeb5f0363cafbabd2adfc0481e1a416c695e46971b78319682c",
+              "bytes": 84919,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-09-rhythm-low.opus",
+              "sha256": "8e43539fdde47e85a0c47bf848574edbfa921ff4d9af96dbf13127cc73ed085d",
+              "bytes": 39218,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-09-rhythm-low.m4a",
+              "sha256": "6f39ae5b1b67308acf991bd66793d3acdff1f9df8c8451e66bfa51436c08205b",
+              "bytes": 49735,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-melody-normal.opus",
+              "sha256": "c9ea6a9f7445ea4f85061a00b41673ce7e0cf7308ef217fc43bd98182d29fe9c",
+              "bytes": 132307,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-melody-normal.m4a",
+              "sha256": "9b65dc044064611a8be2ba81ff5ab51f067fbef01bda9a45d8d782f9cd199970",
+              "bytes": 80730,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-melody-low.opus",
+              "sha256": "dae09e860635c8604cda766d1f69683aecf869c5535d45fd79e46199788ef6c2",
+              "bytes": 78899,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-melody-low.m4a",
+              "sha256": "3880fd72a08ae6d4d8cca6c0cff279475a7fb1848107ae7f40f000e2c4b867ea",
+              "bytes": 49657,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-harmony-normal.opus",
+              "sha256": "f99c8bb183c3ed75adc4ccc5e9afd0799d5a9c1ddfa75d967d1d168e8b64aee9",
+              "bytes": 84832,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-harmony-normal.m4a",
+              "sha256": "5f9e18bc5365052b5fe74d970e3c1997c2fb3edd27645628689b40905a04baf3",
+              "bytes": 80832,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-harmony-low.opus",
+              "sha256": "394e5d2a6f1f5b14a1e7e5d9f1b06d4c1e189f6dea50ac8dc5125086155d8e10",
+              "bytes": 55867,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-harmony-low.m4a",
+              "sha256": "826b850088ecc90af69fb7416a4ac483f721215fbdd4eb61341e008bd5e06126",
+              "bytes": 49571,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-bass-normal.opus",
+              "sha256": "6885469f0058efe56430a95b0d59c14a856b67f46d977de23538f63c41d6dca1",
+              "bytes": 64024,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-bass-normal.m4a",
+              "sha256": "a0bdee858c49ecf3158cc30c4480fe82d2e8d010cdc18c060038b77f6ea24845",
+              "bytes": 81152,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-bass-low.opus",
+              "sha256": "ff86efdd48ee8633b5d2089a2de03ea85421a62874ae3fc38b73c4bd9ae07e38",
+              "bytes": 43729,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-bass-low.m4a",
+              "sha256": "fa8dec02d6d94e45d20fac98d642df1f15319dbe2197f6d845fdf6e0a3ce1987",
+              "bytes": 49736,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-rhythm-normal.opus",
+              "sha256": "12a0efbc576b18108eee6dd4fa422d18e8ecbc3b7981812467999a2599c4a547",
+              "bytes": 55122,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-rhythm-normal.m4a",
+              "sha256": "c287fe1152de8762f9706fc5ea274f5968d69525cb3111389f2576e8204803af",
+              "bytes": 85976,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-10-rhythm-low.opus",
+              "sha256": "5c1df3b3fb1726e137737006aa84a68ef06cee50fb127cf95918363032403753",
+              "bytes": 38347,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-10-rhythm-low.m4a",
+              "sha256": "b22a7b22da0cc701d291143366db236989773a5f72670947c13866c3716fa653",
+              "bytes": 49870,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-melody-normal.opus",
+              "sha256": "f6cd4728e1e5f39baabfdf73abb6506f69f640894ae779d7df4a8bade7a01270",
+              "bytes": 132871,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-melody-normal.m4a",
+              "sha256": "4c2198fdd09e02afd9e5439d0a5cd26da347109de9c760791e470694de005b88",
+              "bytes": 80711,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-melody-low.opus",
+              "sha256": "435f1cbdbf5fcb3acec5eedde23927e5b16bc9ac99be58d1e62971d5545de42b",
+              "bytes": 80504,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-melody-low.m4a",
+              "sha256": "3626514db7c9201cbaa15ebafa623bd84984d68f4740c35858ac249e04935932",
+              "bytes": 49683,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-harmony-normal.opus",
+              "sha256": "f09cea00a238e63065d08d1309200e38d4dc858825a3a29fb6624837023f31d7",
+              "bytes": 84658,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-harmony-normal.m4a",
+              "sha256": "0c6d36d79178b03df315904675e2c2c0dbe681ff8f0c361d5c958d69716ba380",
+              "bytes": 80778,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-harmony-low.opus",
+              "sha256": "34e28c6e69f84be3917cc7664f55d710da1f014a9ee273b80df4d043af64d642",
+              "bytes": 55888,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-harmony-low.m4a",
+              "sha256": "5672339228663ae6f4d5bae2d2bdc0cee75a1bd90de4969dec4e1c4c06fbdd38",
+              "bytes": 49621,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-bass-normal.opus",
+              "sha256": "4d4ae0d7722f1473255b97c1630d6a0f2b560e90653ae1053f2f565ee42680b1",
+              "bytes": 63622,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-bass-normal.m4a",
+              "sha256": "423a05b5841862b20359c043a25f21c03a2892ade6c30b615824376efc1a0fab",
+              "bytes": 81153,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-bass-low.opus",
+              "sha256": "b608bca35063c6cd83ded0976fc4bd1ff5bab7ce9a79fc7f9310bd9ac65c369b",
+              "bytes": 43518,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-bass-low.m4a",
+              "sha256": "5d7a7c26eb04917484a3aea496830cd4649cde3f405986b1437fe5c3ae182dbe",
+              "bytes": 49748,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-rhythm-normal.opus",
+              "sha256": "4e7874b0965e09b96ec1a5551e713e0de17ba5dee4e1b8af9aa4ea3ccdcfd397",
+              "bytes": 57451,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-rhythm-normal.m4a",
+              "sha256": "70892cda002e4b011518d17a617faf11264d0852cbb85555d6c2c21abb2349e4",
+              "bytes": 84317,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-11-rhythm-low.opus",
+              "sha256": "aa54546a7809b35dbf0a4622a266e12dbe1788bd3fbf404bb64b137ee902a4ba",
+              "bytes": 39183,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-11-rhythm-low.m4a",
+              "sha256": "0c5a2112b06d20b31840153253b94eecd7a46a438ade3eccdff4dc94b6ebaf24",
+              "bytes": 49760,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-melody-normal.opus",
+              "sha256": "f180fb8c309213d7cc281f87d2fcf2136a337f483d301c8e0a6723b9e130b093",
+              "bytes": 92966,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-melody-normal.m4a",
+              "sha256": "c8a6c5ed6c606e530a463f0b408324d8d2dd418d9b7eb2e5f78d9bc5d8ebcd3a",
+              "bytes": 80700,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-melody-low.opus",
+              "sha256": "99a8c9d86f063f307a216eabae249cb85a2e449a1c6831631aac5773ad6c9fd9",
+              "bytes": 58497,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-melody-low.m4a",
+              "sha256": "67994f87bda7c9f931e36e95fc5327e2083cca41a1d1329d788c53171ae9587c",
+              "bytes": 49585,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-harmony-normal.opus",
+              "sha256": "7b03e70ae6d33f6d7b8f71b574cdce63c1a9a079936648e5caa55658dda456ae",
+              "bytes": 80453,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-harmony-normal.m4a",
+              "sha256": "62243c9f5e10773c2a760af428e93fb457ed810a5f7608ee57f064e09c884d8b",
+              "bytes": 80722,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-harmony-low.opus",
+              "sha256": "e76f2ba9fc1f6c6333f1c5b00db5c60a5cdf915f3f740b7fcfb448b0f7911f5e",
+              "bytes": 50317,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-harmony-low.m4a",
+              "sha256": "8739ba77d8d51d226a84576868272f167cd24dfd0470d6b99391e3d29935f37e",
+              "bytes": 49595,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-bass-normal.opus",
+              "sha256": "dff570b4b8439d4c0d1c1785ce0c52436a4680cc8f13972b28d39c6888c891d8",
+              "bytes": 60749,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-bass-normal.m4a",
+              "sha256": "1cd5c0781ed30b927c006f9a5d7e03de62c776e41b999da2c7647b69070c377e",
+              "bytes": 81163,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-bass-low.opus",
+              "sha256": "0c3eaee52e9bd19a79187de0b8eff6574877114f81071d59406edad36b3b21be",
+              "bytes": 42126,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-bass-low.m4a",
+              "sha256": "26ec63bb95861dce2142327dde997a098e1edb4b23b4a019ce9422e314d427fe",
+              "bytes": 49749,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-rhythm-normal.opus",
+              "sha256": "3d386c67158fc72049736201a8a70f562f3c7175d3dd7df33719d65d57a88e9c",
+              "bytes": 54767,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-rhythm-normal.m4a",
+              "sha256": "387271c444c6ac95e9dd5149c51f292b4c6d2a4d4680f59f7644af6e16c7a8f6",
+              "bytes": 87907,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-12-rhythm-low.opus",
+              "sha256": "d991cddd3b7a7b74dd6096895617d655377c5a67a127e48f112d8615aec5eed3",
+              "bytes": 38024,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-12-rhythm-low.m4a",
+              "sha256": "7a43189ae7498eb16b71849bfa38fe7dcfff9e4c7f3afdf4eccdbd856811781f",
+              "bytes": 49753,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-melody-normal.opus",
+              "sha256": "a2d8e48dddf90ae7dd06aed2d8badd48bf24c6c8946447a76a3282126f2fe74e",
+              "bytes": 91828,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-melody-normal.m4a",
+              "sha256": "faf6e8e8ab03f525d6580110f862589704814d43a9c1c5ebf53c31dddcf93424",
+              "bytes": 80823,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-melody-low.opus",
+              "sha256": "8b4f0701c15675b80d5fd8ab0b21d141df69b9c769acaf4316d539256bede140",
+              "bytes": 57904,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-melody-low.m4a",
+              "sha256": "4958b2f44dcb8a31101c76639019710ca0c65cb54db6019e020c2746454a9626",
+              "bytes": 49713,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-harmony-normal.opus",
+              "sha256": "8b9b3b9990e3ca34e874a40857b8455fab66d7ac100619f6220645ac70b90c78",
+              "bytes": 78750,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-harmony-normal.m4a",
+              "sha256": "2bac9d9f257693fcef94553a6d4aa7ed69596bd8b591e8c6da3cee2105ee35aa",
+              "bytes": 80761,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-harmony-low.opus",
+              "sha256": "9ddf1b176f17c4ab793760e35ad6ccafdfb5bf36cdc61ec1ab6253ecec2eaa30",
+              "bytes": 49785,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-harmony-low.m4a",
+              "sha256": "ece3f2f18e4899e25ebfa35169370d17bbbc9d911c02d8d8cf57993335168345",
+              "bytes": 49711,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-bass-normal.opus",
+              "sha256": "d699c402213dedd8e28a455ebc9694d4dfebbf188e6efacbb38798e7f7e6f9ee",
+              "bytes": 62609,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-bass-normal.m4a",
+              "sha256": "787f375ef114960104e3df3cf2768ab5428185f96c0c125f1e6dc553edd7f0c4",
+              "bytes": 81138,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-bass-low.opus",
+              "sha256": "f8cbe8b266f566eb70b35f8fb3fa0a5dcc41964a0ba253058069e951d09d557c",
+              "bytes": 43197,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-bass-low.m4a",
+              "sha256": "b27037a47205d66f4f3552cadc8456fc233f1d444e5141a028ed770614874ef9",
+              "bytes": 49755,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-rhythm-normal.opus",
+              "sha256": "8deaa1f1aa338fba6106488a2687aa47eee2c5b9679b598752520390158f2577",
+              "bytes": 58670,
+              "seconds": 7.9,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-rhythm-normal.m4a",
+              "sha256": "90e5106402705e099ff05893062f220ef6bbfe744b5ce99fc6aa512acc7c6b15",
+              "bytes": 87900,
+              "seconds": 7.9,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/rubber-run-13-rhythm-low.opus",
+              "sha256": "22af758ec538b002985b5d9c21a9192cfb5f4207e181ab58187278b2ef8dafed",
+              "bytes": 39126,
+              "seconds": 7.9,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/rubber-run-13-rhythm-low.m4a",
+              "sha256": "f95dd0d1f2209df314522becb7b03bb1f8e9c35bbb83571442885d29613d4554",
+              "bytes": 49783,
+              "seconds": 7.9,
+              "channels": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

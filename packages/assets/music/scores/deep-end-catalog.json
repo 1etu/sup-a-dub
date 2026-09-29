@@ -1,0 +1,1690 @@
+{
+  "id": "deep-end",
+  "title": "Deep End",
+  "bpm": 100,
+  "beatsPerBar": 4,
+  "barsPerChunk": 4,
+  "seconds": 115.2,
+  "chunks": [
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-melody-normal.opus",
+              "sha256": "b6a245a73ff0646ef5926874c243484b09424218c58ca36997d7d130da959311",
+              "bytes": 65426,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-melody-normal.m4a",
+              "sha256": "b394e2d25c73661e3de4051728165a66f734baa59296fd5dad15faf571a306f0",
+              "bytes": 63974,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-melody-low.opus",
+              "sha256": "30f3e3f6022f1f0ad4b2842ad356c548056032268c1ed99dd2685a68e07b7e09",
+              "bytes": 39377,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-melody-low.m4a",
+              "sha256": "851b1f03cc172f44872b79866949bcf3175571d699950b976b0a76f65f6daff5",
+              "bytes": 39673,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-harmony-normal.opus",
+              "sha256": "43cd5eb488abf6c93f976bf492595c97b1d6ff40a61e36ddb6ac1c2d84f99ee9",
+              "bytes": 107978,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-harmony-normal.m4a",
+              "sha256": "d72ca806d4dde16c64d96168d9a2304f1c1cae4b9509624395eb52a603f189b1",
+              "bytes": 102380,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-harmony-low.opus",
+              "sha256": "fe3bef8e859d0efd7e03980b509d20b49fe7fa43ee828ce7fb93e6cfb96e8ecd",
+              "bytes": 54247,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-harmony-low.m4a",
+              "sha256": "cc68d552dc153c27d4020af0253428ba7088ca831e06f53a83790bb31a97a3cb",
+              "bytes": 62698,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-bass-normal.opus",
+              "sha256": "55b4f4c294e8f10c47631009ae85339b72f4cc094c358e86dd26f61ed592c59b",
+              "bytes": 81457,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-bass-normal.m4a",
+              "sha256": "3ae89521d5a42be8cecc5b39536a402b8920a21053bf569e71ff7f2ae8a1dfed",
+              "bytes": 102540,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-bass-low.opus",
+              "sha256": "ac67d548999ab4b3894aed22b848d728e72cbdfa117554b4fca68f48646a85ad",
+              "bytes": 52515,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-bass-low.m4a",
+              "sha256": "749d4ccce2ebb60ff609b51b592bb19eb7a1ca4829157751a39a4581b266ff07",
+              "bytes": 62711,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-rhythm-normal.opus",
+              "sha256": "e36809948b420b20d04399bc174984761f75af40842413fa362d23989568d6ef",
+              "bytes": 36374,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-rhythm-normal.m4a",
+              "sha256": "7e8daf668d9aee8cdaff04cf299fdefeca3433ba0117c17d4de6f9571182b1b4",
+              "bytes": 60615,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-00-rhythm-low.opus",
+              "sha256": "e568c5656e8b20cea8758a37fe523689b00746d869ceff97ae9fe2eacdffbf21",
+              "bytes": 21016,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-00-rhythm-low.m4a",
+              "sha256": "644d87eee10cc3f0ae2d0d39a7c2585489ddb349a67027675975f57b616edbe7",
+              "bytes": 38289,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-melody-normal.opus",
+              "sha256": "98573bb9e500c6fb665a774c85131027f174818963da1cfeacd924e8fd0cb0c5",
+              "bytes": 101803,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-melody-normal.m4a",
+              "sha256": "9161c802d86f9095cff83e6c8220e672c29ebb115787a53ce2aaaec230149640",
+              "bytes": 102220,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-melody-low.opus",
+              "sha256": "d89179e41e25d797e41c41d5de4e1210bd25ed92632e978e310ebc2f1c2f9c09",
+              "bytes": 63131,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-melody-low.m4a",
+              "sha256": "67952909e91682208f8d0cb2cfbd57f08dfe4249790ee980922822a020af3ecf",
+              "bytes": 62658,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-harmony-normal.opus",
+              "sha256": "041fb3bfd6281207f0d6b5e8cb2c029260f9c0741f3b05157889f129ab0dbafc",
+              "bytes": 107917,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-harmony-normal.m4a",
+              "sha256": "f2bbaddb645de96aa7a9b125b0186b4dee150d64bc6498bfb8ab2b624f6f651d",
+              "bytes": 102465,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-harmony-low.opus",
+              "sha256": "0fe43804930accbbc085f797ad90b2fc42f3e904797d9e8ded066d33e2f539bb",
+              "bytes": 52161,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-harmony-low.m4a",
+              "sha256": "df8419357558f6f2418a6a187aee6796b87970b060ae9bcd0d2689fcc3d39874",
+              "bytes": 62668,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-bass-normal.opus",
+              "sha256": "6004672c47d61aa8948791695143d671a12a26e9d64dd6132226cadb638a0bf5",
+              "bytes": 81345,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-bass-normal.m4a",
+              "sha256": "5e30a4d227b592f3d615d1fe4b38d5e2a723efcbe9e165fee360e86ffd6602c7",
+              "bytes": 102474,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-bass-low.opus",
+              "sha256": "a604724087e94948bab628b52950ee3de49999ad21f57eac9591cf5e79b5f4c3",
+              "bytes": 54271,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-bass-low.m4a",
+              "sha256": "b25731e4ba7fedf7da660de4785f1affb9403ffdeb53ad0da1c5c43160a77da1",
+              "bytes": 62685,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-rhythm-normal.opus",
+              "sha256": "043ddb18dc1f3bc0d04dd6017c6fe0c4d040ff31195c7802c696f9770487c196",
+              "bytes": 37263,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-rhythm-normal.m4a",
+              "sha256": "3be370cb808ddb89acb4e29f5154ba9a0525f8175513ef8fb12db917ca2b5216",
+              "bytes": 61211,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-01-rhythm-low.opus",
+              "sha256": "8750427ec8daa5dd7afa368585b8d983d0b794ba5b441906d28d01f50b4271a1",
+              "bytes": 21962,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-01-rhythm-low.m4a",
+              "sha256": "d57f16773aa188b2a76ad4599e714ae2d945619e51653d646b929454bc0168ee",
+              "bytes": 38459,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-melody-normal.opus",
+              "sha256": "8a1f67a88b66816b042fec98ea80d29eecb15d9c0a4e8dae90566ac3d97d78fb",
+              "bytes": 96801,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-melody-normal.m4a",
+              "sha256": "a4a7fc9df05d6169c8d7fa8c4beb8ce5349ba5da69e0c8ffbeb1977e4bb4a5f6",
+              "bytes": 102276,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-melody-low.opus",
+              "sha256": "9b17a2114839ebe15fbbf5ca51faf4b6d7d36e74a4f2d1857fd920b6979138a2",
+              "bytes": 64478,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-melody-low.m4a",
+              "sha256": "5fbf162a28f99f2bc9faa4039aed22e5033b29b75c280057d5875eda73cf88e9",
+              "bytes": 62624,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-harmony-normal.opus",
+              "sha256": "4ce4821128924a451c2e6d9305c4251fc953ddecd143c4078247b1732518b7c1",
+              "bytes": 109964,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-harmony-normal.m4a",
+              "sha256": "249742d2cd5722eb3caf866ba56cfbdd3c39964c8256d71b8bf037d970cb5a24",
+              "bytes": 102460,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-harmony-low.opus",
+              "sha256": "1b0e7da747ac73aa40f6a5ca6fdb58c7046b8df9cecb8bd974abe694e830c100",
+              "bytes": 62101,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-harmony-low.m4a",
+              "sha256": "8d5c7d3775e2877aa86646c1106736fdff643aa432a51536c6a318b512fdb3cc",
+              "bytes": 62629,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-bass-normal.opus",
+              "sha256": "1476d2816f3402ceeb36604320d5ecdbc366b622ea3a95320081bca8234df5da",
+              "bytes": 79618,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-bass-normal.m4a",
+              "sha256": "44fdc0122176c42b33eaf5535e60fe2f7d395c5d43e1a9d0ade49420ad908525",
+              "bytes": 102426,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-bass-low.opus",
+              "sha256": "cc2e4ce4d201847de81854bd534cb52474ece441db9e92bf1c6e41d550dcd6a4",
+              "bytes": 54673,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-bass-low.m4a",
+              "sha256": "26319f7f80bec7115344c7b27a71b9f38630dd93e31bef8e38229b65029ef0ed",
+              "bytes": 62715,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-rhythm-normal.opus",
+              "sha256": "67ad53b63b4f56b9c51114f21c710b7363cd1b4648107a436f04585ad6d4231c",
+              "bytes": 71048,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-rhythm-normal.m4a",
+              "sha256": "4b04ce6ac5bbd56d9a7436946bd82060472b4683d819c6df8dc366bed91dfadd",
+              "bytes": 111698,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-02-rhythm-low.opus",
+              "sha256": "e67d86095fa0cefd0b3d564f0afc816bc6f840626a602a25df637cb2306723d5",
+              "bytes": 47447,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-02-rhythm-low.m4a",
+              "sha256": "9f7ce20f687f372d83e31ee794e8bf929e4df4fbf2f06b8359228cc8e2365a40",
+              "bytes": 62789,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-melody-normal.opus",
+              "sha256": "27358fb2e43dd3a2ae62e9f4659f64bed6f0dcd95428cad22b2623c71e3df285",
+              "bytes": 97385,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-melody-normal.m4a",
+              "sha256": "2f50b3eca57e651be30a428d1fbbea0d98fc24eae3745b3db0f6936067a16415",
+              "bytes": 102381,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-melody-low.opus",
+              "sha256": "4961a3c9f161b831720f34aa57d4b248d70b41e5ee83f4cafbf94c1d855126bb",
+              "bytes": 64315,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-melody-low.m4a",
+              "sha256": "d32d2aa84047d17266fd546732a410156d22d966bb6cc19ee4844e988dd15dd8",
+              "bytes": 62644,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-harmony-normal.opus",
+              "sha256": "c915218387c0834de983fe662894af85c3a4a2bc850990ed91ae3f2d4abae05c",
+              "bytes": 109728,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-harmony-normal.m4a",
+              "sha256": "cad02c8638cc56f56be7adea59d1337002a62b12f6e2d7ce75526a85005b830e",
+              "bytes": 102528,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-harmony-low.opus",
+              "sha256": "8adc1eb330dc33bae4c97550374a0c1eb9a67effe223afe21b95bae6ba780bb4",
+              "bytes": 61916,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-harmony-low.m4a",
+              "sha256": "63cdd834e9da8851229a55d2a3c6be8a5cd2b1af5447fffb940a7793546ba8c4",
+              "bytes": 62677,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-bass-normal.opus",
+              "sha256": "d0352a8ea2785907c69f060d8f8a3a24a3a95796849c33358869abc138f59631",
+              "bytes": 79088,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-bass-normal.m4a",
+              "sha256": "a4f70d3dd865190575c556ff5dd8a06c752ec2c08a357c0c4be297377eda5927",
+              "bytes": 102470,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-bass-low.opus",
+              "sha256": "6892dae9d8cc667d5947bb556e4ec178ce109f7886b4da8ce31f9d0470677218",
+              "bytes": 54400,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-bass-low.m4a",
+              "sha256": "7a9545750467b1a337d4830cdfb634e482c77a9d53fc96dedf409eba0767ab1a",
+              "bytes": 62734,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-rhythm-normal.opus",
+              "sha256": "35251db31754479835f7d7bf350297aadf962bacea49624897a219cef8c8412b",
+              "bytes": 70835,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-rhythm-normal.m4a",
+              "sha256": "f75d80116113f6b11cb3477c861a45389ffeaf3f58d2410b8f8606b92777982c",
+              "bytes": 110898,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-03-rhythm-low.opus",
+              "sha256": "ebf4498a7666db076b0b001c7a1617bd43d86ef2e7c50c0711723c7582683de3",
+              "bytes": 47590,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-03-rhythm-low.m4a",
+              "sha256": "688eb927a2fc2fa692ebd170b6a611e9fefb28a23bb09f922d56bf95f5bea4dd",
+              "bytes": 62739,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-melody-normal.opus",
+              "sha256": "39a224c56dc1fc99607ab9c8eaf60483483d20df97324bfa8c16dee38ca160ac",
+              "bytes": 108682,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-melody-normal.m4a",
+              "sha256": "7ee058b7cbcde44ae2a56f8679d7ae6a8367e6068ba32565e50d400945bcee7d",
+              "bytes": 102306,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-melody-low.opus",
+              "sha256": "35231d6a8054020b67b13b9202b9ef2b2a20f7644fe2c758ef9b95dbb5a51f77",
+              "bytes": 63737,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-melody-low.m4a",
+              "sha256": "6b92991f522aaaabebeedfc0698a25de99c775f450e8bf05957e22ca7d48c34a",
+              "bytes": 62638,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-harmony-normal.opus",
+              "sha256": "94e768f7ff3d397239982d607d96d82a39ffd49d8fb51a33ab7edd06b8455716",
+              "bytes": 105391,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-harmony-normal.m4a",
+              "sha256": "31f080d84083b43a10242bd0ae35895bc3ec72fefe04c3b12a9012afecec8517",
+              "bytes": 102353,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-harmony-low.opus",
+              "sha256": "14a4dd4f63165db50a1e13fe73403b13fe73309a905589c0c74ddb6265d0b00a",
+              "bytes": 61716,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-harmony-low.m4a",
+              "sha256": "c3f55e12cd328bf02ce5c85cad842f9a3f397e43402442bbf0f8dcaf0c96b1d1",
+              "bytes": 62651,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-bass-normal.opus",
+              "sha256": "3e76145ca66056ff048a723361f3180526f8798e8ebcb43125f71648be353d1a",
+              "bytes": 74375,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-bass-normal.m4a",
+              "sha256": "a9f0b177a0342434e307f21626e3ff70ab631ff1d93fc2d4723c9c0ed6534644",
+              "bytes": 102523,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-bass-low.opus",
+              "sha256": "0377de91ecc9b23cf8af584f8118c0df060e01d6920164b447835e17094445db",
+              "bytes": 52121,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-bass-low.m4a",
+              "sha256": "35cf1c908bcf5bfb6d3a68c596a099a005906a60ddfcc59415fc61e43a28e23b",
+              "bytes": 62738,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-rhythm-normal.opus",
+              "sha256": "f20754a8103a5df2bbad6513c0341bc6661993f9599959e5666410192d135135",
+              "bytes": 68760,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-rhythm-normal.m4a",
+              "sha256": "06b89dcebc162bcfce3b6ce88b9cd468ee0aa28ee83efacfe10fefd976528000",
+              "bytes": 112775,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-04-rhythm-low.opus",
+              "sha256": "2f12bf738caabb263232b384128dc9e2e0e78746165a061df49a2467699b0e2a",
+              "bytes": 47552,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-04-rhythm-low.m4a",
+              "sha256": "a49291990a12adce0331e03f8a96148e1479ab988c274465c0dd912c875c9524",
+              "bytes": 62824,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-melody-normal.opus",
+              "sha256": "a0bc10e7acc07a2606518e797c9f8cf4fe2dd6fbd8ccac5be3708c1683708553",
+              "bytes": 109290,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-melody-normal.m4a",
+              "sha256": "a628b27cd88e79304f398fc0b19e3bb8db7578399c200ea8a856fde8cc530e9d",
+              "bytes": 102188,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-melody-low.opus",
+              "sha256": "fe3ac89a15182e52f1fd8f4da52c00a285020409eb6246c55fc617066bba861f",
+              "bytes": 64484,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-melody-low.m4a",
+              "sha256": "1b53c14c087beaca0f634479b3bb01d1a9a8bc3944d26be5f5650138b961b7c5",
+              "bytes": 62629,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-harmony-normal.opus",
+              "sha256": "8c9e313eb4707b2c190af590d08229e69e2e9cea3e53be50fb11f14388f285d1",
+              "bytes": 107624,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-harmony-normal.m4a",
+              "sha256": "74538d896f1c9e486e4db0239bdc699501742bc07c44f5bc72e68f8be80c55cb",
+              "bytes": 102421,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-harmony-low.opus",
+              "sha256": "1983baa4655dff65d1da8b42625803bb3deeb36225887446aa9539ab944ec47c",
+              "bytes": 62415,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-harmony-low.m4a",
+              "sha256": "0ea8e8e02ca418f0b63d9ccb1a513ff9c8af49653273b5c267d631a51759a961",
+              "bytes": 62663,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-bass-normal.opus",
+              "sha256": "fe3c354f44bac77054645dc2a98264541e88a885c4fa9e186c8cfc3848366ce4",
+              "bytes": 74967,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-bass-normal.m4a",
+              "sha256": "ddf0e07e55cb85928eede2870360bb3cc98f884d1bc756ae63afe8c62d4b9201",
+              "bytes": 102687,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-bass-low.opus",
+              "sha256": "bb27fe628eef11aab90023e7a64334aa7296b8335249b26f6af4915b25a7c56d",
+              "bytes": 51543,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-bass-low.m4a",
+              "sha256": "812507ead1f81d971a88d38ba12d7976dde60600faee720f5ab7b013312450c2",
+              "bytes": 62701,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-rhythm-normal.opus",
+              "sha256": "9cf6882fef42b21e84213e38e2ba45dbd23372520d765a41d9f479120c763833",
+              "bytes": 72741,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-rhythm-normal.m4a",
+              "sha256": "b999b71fb127174340d275463d589e660ae2088cd08e63844d4d9f7e8500f34b",
+              "bytes": 111263,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-05-rhythm-low.opus",
+              "sha256": "81f4980e40b4801021dd4e64c821361f401d794833cad7877ba922f4c76fe053",
+              "bytes": 48888,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-05-rhythm-low.m4a",
+              "sha256": "3baf7bff7e8fb6b5dcb35ad5bdf266dbac92e2ac621dfdb814f8c336ca3f1072",
+              "bytes": 62755,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-melody-normal.opus",
+              "sha256": "c9f852052dc0d65c5a56d24f44356395f699846ccf392b82af627fa9a0267cb9",
+              "bytes": 115587,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-melody-normal.m4a",
+              "sha256": "c6c43284d867d4a34ce378e13adc5332a0ad51419f0a108c4a7807ade9f7ebab",
+              "bytes": 102209,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-melody-low.opus",
+              "sha256": "85a192a8bb886c736ceb82321217659bd49116792a8d1a3d4a767c867a35e020",
+              "bytes": 72964,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-melody-low.m4a",
+              "sha256": "1219cce7d1802d38f2578acd7b9bf729644cfc9c211aa786e7bd540e2fd725b8",
+              "bytes": 62627,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-harmony-normal.opus",
+              "sha256": "7de1649a3fd633ca73b8be5f4cd3a013edbaf8b7eb1563b4f3be55ca61c1f712",
+              "bytes": 106512,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-harmony-normal.m4a",
+              "sha256": "06b7184e040d75af8153b5a5e218323cfc28e1047525bbd625453a9ad791c6ea",
+              "bytes": 102475,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-harmony-low.opus",
+              "sha256": "a24c641d34e8cf74565a67d68538461aea526e6e71b67e727fe134244abd9e4f",
+              "bytes": 65152,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-harmony-low.m4a",
+              "sha256": "15277c4664848e630e17a078d9b2f557dbeef8f85c5e0dd0fb03d6408373fe16",
+              "bytes": 62617,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-bass-normal.opus",
+              "sha256": "f17d9951b8faa69ccc3590171bb3cca845987320ae0dc11ccf5c83cebbf55584",
+              "bytes": 76447,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-bass-normal.m4a",
+              "sha256": "835f01b5e879bb16b4bd50ec1c80e4af6eba261c411148f9640d62a695ecbfc4",
+              "bytes": 102650,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-bass-low.opus",
+              "sha256": "45537cea6a04ef408a2ea9e019ebce10a9ebe93f07a852feb0567f8cdcf4ef18",
+              "bytes": 50782,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-bass-low.m4a",
+              "sha256": "dd9b8a9b8e26c23fa44bd19c2e23d13740e5a1c18c1c6010c2e856dc54bae4c9",
+              "bytes": 62679,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-rhythm-normal.opus",
+              "sha256": "2d80bf76322276252adfb9991ecc91d2ae475eecb05b88e6a782db226c837c1e",
+              "bytes": 67968,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-rhythm-normal.m4a",
+              "sha256": "dace522e5634176ba4ade85c9c5ab6f04f513072daf0a815a43f28d143e3b770",
+              "bytes": 113513,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-06-rhythm-low.opus",
+              "sha256": "8e813b82e2783a18d9656238a1152b9479a12846c085800de5110d3445eb94ef",
+              "bytes": 47803,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-06-rhythm-low.m4a",
+              "sha256": "abc8b4d36526d330406dc266b255310575897acfdf2710c27f5de486f6c10fd9",
+              "bytes": 62895,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-melody-normal.opus",
+              "sha256": "7255953d19e8a870e06deb5538fb50da568ea2ca2b2ccbb34b2326aa20111c8b",
+              "bytes": 115693,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-melody-normal.m4a",
+              "sha256": "9185fab41ca303c67a7f24f7f0cef81b8b347982aadca80f186ebe65e16f9926",
+              "bytes": 102202,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-melody-low.opus",
+              "sha256": "e819da08ea05190c945eda3600e3aad7e4c025537139114f896114ec67c6bc4d",
+              "bytes": 72858,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-melody-low.m4a",
+              "sha256": "81c70be6259dd83d06845314372ad88f21cbd75b86c778282d6a2761f962b329",
+              "bytes": 62996,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-harmony-normal.opus",
+              "sha256": "97bbf414e2ea26ba4c8dc9fdcbd48a065c8384e5ae6c059dda11c689f27cf51c",
+              "bytes": 106873,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-harmony-normal.m4a",
+              "sha256": "c757dcea6c1e331f97e513722e7cb29dac724a5c08d5b2c303000b6501701615",
+              "bytes": 102672,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-harmony-low.opus",
+              "sha256": "f9cec5fa880909252ef592b294020ed2dc2be7130686603f6a713ae03025c0b3",
+              "bytes": 65175,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-harmony-low.m4a",
+              "sha256": "c8cd7c4687b045754e16989de53e0068985a3c69490867340693daeda12c5f5f",
+              "bytes": 62638,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-bass-normal.opus",
+              "sha256": "eca720063423e8cc87e0dbea717700df2a8f23ca4cabab3518728b96b48b5cf2",
+              "bytes": 76501,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-bass-normal.m4a",
+              "sha256": "447f64e982e01346c3e2d4a7c778cd115c85bcb64c1519985ceabeda7c7e46d4",
+              "bytes": 102680,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-bass-low.opus",
+              "sha256": "cb8a3be90bbd4e90727bc6e688764d308cacd38126977ce600c62a38a2c46d1a",
+              "bytes": 50851,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-bass-low.m4a",
+              "sha256": "71d6f1ce8bb731cd42c9c0d6d0af2efe308ddbb8abeb631358433df1448d0c89",
+              "bytes": 62668,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-rhythm-normal.opus",
+              "sha256": "74f72666ae3f56f4d939be1c225c78328cbfd03e0f6ecd09f431aface0edf496",
+              "bytes": 70333,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-rhythm-normal.m4a",
+              "sha256": "e9ce50785cf26760487dd1c96375f4a3bae7dfd354fe5ec0b3eb86a1e43d886c",
+              "bytes": 113393,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-07-rhythm-low.opus",
+              "sha256": "9ee22d0714f405f5448598a05b74113850ead0a64775b2010cdbc799cb16f88f",
+              "bytes": 48748,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-07-rhythm-low.m4a",
+              "sha256": "9ffaaed8c83b0208f8bed1b306a72d04c88ba0b6276ddbb9a2df13e3792f418f",
+              "bytes": 62810,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-melody-normal.opus",
+              "sha256": "78cc0ea7392be2c4355f7fbf7791ecd204212833ab3787a9047b537ec2176f16",
+              "bytes": 115832,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-melody-normal.m4a",
+              "sha256": "7686b9d0ae0915e0905ce447a2024b227664fafc1e60a5cd0c81f34686d50a2a",
+              "bytes": 102204,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-melody-low.opus",
+              "sha256": "08e9a310a1cd347b64404f39a2f3767485ad2091c71c4257b49b0a03e9840bde",
+              "bytes": 73116,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-melody-low.m4a",
+              "sha256": "df689635378177091ca0a5bd9cb8de3ee88877466b50f10023bf4e78fc34f9dd",
+              "bytes": 62953,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-harmony-normal.opus",
+              "sha256": "8fd26b5f404e18638b1fc2545c413e21895ac6602653b5c8bec7ec39b9bd48e7",
+              "bytes": 106874,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-harmony-normal.m4a",
+              "sha256": "e8c3d23127692aeb845c056d6209060b71b8809c206318dd2b0757f3fff7d5bf",
+              "bytes": 102443,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-harmony-low.opus",
+              "sha256": "84a8922cbf99fe37d479ef9ecf51454e532ca5e3e6fde98100ef2c9db87bf9dc",
+              "bytes": 65202,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-harmony-low.m4a",
+              "sha256": "242bbeb3576f50ec609f413c1b4f5b217ee9c161e149f4474e78c5df086adc4f",
+              "bytes": 62641,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-bass-normal.opus",
+              "sha256": "f99d68f61f561e729836e11dbf3e651650809eda343dc44afcca8a7c435cf3b5",
+              "bytes": 76497,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-bass-normal.m4a",
+              "sha256": "db18607cd5ba8f924c41e1e3899db5eeb37295cf90141f8fd52f66af4f21512c",
+              "bytes": 102675,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-bass-low.opus",
+              "sha256": "4c705500f61236097d985b91d895a24f26628545d296866fedb3aeb35e47aa34",
+              "bytes": 50844,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-bass-low.m4a",
+              "sha256": "6ea21613bb63e3efd5f5436028df6aece7d1722c347bb4b1e919bfe2ccbfbf3d",
+              "bytes": 62671,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-rhythm-normal.opus",
+              "sha256": "63f3b231c7f49b7e6a46cd33c7d4722091d44b25575fde8be33f1c106010bdc6",
+              "bytes": 68016,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-rhythm-normal.m4a",
+              "sha256": "a054a9ac5ab646954d71c4c011effd1a2595f236a3fb5151b093ca6e5b10f401",
+              "bytes": 113619,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-08-rhythm-low.opus",
+              "sha256": "83a2feedea52ad6a1dfe1c4b887baf64a27de8a334a6ced946f5f98269784d18",
+              "bytes": 47770,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-08-rhythm-low.m4a",
+              "sha256": "c952e4519b8c968b344661525dc19548c0bc5d0af184279b3df1463e4dccbc6e",
+              "bytes": 62886,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-melody-normal.opus",
+              "sha256": "e45c9a09ba866f911e0a06d2d59f5c224cce571383a01a94d59c9bc7cdb92f12",
+              "bytes": 120558,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-melody-normal.m4a",
+              "sha256": "8474f05997272c20582c83b00089a24d00b74828542b317e6bdf5575d9b51123",
+              "bytes": 102141,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-melody-low.opus",
+              "sha256": "d2beafb46ac1dd14a0cf0c2328082df6092163d47bc911b61b7b04af2c7b4972",
+              "bytes": 76939,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-melody-low.m4a",
+              "sha256": "714bf8ec8cea47e7c05e587ab14aac20fa15c2854a34fd320e3c98e80e78b98e",
+              "bytes": 62648,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-harmony-normal.opus",
+              "sha256": "3033f3584c6fe58f387b4aae41b5344683d6d75d11edc6db211cc68b134629e3",
+              "bytes": 106892,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-harmony-normal.m4a",
+              "sha256": "257baceca5b941627d09ba7325808375fcef8474513b07e1559b7d9276ec8e3d",
+              "bytes": 102369,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-harmony-low.opus",
+              "sha256": "fac61c99d77d37a4a5d0c29fef5df9c8302b54c8eeda3cbf0993623a1a77d3f3",
+              "bytes": 65321,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-harmony-low.m4a",
+              "sha256": "332c88512487ac69789fc3f14f49016363f001bf3cdc9254639a4fc1fdd7a77f",
+              "bytes": 62659,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-bass-normal.opus",
+              "sha256": "22bb1e35bb54a99ecaf056a01439c735383b510f66c734df60fb3fdc33979e06",
+              "bytes": 75833,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-bass-normal.m4a",
+              "sha256": "44ec07724f7391405b567e0135f3c4796536e81cb41fa31b101fec98372dfef7",
+              "bytes": 102609,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-bass-low.opus",
+              "sha256": "d514e446cc13ecabb10f06dbde7883c80035a9909c600b9d0284b88e9f928f5b",
+              "bytes": 50437,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-bass-low.m4a",
+              "sha256": "50903d9e215928299238a388397fd43c665de6c61f17028c5893dcfcf4033f96",
+              "bytes": 62723,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-rhythm-normal.opus",
+              "sha256": "8529aeb7e01a5fa678d19d7d194c965a11efd8026d29a04a942167841daef687",
+              "bytes": 70536,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-rhythm-normal.m4a",
+              "sha256": "d77dffac3b39b7693ea3905053bc63b926acb1591bacf9b352395681ca93cfee",
+              "bytes": 113070,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-09-rhythm-low.opus",
+              "sha256": "82ea141113bc71926687652c7ae838f03fe69407db985b1ae06892d7b7dbbbab",
+              "bytes": 48636,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-09-rhythm-low.m4a",
+              "sha256": "6bb91bd056ffe7cf72966a6b10396f2eea11712c561cd5b7002d3793ab455099",
+              "bytes": 62910,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-melody-normal.opus",
+              "sha256": "6ad86e89f652cbdc214bc638dff27c72099693e1a97420cc32e74c9e02857b53",
+              "bytes": 96822,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-melody-normal.m4a",
+              "sha256": "672c90192a613c834971eb8fbc5c265ed2a8d420437f25f684eaf89e27e811d9",
+              "bytes": 102232,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-melody-low.opus",
+              "sha256": "f98ba9c943c35bad4b57588ea9c0756dad5104cbacdf25fd00cc491f8f49d72f",
+              "bytes": 64397,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-melody-low.m4a",
+              "sha256": "bfcb99f24747d00ffabdf1da669f259a3882557da6e0a877f9a730af8b93f7ab",
+              "bytes": 62612,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-harmony-normal.opus",
+              "sha256": "048f516d9753cfd3d5f2583f71f6529b8db1b27e53b1d9a84e1b6339cdc3e5c1",
+              "bytes": 105859,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-harmony-normal.m4a",
+              "sha256": "c1cf46c72a4cb53ce9124a3edbe7aa69287ea6d4e8370c008414c3f97eab8fd7",
+              "bytes": 102437,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-harmony-low.opus",
+              "sha256": "fd202c87aa0716cd916a55db4b0cae6273c1b00fa7ce3c0365a222a8739204f4",
+              "bytes": 61578,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-harmony-low.m4a",
+              "sha256": "f92b08118040479c9f93c4ed305e104fcd78c186e5c659bf792949661c6e036d",
+              "bytes": 62701,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-bass-normal.opus",
+              "sha256": "0aff54e6e6f2895d4bb2842fb5b4f3dd3a158aac4cb2787019126d76370a3019",
+              "bytes": 80314,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-bass-normal.m4a",
+              "sha256": "594db1883cd8d68991c07e03de0ed8e26cf1b8f4c1e2945da3f3acc69dc9d8a7",
+              "bytes": 102537,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-bass-low.opus",
+              "sha256": "94d0f198ac5443855be30a78e993f0f4be1a11dfe06bbcb4e47fcd34ea66f82d",
+              "bytes": 53886,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-bass-low.m4a",
+              "sha256": "0bae5e078836aa2ec1cff15e3f32bd394831920683903e4951425819cb7e81bf",
+              "bytes": 62683,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-rhythm-normal.opus",
+              "sha256": "d59c98abe99292ba5d26adfa8ea7b55fe1121f9a71009236dc98d88780d9bdcd",
+              "bytes": 39148,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-rhythm-normal.m4a",
+              "sha256": "bd6bd6b4896d12b86f2b023bd092150eb8fc21d5d9c5ab922a173e205751811f",
+              "bytes": 63552,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-10-rhythm-low.opus",
+              "sha256": "05d98edd5b0d96e300a922edc2d054d1164b2153e54178c71f661d77d7fd2ece",
+              "bytes": 20721,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-10-rhythm-low.m4a",
+              "sha256": "cdfc5029adfe560b0feea5e6bcf026eed6daa7dd6543d6a5c95c4575cd915c96",
+              "bytes": 40067,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-melody-normal.opus",
+              "sha256": "11e5f89c964df817f3303f177eec9df3ce3840af33925bac0fa63376a3e3e1de",
+              "bytes": 95818,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-melody-normal.m4a",
+              "sha256": "257f4495f26a2c357160e0c43e1366bd42fc9a9f439848310b5df0407acd1f74",
+              "bytes": 102319,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-melody-low.opus",
+              "sha256": "a44bc0dd5549ad8a5d06680a92fe7d7c924fdae5f0d3a7e5a1cce400baabb06e",
+              "bytes": 63539,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-melody-low.m4a",
+              "sha256": "f4fb548f6c8cfefa9b606cfbaa772ef44afcbead09941e68901cbf24d56e6b84",
+              "bytes": 62700,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-harmony-normal.opus",
+              "sha256": "4085b62f89c6d17d50249f02762d96eaf8d3353cd935930d194c1cc253b27c64",
+              "bytes": 105804,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-harmony-normal.m4a",
+              "sha256": "e68c3c046ab6d77b3361aad5f53f568dd969b3cc57b2d29f53050153be44524d",
+              "bytes": 102276,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-harmony-low.opus",
+              "sha256": "c8e26e4081525e3fe13f8048035ed585de863ce477a2ada524e28fb418c82f86",
+              "bytes": 62491,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-harmony-low.m4a",
+              "sha256": "bce3952a903bc77a863213f6584f95cdbcb18f7ea1b2f5ba058924da09f02521",
+              "bytes": 62701,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-bass-normal.opus",
+              "sha256": "7f74902250af6e22a2f63cc24c001ba833d27d6228caf5268b6a20e13d45ea06",
+              "bytes": 79971,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-bass-normal.m4a",
+              "sha256": "dd0529e13a37b966e7f604c34bed45a2546886a77e2fcc57dbaf75cf007be55d",
+              "bytes": 102519,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-bass-low.opus",
+              "sha256": "72608b712bf352e8541412c469be50d131e4f7bcd8bfa914c7829edc0b5fc423",
+              "bytes": 53321,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-bass-low.m4a",
+              "sha256": "7fba16c06ebc780955a994c5edaef195c455689c0e8664262c4048636007a016",
+              "bytes": 62724,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-rhythm-normal.opus",
+              "sha256": "e36809948b420b20d04399bc174984761f75af40842413fa362d23989568d6ef",
+              "bytes": 36374,
+              "seconds": 10,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-rhythm-normal.m4a",
+              "sha256": "7e8daf668d9aee8cdaff04cf299fdefeca3433ba0117c17d4de6f9571182b1b4",
+              "bytes": 60615,
+              "seconds": 10,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/deep-end-11-rhythm-low.opus",
+              "sha256": "e568c5656e8b20cea8758a37fe523689b00746d869ceff97ae9fe2eacdffbf21",
+              "bytes": 21016,
+              "seconds": 10,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/deep-end-11-rhythm-low.m4a",
+              "sha256": "644d87eee10cc3f0ae2d0d39a7c2585489ddb349a67027675975f57b616edbe7",
+              "bytes": 38289,
+              "seconds": 10,
+              "channels": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

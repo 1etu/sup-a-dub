@@ -1,0 +1,1970 @@
+{
+  "id": "bubble-lobby",
+  "title": "Bubble Lobby",
+  "bpm": 112,
+  "beatsPerBar": 4,
+  "barsPerChunk": 4,
+  "seconds": 120,
+  "chunks": [
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-melody-normal.opus",
+              "sha256": "f5351645ac415b3041d124c2bf626fa02e43c5dac59f84c6f22ae53024682c82",
+              "bytes": 65114,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-melody-normal.m4a",
+              "sha256": "dce3edd3652f970d4437e1223d444c4238baa03a3093e4c107e3e9393557bd1c",
+              "bytes": 59073,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-melody-low.opus",
+              "sha256": "71f967191e17065eca215b76e0853d4f2936dc408cd8afc151ac953f7d984989",
+              "bytes": 39014,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-melody-low.m4a",
+              "sha256": "a6171bfa5b82973f0a9188606263956ba90977df1fb8e51c0e80829aa23b2e20",
+              "bytes": 36957,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-harmony-normal.opus",
+              "sha256": "f188e3ea4f34f148a6cf2a2ac91576fc717b8cb80d59e64b31fe67757a42d05d",
+              "bytes": 93321,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-harmony-normal.m4a",
+              "sha256": "fed3ea6cadcb8864d8a188049bbeb7323571ad7be89f5a0f677c24d985398399",
+              "bytes": 91868,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-harmony-low.opus",
+              "sha256": "f6bae0fc007499715c368313c81f92d59198f169da56e9dfa0bd1fccaa67d996",
+              "bytes": 55531,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-harmony-low.m4a",
+              "sha256": "c151237429cd567b2e0299bdbc15dabe61b21bf7962f5b25448d032e696d8184",
+              "bytes": 56272,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-bass-normal.opus",
+              "sha256": "af472479059aa927ea40cef71ce0855001e6cedc9de2ba512e568009a3de0bb2",
+              "bytes": 69410,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-bass-normal.m4a",
+              "sha256": "770dab24fb6c0d434d02764fe8b283b9153f95ee72bf04b4ebe893977f41d813",
+              "bytes": 92025,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-bass-low.opus",
+              "sha256": "d11d1293fd3de8ded1316ef01f47ecd12903dfc5bbc0e452b75d6b753d069025",
+              "bytes": 45820,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-bass-low.m4a",
+              "sha256": "fddf3c8f2ec5bf21ec2594985edc306daaf884227330d08c31be862d00cd9a21",
+              "bytes": 56272,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-rhythm-normal.opus",
+              "sha256": "5657663ad3ecbcc8aa72185e3cfdd023a44227e85dfcdf1ff7cd2305a6c8aad1",
+              "bytes": 37029,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-rhythm-normal.m4a",
+              "sha256": "6092bc6a4e8e937fd5a804ef08dad3b76eeeb5dcb615a184955edf5fae58c9d9",
+              "bytes": 62127,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-00-rhythm-low.opus",
+              "sha256": "49752b8c93de5a272dcc529d6dcc2531d8feef387028faa4f4ac7901d5b810c6",
+              "bytes": 22875,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-00-rhythm-low.m4a",
+              "sha256": "1a2a3990e2541f9394bea7f3cb4b302c5f1003420398a4c1179b07339cd8b114",
+              "bytes": 38561,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-melody-normal.opus",
+              "sha256": "b2f37d76cd9dbdf1dd628b8fb9ba3aa15df7fd1f0b7df481249394f29bf5df35",
+              "bytes": 101482,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-melody-normal.m4a",
+              "sha256": "371bce178eeec937e678a182d111750aa89025944303c1301a8dd017f166a41a",
+              "bytes": 91685,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-melody-low.opus",
+              "sha256": "f361ef06d76fdc4ec332142b475c7113efd1af1eddc6cc44161e47f90ea6a6fe",
+              "bytes": 63146,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-melody-low.m4a",
+              "sha256": "8f4eed2b140cdb2695ce0c4104720540415a491b0a7cd77d5b037e312cd9b8c8",
+              "bytes": 56173,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-harmony-normal.opus",
+              "sha256": "a69cb107a3e5b974969563bec96ad27026056dfc139ef9116730b56a1c967a7f",
+              "bytes": 93666,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-harmony-normal.m4a",
+              "sha256": "11d9a16e7d7ff888137cae76a59d3a8634ed85f1cde4e11b48ecce8b1b8b1fc9",
+              "bytes": 91892,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-harmony-low.opus",
+              "sha256": "f3634d098d7b63cbce5090be875d70232f5b5ae4a14089cd45a313474db83de1",
+              "bytes": 55582,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-harmony-low.m4a",
+              "sha256": "03e1ee7c737ad3bbeb4aaeba909320d2cf18027946f50f2cbb9c79128d7b68b2",
+              "bytes": 56256,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-bass-normal.opus",
+              "sha256": "6bc8d3176e205f10070caa10b602867c700b0afb80ea4535abb739ec53ca5b37",
+              "bytes": 69072,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-bass-normal.m4a",
+              "sha256": "3d1d849f4591db07dac3180b3ee7109bfe832878764c95506e70e05d5eda3a5d",
+              "bytes": 91799,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-bass-low.opus",
+              "sha256": "cac4e588c8e66bbfcda4fe50c815940a6d9553079bdcb362eb0003df3bdea56f",
+              "bytes": 45737,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-bass-low.m4a",
+              "sha256": "033c70861007bd6a99d2002e9f7a416bd8cebfd5c2c658c8efc88b2c94fd6ee7",
+              "bytes": 56235,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-rhythm-normal.opus",
+              "sha256": "dc3d28a25c3da3a3c2a13b8846282af28aba17d07fe09029018449e02e0729a4",
+              "bytes": 37825,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-rhythm-normal.m4a",
+              "sha256": "6cceebfa7b4a10f9e2fd4d52299f59a627ec7ca80fdc9b17ce8ac4858fffe971",
+              "bytes": 61924,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-01-rhythm-low.opus",
+              "sha256": "6dd43ccec5763d03038748a40fa3f24686a0894e2f0753fa6e5737243998c659",
+              "bytes": 23445,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-01-rhythm-low.m4a",
+              "sha256": "0c047f51d2dc448afebc1143a30fbc5df9a46bb648ac3a96b3f9f726d7ff2f53",
+              "bytes": 38851,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-melody-normal.opus",
+              "sha256": "7de4f09d61c2d28a015d003c8eb58af8f4f93130cee22fb6dbb42a7ecc80793b",
+              "bytes": 93065,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-melody-normal.m4a",
+              "sha256": "acd94ae96ee4ee4dc49da524e296761d4a8bf1914bb2c27b918fafbdc086fc9d",
+              "bytes": 91615,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-melody-low.opus",
+              "sha256": "696b24bb7b74dc8489ea872052a06cf08e0b1064b5de68ee8015b36e13b76689",
+              "bytes": 61708,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-melody-low.m4a",
+              "sha256": "3afcd1c4f589cac88e5af154ea31ae58064863ac2dc5eff8911ca07aa33d4fb8",
+              "bytes": 56205,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-harmony-normal.opus",
+              "sha256": "8f303b2ccf64c90a8f042767cd48ae3d190bc64785a57f262b1148d511682934",
+              "bytes": 95250,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-harmony-normal.m4a",
+              "sha256": "dc39019055069a7d052537f42029ba1a9121ed8fe21340b4f50aec476dd86f41",
+              "bytes": 91857,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-harmony-low.opus",
+              "sha256": "9b065b27c0327cfa8c15a5e6b963a6f4901770706bf72a32a7a053dbb3e110d0",
+              "bytes": 57765,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-harmony-low.m4a",
+              "sha256": "194474d5b105546c7518d50fe04e9fcbd53289b30ee843abd299ee37441742fa",
+              "bytes": 56202,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-bass-normal.opus",
+              "sha256": "aad363e9eac7ce27b9309b3bd3a221817e6a867a75994f3d1e2ef88680e095dd",
+              "bytes": 67180,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-bass-normal.m4a",
+              "sha256": "3733f55857d42f7ba43315fcfef67ae6b8610891d847b8c8574fd8668880f1a6",
+              "bytes": 91820,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-bass-low.opus",
+              "sha256": "31557566d941495414e24f6382aa2a0286141665a869519a37d71730387e261d",
+              "bytes": 44987,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-bass-low.m4a",
+              "sha256": "1f45aeb0600529fc63ee37e3841cd6101602b01213bc6961489c7a80d6123bf0",
+              "bytes": 56256,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-rhythm-normal.opus",
+              "sha256": "6deb8326d146ab41992439496b52f39a8da8e727271378e7a3903ee2cfb63a8b",
+              "bytes": 64474,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-rhythm-normal.m4a",
+              "sha256": "b4b2c861d8d701c94d70990ad2d29742f565983cc8a350cb761a5eca1e8da755",
+              "bytes": 99487,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-02-rhythm-low.opus",
+              "sha256": "33237d5264a4357900029453e9d0f488c44733f30b988a9af12d6d3239294511",
+              "bytes": 42809,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-02-rhythm-low.m4a",
+              "sha256": "0a585edcf85be87dfbb936753743a8ff225c51a115a100b03703ca26b790bd70",
+              "bytes": 56384,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-melody-normal.opus",
+              "sha256": "a478d4fa1de8098b1d798c0177a4a65db6d7e6cbb280fc98287687b3302f55d6",
+              "bytes": 93278,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-melody-normal.m4a",
+              "sha256": "3799066eca0e1e1f653e48c78f5740d620bdfecdfef908c6ae980ddc456c9689",
+              "bytes": 91561,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-melody-low.opus",
+              "sha256": "756c4ef0fe42714775da07ea885a8ebc0353e95570470b1055a6904d90c333aa",
+              "bytes": 61710,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-melody-low.m4a",
+              "sha256": "e79ac3a3a399c1ccff8f38d3ad5af557e8b2ca31464e356f30ece6c9d7d4c148",
+              "bytes": 56203,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-harmony-normal.opus",
+              "sha256": "ad840d91a5a24e0ac8778a125b886da9713e2a1471de92d671799b2cc3444c36",
+              "bytes": 95057,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-harmony-normal.m4a",
+              "sha256": "a1b1759d0a7271e55be1c676db8d016ba792fa34e3ed2a7f05a1be6794876ee4",
+              "bytes": 91867,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-harmony-low.opus",
+              "sha256": "322b6b4095cb766794f94ee5e4c8fa4067bf0df6397699429138d5a3c866d957",
+              "bytes": 58086,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-harmony-low.m4a",
+              "sha256": "58e562abd4cd67b13ba69d25f9b09134dff1f121e8a59a83c9d2dc1cd13aaa1e",
+              "bytes": 56204,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-bass-normal.opus",
+              "sha256": "10abb00c98d8bfa4c95711685d83f0074021700d0b6193e515521d5dee81972a",
+              "bytes": 67428,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-bass-normal.m4a",
+              "sha256": "604387a13801464d706ae78640f9c85a1b2ef0723c5b425b9fefcd6f0279267f",
+              "bytes": 91820,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-bass-low.opus",
+              "sha256": "e82b916c57a21f8d94667d8038837ac521a1b9e46e49016e3ec936b0dcc272f3",
+              "bytes": 46794,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-bass-low.m4a",
+              "sha256": "81ca6349cabd547ff316ab36e6a2035b8ed7d88db567cc35529fc8bf8a90fe57",
+              "bytes": 56269,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-rhythm-normal.opus",
+              "sha256": "87d85dd80912f2e55ba3f16979cd59fabacfd64e3d2dc8a896e60aa878c9b730",
+              "bytes": 65341,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-rhythm-normal.m4a",
+              "sha256": "52a9dee55ba464ba6e0238026929dfb9eb3d8c0689b56c2884083ba1fab718f2",
+              "bytes": 100025,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-03-rhythm-low.opus",
+              "sha256": "1aeec7838f732fc088b7012eec0d277d4431be632daa055f0b32a00dcfdf1598",
+              "bytes": 43591,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-03-rhythm-low.m4a",
+              "sha256": "34a4802f0c8a3a4b13da4c5d6bdd795f8c084083d46900b2fbeedd91c73f73b8",
+              "bytes": 56375,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-melody-normal.opus",
+              "sha256": "4360b02516b2338ce4792b06e31a0684dc607d44b9edf2e39f3f1ec2a98df93c",
+              "bytes": 93798,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-melody-normal.m4a",
+              "sha256": "c321fd352abcbb3897f9f1cfaa97c195b473336601242a9e1e6c60bd5cc0d467",
+              "bytes": 91580,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-melody-low.opus",
+              "sha256": "65c3e831c1d145ca00def78757822d4bf43ba9ebe67ddeecd145ce4627230f50",
+              "bytes": 61958,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-melody-low.m4a",
+              "sha256": "35f1ba9ad5668821b163c5cdca0a8a02a58ed1bd675d68468433c2d906b35947",
+              "bytes": 56216,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-harmony-normal.opus",
+              "sha256": "dc0c1c1311306ee9ed23075b069c4546295bdde1606ebbfaf38a81734e8bb1c6",
+              "bytes": 95270,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-harmony-normal.m4a",
+              "sha256": "d370c050dbd7417e265b2706c00d977b27af98ecc8e7eb4dce1ca0377a60d934",
+              "bytes": 91885,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-harmony-low.opus",
+              "sha256": "f3d90c735f4ec97c98bbdce8c3ed29230b9dd75b5613c639ebb0153ef72f8a54",
+              "bytes": 58193,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-harmony-low.m4a",
+              "sha256": "c68f54d0b6d62b0e4d5aa7f47477e3d09fa59c83ee181c891e762e4f7abb8b66",
+              "bytes": 56237,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-bass-normal.opus",
+              "sha256": "987c9ec7200dc9b9065594a448d8cc0345a6505d9ffd75d06856e49dc880bd38",
+              "bytes": 67314,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-bass-normal.m4a",
+              "sha256": "b48da6822fcd2b46ad2ed0d69cf3afb9f68e6a414434c7756738a187d91db5d9",
+              "bytes": 91840,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-bass-low.opus",
+              "sha256": "8250db32ac37265a2e8eb014474526448f370be954644f7b863eaee7cabe72b5",
+              "bytes": 46828,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-bass-low.m4a",
+              "sha256": "996553059484b86dac221f7b047c4e7bdfdd7798549d94f8a8df61c1f26fac4e",
+              "bytes": 56269,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-rhythm-normal.opus",
+              "sha256": "507d3d084d8610f4a1bfe0a01ef8f5b9043bc5a29d5d233a40c2e3212582442a",
+              "bytes": 62126,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-rhythm-normal.m4a",
+              "sha256": "27820a8c57ed74657ef1ddcfa2b51b344e7a40c42f21334ebd4c8995d2be3a50",
+              "bytes": 100624,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-04-rhythm-low.opus",
+              "sha256": "d6a0cabc20364d780d07e6ee5e365d42e0ee675d2aff11837ad4abdec57c520d",
+              "bytes": 42524,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-04-rhythm-low.m4a",
+              "sha256": "d39f19f25421d11542756ecc52658e5c3eb4b4a09328af1f751be3803265de57",
+              "bytes": 56356,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-melody-normal.opus",
+              "sha256": "373c2796081aa19bf854dc46d0ec3aca0860a9431ec925e7ee0bc49be9c82c58",
+              "bytes": 103364,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-melody-normal.m4a",
+              "sha256": "684cbf5ebcda34defb4e4eaf5ba9391a2f46778d26b792c30344e9a53964219a",
+              "bytes": 91868,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-melody-low.opus",
+              "sha256": "63fff6e4337fb33c2354ca0c94808f68005c62c55dff2f233eaad4461946f851",
+              "bytes": 68985,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-melody-low.m4a",
+              "sha256": "85b7ef384c73c5be2137407e690b29dd843db773ea8d4d4a622405e700c6a86d",
+              "bytes": 56185,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-harmony-normal.opus",
+              "sha256": "c6be15f5ea9681f5e2c6f4e6bcc9c5683f90d4befb6380baa5b5452424818d01",
+              "bytes": 94723,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-harmony-normal.m4a",
+              "sha256": "d4b7c9b2d1cbd4b786e5980babcf11b9fabe227b7ad259046862ae9c1022d484",
+              "bytes": 91859,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-harmony-low.opus",
+              "sha256": "ed1ef0b05cf475d37caeada617669afcc8a893408408490f38f72d85aa95245c",
+              "bytes": 57880,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-harmony-low.m4a",
+              "sha256": "b88b30d7adefe836ec9766f5028c5d461d30e2bf3a9d4fcc37bf176adc5eb3d3",
+              "bytes": 56194,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-bass-normal.opus",
+              "sha256": "77302de0984af3968bf05f24b53db3d0227d8da28f738fbc80aef668d43dc092",
+              "bytes": 66588,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-bass-normal.m4a",
+              "sha256": "14ea4a5cec1647baaeed089b1a789584736afc443c2165f42c1681d63e9ce7c4",
+              "bytes": 91833,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-bass-low.opus",
+              "sha256": "0d6e36b4056793ad8ddefb63b835afe01aaaa5a24ec11aaf1cb024e09a8e931b",
+              "bytes": 46403,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-bass-low.m4a",
+              "sha256": "7c9191fc01679043ae19d56c35cce7744ef8e1c2c7ecfae453ef10f7d0d682d5",
+              "bytes": 56269,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-rhythm-normal.opus",
+              "sha256": "10a2b6bb2f995b0b000319842bf2009b31625a9f075bc2c53cfd5ede37257087",
+              "bytes": 65758,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-rhythm-normal.m4a",
+              "sha256": "119186bf87eb5e6957446a8b8364fba878d94e50f9a8ccf92823123533390688",
+              "bytes": 100740,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-05-rhythm-low.opus",
+              "sha256": "6d9b3f327507ce1c28e2b823a5d46982c18969055dffef366286f8b6fd1cdd93",
+              "bytes": 43533,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-05-rhythm-low.m4a",
+              "sha256": "eaa1740326fb483a6083372070871cdc05b4030126667a4d07cb44ba040056ac",
+              "bytes": 56403,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-melody-normal.opus",
+              "sha256": "3f7aa648dac2fc9b9f55df7eb4da4dd0116140ecd75714e78b01a0a83a4dcc0e",
+              "bytes": 145659,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-melody-normal.m4a",
+              "sha256": "2dfafc55d103db69b717491880fffb490387dec2acb32ad1a4bb59c45a165fdf",
+              "bytes": 91428,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-melody-low.opus",
+              "sha256": "7a37e5ba68e4ea046b0bcd1b98bd74a97bd1a7c837689b7d5d0d8c95235066e8",
+              "bytes": 85901,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-melody-low.m4a",
+              "sha256": "0e0bea85ce0618bec0948cacb821f5dc14b4d03b93e917b1dce0a474bb938d35",
+              "bytes": 56289,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-harmony-normal.opus",
+              "sha256": "0fc4eb6337b2240045680db7e3f910f0c8a5a3a2d768c11d4d320c301851aa6b",
+              "bytes": 91588,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-harmony-normal.m4a",
+              "sha256": "5f1d6a3d4248a38a5432ea89d159186c86278e18ccfc70753f3c7b72942e03d1",
+              "bytes": 91695,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-harmony-low.opus",
+              "sha256": "6af632ad71c078c2960e47ac33c87aa5b6abdbb6e7a94ed9417273ad0c5dbeb3",
+              "bytes": 54527,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-harmony-low.m4a",
+              "sha256": "ff6ba610a7ac4fd5a5af70dca7a9771d0920912e400245d80f7e9c869c906005",
+              "bytes": 56197,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-bass-normal.opus",
+              "sha256": "d0bd9c91433c3aa9937e1b09cd4b7ab1847f4eaa49c870aa99ca432d84c82b8d",
+              "bytes": 65954,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-bass-normal.m4a",
+              "sha256": "cf1d7d56297a154c2f3a1a25dd2b93eec9edb5c401b6a2ea1ca9ab878e7928a6",
+              "bytes": 91900,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-bass-low.opus",
+              "sha256": "6af15d998685cdbd78adbc9248b6b59a28fef6263310462f2a2226981d171489",
+              "bytes": 46390,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-bass-low.m4a",
+              "sha256": "7487969db2181ab7755f630ba88d45b0d589b5478318c573593046d3d1b54439",
+              "bytes": 56299,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-rhythm-normal.opus",
+              "sha256": "ded3509278a9a7d28d50b8b96ce7e1bd5eb9f7bbbc7d3409cb8a219e08f3655b",
+              "bytes": 65009,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-rhythm-normal.m4a",
+              "sha256": "5348586714500737f98c65f0ea2e9edd89ff8a7e045ff80c30139d15990470d2",
+              "bytes": 100340,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-06-rhythm-low.opus",
+              "sha256": "dfbec6e521863189d34413fa6eed2e98d202c173764299a27b43f5133ba2c29b",
+              "bytes": 42696,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-06-rhythm-low.m4a",
+              "sha256": "a80a3d90d6f95101402de92878529ff441a20f8482b688d6771da58c97571564",
+              "bytes": 56378,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-melody-normal.opus",
+              "sha256": "d17411db33e9abb7d98ee1b0d1a2a6a50e67adbe7625c44dd57c99b23078b122",
+              "bytes": 143368,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-melody-normal.m4a",
+              "sha256": "8405605eeea314603d6652c2ad3bd8a2efae962cd9d3b326c55941ecb6b9a0e9",
+              "bytes": 91747,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-melody-low.opus",
+              "sha256": "dfe7645cd4eb54f267b91e991b39353223552f92f243612575ee34e4439515bc",
+              "bytes": 84299,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-melody-low.m4a",
+              "sha256": "9aa4b469b684063d02256039a75f39f7348aba7f29e018e8500190d9134e019a",
+              "bytes": 56265,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-harmony-normal.opus",
+              "sha256": "f1a32399fbe6662f492666e75f23c9306d98546420b38ae10ad2cfbdb24ca1a4",
+              "bytes": 91841,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-harmony-normal.m4a",
+              "sha256": "29a3580e39712e2382abaadcfa4141c5b4080986e476e233b5089e6bd553473f",
+              "bytes": 91743,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-harmony-low.opus",
+              "sha256": "822a52b381f257b93ea5745c7056da1f8269f410a1dd403f0524478a896cec2d",
+              "bytes": 54416,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-harmony-low.m4a",
+              "sha256": "140f8391528b71c1690ba6d571bdfe8bd8ee12c7cfa0224845a584d682bbb5a8",
+              "bytes": 56203,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-bass-normal.opus",
+              "sha256": "e8a97d8434b9838023ea1af815e1a15cd0f7c6d1c17942fb465bf841328b4a23",
+              "bytes": 66740,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-bass-normal.m4a",
+              "sha256": "b25912cc464fbc0fc02d9e8e83b7c24e97476ea5d1870da34fecdb516a753afb",
+              "bytes": 91862,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-bass-low.opus",
+              "sha256": "408a87e534f2b016009644afdfd6c6d674b7961c23b1b58150f84a6fd8fff5e1",
+              "bytes": 46823,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-bass-low.m4a",
+              "sha256": "3903acd3e3827175feb3aa71e6e261c4fe142c4b4a34d03ba9713ba5e9108a77",
+              "bytes": 56286,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-rhythm-normal.opus",
+              "sha256": "bf403c8896df7f49b05545ed029bb41bfe8b7501fb75e82b9b1a9d4ade19886e",
+              "bytes": 64456,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-rhythm-normal.m4a",
+              "sha256": "c802015c78ece3265124631d2c8584cbfc039b8f7a91c1fd1ac4774e6c08ba07",
+              "bytes": 99711,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-07-rhythm-low.opus",
+              "sha256": "f2cc877d57d9c6297d12d09b88e860f2a0891333c8a962c394f00f096afc8eb0",
+              "bytes": 42905,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-07-rhythm-low.m4a",
+              "sha256": "e70a45ecf5beda4fded3b60522d349c769166bcd38258319f2f2837ec5f09d0b",
+              "bytes": 56314,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-melody-normal.opus",
+              "sha256": "815f1098ed4eeefb8b997553cb6f8a72fd21eaf7dcac0d13eed5c7c0d4717b1f",
+              "bytes": 103800,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-melody-normal.m4a",
+              "sha256": "95b169e514c830ec7856e04ada027ca4caa820fe754d3335f5cacb238e22f456",
+              "bytes": 91804,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-melody-low.opus",
+              "sha256": "305c1901ffeaadda7faf80086b0bfce949af7a14dcc30e0b6678bcd25f7a8959",
+              "bytes": 64945,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-melody-low.m4a",
+              "sha256": "b0fed86ea77dfcb76f82f63bcbaf27cdff0d6e04268c5a346b85959fedd9e8a0",
+              "bytes": 56193,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-harmony-normal.opus",
+              "sha256": "f43935cb9aad174f7d29a28afebc963b0fd104851f10cd640c7645dedff19798",
+              "bytes": 93592,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-harmony-normal.m4a",
+              "sha256": "f2feaa4bf7302b5732aaf978ad3379fdefc6bfdf42f110200f1f8cba93fb3949",
+              "bytes": 91991,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-harmony-low.opus",
+              "sha256": "0cd30e388b473966f3d91419ff351e0ae713850a4f218ccc61f789ea4b92586b",
+              "bytes": 58349,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-harmony-low.m4a",
+              "sha256": "7b01a6e0c657998ada538696bd11550a94e18b488a16136f7293aaf603da564c",
+              "bytes": 56210,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-bass-normal.opus",
+              "sha256": "89082a60105221ec2c8a1da882544766ee83e8e4ffd5828cc0d90a5e5a349501",
+              "bytes": 67169,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-bass-normal.m4a",
+              "sha256": "48129b4b59557af4f3a7c7412b05003dae31aa8eb090f586a4faad0ca93a5fac",
+              "bytes": 91816,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-bass-low.opus",
+              "sha256": "6fc6c8e03a3408e5906a93799625905e17be97062736d41cecce93626256daa4",
+              "bytes": 46637,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-bass-low.m4a",
+              "sha256": "e04ff42470c217095f2872d01ebc7f6113c7d55798261b9adcda70150574c990",
+              "bytes": 56268,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-rhythm-normal.opus",
+              "sha256": "ae1ac0207dd9249974d6e41b929fd200413fdf21c86a36190d8226130a71efaa",
+              "bytes": 62297,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-rhythm-normal.m4a",
+              "sha256": "122fb4bfb45502de3c216b94ab968785197d14790ab8c2f78b7905ad57aee0c1",
+              "bytes": 100516,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-08-rhythm-low.opus",
+              "sha256": "069118a441142f96e3dd7663992b164c47a8b27869b1fc6be84f673cc3486c9c",
+              "bytes": 43230,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-08-rhythm-low.m4a",
+              "sha256": "a0b62e3c583d59fb1fd257b24591964d8d25f0f32747dd59599adec581b04a4f",
+              "bytes": 56405,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-melody-normal.opus",
+              "sha256": "d5de25cff242ea94fc7526c955328006bbc9d94b6a84fa2f5492fd8c0412bfb3",
+              "bytes": 106856,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-melody-normal.m4a",
+              "sha256": "e258794fdab5e74e54bc005eec01d887de473886bcbfe95ddb3e9733fc57f682",
+              "bytes": 91556,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-melody-low.opus",
+              "sha256": "48dd5576040033bf2d4858e6de215a040d0c6ef95913b451338ee67970906492",
+              "bytes": 67349,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-melody-low.m4a",
+              "sha256": "829de24084da7c54402cf0dc01022197b1140a75f0349ae90462e8c52ce87ecb",
+              "bytes": 56251,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-harmony-normal.opus",
+              "sha256": "9ef1aa7bea147fa9731149720819845cee0b018fb53af4c518980b2e9b30bad6",
+              "bytes": 93909,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-harmony-normal.m4a",
+              "sha256": "2adcd5214488a90d165c1663a6ed85e4c692a5eadcf98febd3dad5998ea433e5",
+              "bytes": 91984,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-harmony-low.opus",
+              "sha256": "4c0942dffbcc7e102a7024923f0cd25145676bd0d4fcb16e7d9b1754a38befc0",
+              "bytes": 58147,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-harmony-low.m4a",
+              "sha256": "9ab241b295b991ff17b1b87f40b07ffefd0897717be620ebd0dfb75e97875964",
+              "bytes": 56218,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-bass-normal.opus",
+              "sha256": "4878047395bf90e0f0992054705e9abd018ec11e3f103f793ba27838fcf560df",
+              "bytes": 67190,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-bass-normal.m4a",
+              "sha256": "c502ef2761adcae6ed011ca6d73359fd1e7d82ac87df142713633e4a32668724",
+              "bytes": 91851,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-bass-low.opus",
+              "sha256": "140d8a2db9e7aaaf0fd4e0dcf5332b4419bc11cf6c71785c9c5c3dc15be95662",
+              "bytes": 45622,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-bass-low.m4a",
+              "sha256": "e012e8a6f08cf4b645c127f29df0360be5fe9a4bb881de33cfd97ee88480f194",
+              "bytes": 56286,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-rhythm-normal.opus",
+              "sha256": "7a9fe98c307a80c6a48bba56dda41b3736470dc8d4bcce8de934030cf6055f04",
+              "bytes": 64308,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-rhythm-normal.m4a",
+              "sha256": "e4ca1fbd2d87cd17af705fcbbf089416afe151bac842b9cc0868eadd1e52c982",
+              "bytes": 98543,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-09-rhythm-low.opus",
+              "sha256": "f915180423b3124e93aa48d6e64016412d9575b02ff0124251b17946a0b100d3",
+              "bytes": 43866,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-09-rhythm-low.m4a",
+              "sha256": "7fd54c25be49f049c33e3d0a078de45218cb862618af235ecc08780f29b21de9",
+              "bytes": 56359,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-melody-normal.opus",
+              "sha256": "c1e4f6a516cfce6b97974b80d61962cc4ddc430f8841e6d5be5acd319a680322",
+              "bytes": 106222,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-melody-normal.m4a",
+              "sha256": "5cf63266b58e765fa4a2345ecdba1af7d79055a1e472ebee429da7a7a4406755",
+              "bytes": 91563,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-melody-low.opus",
+              "sha256": "cdf0e50ecb6d274021d5e9b86a166df7a1fd275acf065d1a5334c39e3bd54133",
+              "bytes": 67186,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-melody-low.m4a",
+              "sha256": "d401216db928a35c6930b2361c0a73765f2b78b8ae979ba803b42f760973d085",
+              "bytes": 56211,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-harmony-normal.opus",
+              "sha256": "9c70377f32927b3be7f59b9eeb099f05c485d4ab6f735601d192f7bd603914f6",
+              "bytes": 93901,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-harmony-normal.m4a",
+              "sha256": "eba7068dcb3d107cb21638491fb7170cf64e248b1d5135d5ab69da7a0850ffed",
+              "bytes": 92010,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-harmony-low.opus",
+              "sha256": "98f5949b18e5e0eb5ae153d8756c01aa43d1e64bda2350b693afb05f27c60e93",
+              "bytes": 58544,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-harmony-low.m4a",
+              "sha256": "9be053ba30d50393b7fc52ff29ea3f76310b5a50051da360619d01fc156a4b60",
+              "bytes": 56230,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-bass-normal.opus",
+              "sha256": "fdbaad7a588e0a20b02eab6c58feda5c5f0ad5beb783f99f17d39f966d49162c",
+              "bytes": 67193,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-bass-normal.m4a",
+              "sha256": "d8b84709b912205353e55234004f810214cce63d82660963f9569fa9d968d6dd",
+              "bytes": 91952,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-bass-low.opus",
+              "sha256": "c4a3f785640813090b932515af3ef1dfdf34bb133a72935f2f5dcc5d681d4e4c",
+              "bytes": 45663,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-bass-low.m4a",
+              "sha256": "0b1eda98b16e6c1232c22bd5d5305351eaa628a8e7c57f8145b374f795547711",
+              "bytes": 56271,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-rhythm-normal.opus",
+              "sha256": "53b7c1fea17e3b472bc875e5a8e609423e13a5d2758c29eada9969ad61359404",
+              "bytes": 62040,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-rhythm-normal.m4a",
+              "sha256": "045b985c0a55f08fba737692c06207db1a161fc4bcc56e04420b13f6afaae0bc",
+              "bytes": 99683,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-10-rhythm-low.opus",
+              "sha256": "c46977911f1c70d9408cc1a871291d5e97995683662e53c5ad90150cdb4c4b51",
+              "bytes": 42782,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-10-rhythm-low.m4a",
+              "sha256": "407991697cee06d0313f780eed01c4e6a76b532274ec0e9b8544934257953009",
+              "bytes": 56454,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-melody-normal.opus",
+              "sha256": "a6b15027220c281d664933b90ec6cfd0feb554d3cbeb7a730c2b550f362eead6",
+              "bytes": 108620,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-melody-normal.m4a",
+              "sha256": "b03f68fe0ef2eb7d9a5c2eb5a3ec45ef3a57cd0fddde21905076ad8e5d4eddba",
+              "bytes": 91580,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-melody-low.opus",
+              "sha256": "50390e1e618d60d705dd34e83528bc1c4c5c7abe4243284f3f363016ad41a4f5",
+              "bytes": 69788,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-melody-low.m4a",
+              "sha256": "5f4ae7c4fa1b69c04cd0a51accc590b05bf817da787264a25a4d2e10b039baa6",
+              "bytes": 56136,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-harmony-normal.opus",
+              "sha256": "e98402548ea3afa6825ca384c725effbe450f83a89b69da24d43b13622624019",
+              "bytes": 93872,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-harmony-normal.m4a",
+              "sha256": "a1b65a5e36918d7a79c72affb1653e3ddfdc48159d44e2b9620a52444bed7b3e",
+              "bytes": 91913,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-harmony-low.opus",
+              "sha256": "e4481873938a1e450be7e73e1d54646ff848553d77ac86fa5449e15121aaa38a",
+              "bytes": 58521,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-harmony-low.m4a",
+              "sha256": "e2286a0e5f2dc1ce1cf9c4e1639670773f741294c62f55ffc8f26070aec00e9e",
+              "bytes": 56250,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-bass-normal.opus",
+              "sha256": "3a10ef0ae3606057a37bf2d077326185f8cfc15059b6b41b424a2f240df94953",
+              "bytes": 66840,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-bass-normal.m4a",
+              "sha256": "262f03daf4bcace5f2c24235f98da61bd0d4e707d5e3c219875df208f9ef814e",
+              "bytes": 91956,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-bass-low.opus",
+              "sha256": "9d3a047c33ba7c38bfa54037d46f7a5235c612a6d4b8a657a80a3f882af5fae7",
+              "bytes": 45484,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-bass-low.m4a",
+              "sha256": "363551bd210e29f73833c65ecc09da040e929e32cb22eb45543f7882346ee0cd",
+              "bytes": 56272,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-rhythm-normal.opus",
+              "sha256": "74ecd994d8ca71660548b526f8d289829300915e74ae095ba49a29e35d1bcf65",
+              "bytes": 64488,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-rhythm-normal.m4a",
+              "sha256": "25d931b5c58ef36057295da8b1803347feece877c56ce6c2968ee3768688af33",
+              "bytes": 98915,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-11-rhythm-low.opus",
+              "sha256": "dfb9e8e66b426e637d0166c27bb00ac1e4cfa8aa367081b2dd87c91663505887",
+              "bytes": 43659,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-11-rhythm-low.m4a",
+              "sha256": "59293c134f5eb5882706f2d4aa3e29105ed0f418349b749d892b76ef32c9fd8d",
+              "bytes": 56399,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-melody-normal.opus",
+              "sha256": "209ce66f231c91a936ba515d68ce5c113082ed17d3fff099d9b76e8dcebc33c2",
+              "bytes": 92970,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-melody-normal.m4a",
+              "sha256": "11e381b72b831720adce7fcb844cb87db75f3624bffeba205c71eef4d185b80a",
+              "bytes": 92217,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-melody-low.opus",
+              "sha256": "17e259afeb6f50ca61bcb0fa5635d8a9291f4861ad0c9919794d83ad2d099147",
+              "bytes": 61616,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-melody-low.m4a",
+              "sha256": "ef72a7181988ac923cbb966317a126063454d01dafcb66cd211682583d820f23",
+              "bytes": 56187,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-harmony-normal.opus",
+              "sha256": "040fce06f75956871b127a9a2e81ac3c81111b849419803cd34ade2202a4b30b",
+              "bytes": 94280,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-harmony-normal.m4a",
+              "sha256": "cdb816dc7c34360f13bc388813f252b245235f6e1a43751e1e51e6716cef8d14",
+              "bytes": 91639,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-harmony-low.opus",
+              "sha256": "74da9c867892b1f2802ccec99c32cf6612e32e7439c821cf94b4f8e007436df5",
+              "bytes": 54182,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-harmony-low.m4a",
+              "sha256": "722673eba38c64c6c66ccfc813f91ea766122279d7c03e19f0676596ffc11c06",
+              "bytes": 56224,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-bass-normal.opus",
+              "sha256": "6ab163f2315e7b086a7c770505af547550ac485af4f8c73683ae091fd7dccad1",
+              "bytes": 67468,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-bass-normal.m4a",
+              "sha256": "4c076f657d0d2245cf4dd1e5d8842f370cf4a0c07e7a6e86793862ee1e7b16cf",
+              "bytes": 92013,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-bass-low.opus",
+              "sha256": "7538501af8e4c47cfbeed4badafe538e3af4ddda12f5bda4cf0d69b0f468a843",
+              "bytes": 46805,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-bass-low.m4a",
+              "sha256": "22010228e4b38aa80e2b50fcd887723e615cc9cb55e4ead67eee90b1a7caecf0",
+              "bytes": 56216,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-rhythm-normal.opus",
+              "sha256": "875576189a1aeca84796dc40ff971c5012e20763a338c93b8cc3f9cde950092e",
+              "bytes": 55143,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-rhythm-normal.m4a",
+              "sha256": "471ba30d116ed70ea45037e698ea9fc59dbbebba94a5a06726856a6b91464f50",
+              "bytes": 86014,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-12-rhythm-low.opus",
+              "sha256": "7e72e01cad447d640825325a63f6cf9beccfcab885a912da087256c1e0707976",
+              "bytes": 34028,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-12-rhythm-low.m4a",
+              "sha256": "be359e21772c675766bad9d72865d78f98e18b090fa2f6f852d904679570f2f5",
+              "bytes": 49984,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "stems": {
+        "melody": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-melody-normal.opus",
+              "sha256": "59ef8a6c7fbdfb9a494d7f8c71b966a445789e5af4be385a0783bf5585b85062",
+              "bytes": 92318,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-melody-normal.m4a",
+              "sha256": "6832785f571b6cc51914de6309fca89c95dcb8d29158f20fdc0bfd69976342b3",
+              "bytes": 91843,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-melody-low.opus",
+              "sha256": "650af13ea9f2e75b83082700a12920d498217e260ac246ac7f167787698fbf41",
+              "bytes": 60787,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-melody-low.m4a",
+              "sha256": "3425a190936d9e76568120243d7ab8b44cccf89956127a7de8bf478aa4a9c899",
+              "bytes": 56300,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "harmony": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-harmony-normal.opus",
+              "sha256": "a0108bf864750ff68c097d346ec9d88ba0a157a70b3c1101ee5c89f1741370ae",
+              "bytes": 93780,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-harmony-normal.m4a",
+              "sha256": "5a60e515ec2abaa5235fb5c3232cffc06645456678c6fa8867f137b9fa5f4c32",
+              "bytes": 91716,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-harmony-low.opus",
+              "sha256": "4758ead300ce2b2df773b822e72ccd0fe7fc78be76502aae68570f4f935b4df2",
+              "bytes": 55255,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-harmony-low.m4a",
+              "sha256": "1bcc85cf1fa095eb8ba4ab44caad2cb073aa2bb8c19196b090354fa7a0d0a126",
+              "bytes": 56199,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "bass": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-bass-normal.opus",
+              "sha256": "df073abd6dbcef4580334443419240a6a2c043e539455e9788fccce9ccca6675",
+              "bytes": 67888,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-bass-normal.m4a",
+              "sha256": "af2ff0c1d29784bb17dc17b3d9b29b41c7f13b2040944a767fab3abd2daaa399",
+              "bytes": 91945,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-bass-low.opus",
+              "sha256": "79d84c50737e686bf30e5d963db697ccd136e491815034b121f0d141239a7abb",
+              "bytes": 45862,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-bass-low.m4a",
+              "sha256": "d726d4a21ac7ce098eac321ced6c7299f7be2b1c455a7804047bfcd73760bcfe",
+              "bytes": 56255,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        },
+        "rhythm": {
+          "normal": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-rhythm-normal.opus",
+              "sha256": "6c02eea05f54addff90631d5ad3d41cdab1beb6d88f63f146863d9d916e79e1f",
+              "bytes": 63849,
+              "seconds": 8.9714375,
+              "channels": 2
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-rhythm-normal.m4a",
+              "sha256": "3124cb83f584be9c27aa8a0ab1e34eb85eeaf5b3d926b687fd99e60f295348b7",
+              "bytes": 100258,
+              "seconds": 8.9714375,
+              "channels": 2
+            }
+          },
+          "low": {
+            "opus": {
+              "url": "/assets/music/bubble-lobby-13-rhythm-low.opus",
+              "sha256": "93554deca97234e80a33d4c9bafe23d33cbcc1e7afd811afbcfbaff703932469",
+              "bytes": 41973,
+              "seconds": 8.9714375,
+              "channels": 1
+            },
+            "aac": {
+              "url": "/assets/music/bubble-lobby-13-rhythm-low.m4a",
+              "sha256": "abe2413d9156d271800d845b95292a5110ef8bbfe6916417f3592804dfb3b9b4",
+              "bytes": 56308,
+              "seconds": 8.9714375,
+              "channels": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

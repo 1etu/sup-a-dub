@@ -1,0 +1,8131 @@
+{
+  "version": 1,
+  "author": "Sup-a-Dub",
+  "source": "packages/assets/src/controls/glyphs.ts",
+  "assets": [
+    {
+      "path": "pc-KeyA-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyA-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyA-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyA-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyB-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyB-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyB-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyB-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyC-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyC-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyC-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyC-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyD-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyD-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyD-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyD-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyE-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyE-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyE-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyE-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyF-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyF-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyF-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyF-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyG-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyG-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyG-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyG-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyH-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyH-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyH-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyH-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyI-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyI-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyI-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyI-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyJ-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyJ-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyJ-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyJ-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyK-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyK-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyK-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyK-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyL-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyL-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyL-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyL-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyM-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyM-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyM-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyM-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyN-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyN-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyN-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyN-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyO-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyO-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyO-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyO-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyP-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyP-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyP-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyP-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyQ-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyQ-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyQ-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyQ-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyR-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyR-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyR-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyR-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyS-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyS-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyS-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyS-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyT-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyT-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyT-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyT-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyU-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyU-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyU-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyU-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyV-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyV-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyV-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyV-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyW-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyW-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyW-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyW-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyX-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyX-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyX-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyX-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyY-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyY-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyY-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyY-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-KeyZ-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-KeyZ-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-KeyZ-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-KeyZ-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit0-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit0-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit0-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit0-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit1-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit1-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit1-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit1-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit2-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit2-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit2-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit2-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit3-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit3-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit3-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit3-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit4-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit4-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit4-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit4-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit5-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit5-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit5-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit5-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit6-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit6-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit6-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit6-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit7-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit7-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit7-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit7-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit8-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit8-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit8-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit8-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Digit9-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Digit9-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Digit9-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Digit9-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Space-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Space-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Space-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Space-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Enter-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Enter-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Enter-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Enter-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Escape-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Escape-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Escape-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Escape-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Tab-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Tab-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Tab-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Tab-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Backspace-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Backspace-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Backspace-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Backspace-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-ShiftLeft-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-ShiftLeft-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-ShiftLeft-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-ShiftLeft-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-ControlLeft-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-ControlLeft-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-ControlLeft-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-ControlLeft-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-AltLeft-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-AltLeft-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-AltLeft-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-AltLeft-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-MetaLeft-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-MetaLeft-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-MetaLeft-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-MetaLeft-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-ArrowUp-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-ArrowUp-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-ArrowUp-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-ArrowUp-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-ArrowDown-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-ArrowDown-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-ArrowDown-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-ArrowDown-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-ArrowLeft-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-ArrowLeft-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-ArrowLeft-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-ArrowLeft-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-ArrowRight-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-ArrowRight-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-ArrowRight-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-ArrowRight-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Home-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Home-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Home-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Home-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-End-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-End-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-End-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-End-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-PageUp-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-PageUp-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-PageUp-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-PageUp-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-PageDown-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-PageDown-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-PageDown-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-PageDown-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Delete-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Delete-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Delete-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Delete-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Insert-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Insert-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Insert-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Insert-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Backquote-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Backquote-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Backquote-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Backquote-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Minus-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Minus-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Minus-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Minus-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Equal-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Equal-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Equal-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Equal-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-BracketLeft-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-BracketLeft-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-BracketLeft-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-BracketLeft-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-BracketRight-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-BracketRight-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-BracketRight-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-BracketRight-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Backslash-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Backslash-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Backslash-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Backslash-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Semicolon-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Semicolon-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Semicolon-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Semicolon-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Quote-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Quote-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Quote-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Quote-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Comma-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Comma-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Comma-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Comma-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Period-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Period-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Period-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Period-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-Slash-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-Slash-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-Slash-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-Slash-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F1-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F1-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F1-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F1-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F2-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F2-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F2-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F2-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F3-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F3-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F3-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F3-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F4-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F4-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F4-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F4-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F5-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F5-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F5-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F5-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F6-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F6-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F6-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F6-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F7-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F7-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F7-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F7-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F8-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F8-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F8-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F8-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F9-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F9-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F9-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F9-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F10-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F10-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F10-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F10-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F11-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F11-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F11-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F11-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "pc-F12-normal.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "pc-F12-pressed.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "pc-F12-focused.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "pc-F12-disabled.svg",
+      "platform": "pc",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyA-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyA-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyA-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyA-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyA"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyB-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyB-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyB-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyB-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyB"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyC-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyC-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyC-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyC-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyC"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyD-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyD-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyD-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyD-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyD"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyE-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyE-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyE-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyE-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyE"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyF-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyF-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyF-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyF-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyF"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyG-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyG-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyG-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyG-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyG"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyH-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyH-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyH-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyH-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyH"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyI-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyI-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyI-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyI-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyI"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyJ-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyJ-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyJ-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyJ-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyJ"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyK-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyK-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyK-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyK-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyK"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyL-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyL-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyL-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyL-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyL"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyM-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyM-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyM-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyM-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyM"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyN-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyN-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyN-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyN-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyN"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyO-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyO-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyO-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyO-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyO"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyP-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyP-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyP-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyP-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyP"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyQ-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyQ-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyQ-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyQ-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyQ"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyR-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyR-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyR-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyR-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyR"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyS-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyS-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyS-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyS-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyS"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyT-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyT-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyT-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyT-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyT"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyU-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyU-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyU-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyU-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyU"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyV-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyV-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyV-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyV-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyV"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyW-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyW-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyW-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyW-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyW"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyX-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyX-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyX-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyX-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyX"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyY-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyY-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyY-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyY-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyY"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-KeyZ-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-KeyZ-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-KeyZ-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-KeyZ-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "KeyZ"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit0-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit0-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit0-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit0-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit0"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit1-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit1-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit1-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit1-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit1"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit2-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit2-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit2-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit2-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit2"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit3-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit3-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit3-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit3-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit3"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit4-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit4-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit4-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit4-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit4"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit5-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit5-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit5-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit5-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit5"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit6-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit6-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit6-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit6-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit6"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit7-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit7-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit7-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit7-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit7"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit8-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit8-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit8-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit8-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit8"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Digit9-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Digit9-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Digit9-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Digit9-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Digit9"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Space-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Space-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Space-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Space-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Space"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Enter-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Enter-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Enter-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Enter-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Enter"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Escape-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Escape-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Escape-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Escape-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Escape"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Tab-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Tab-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Tab-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Tab-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Tab"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Backspace-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Backspace-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Backspace-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Backspace-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backspace"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-ShiftLeft-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-ShiftLeft-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-ShiftLeft-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-ShiftLeft-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ShiftLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-ControlLeft-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-ControlLeft-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-ControlLeft-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-ControlLeft-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ControlLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-AltLeft-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-AltLeft-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-AltLeft-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-AltLeft-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "AltLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-MetaLeft-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-MetaLeft-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-MetaLeft-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-MetaLeft-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "MetaLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-ArrowUp-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-ArrowUp-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-ArrowUp-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-ArrowUp-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowUp"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-ArrowDown-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-ArrowDown-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-ArrowDown-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-ArrowDown-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowDown"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-ArrowLeft-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-ArrowLeft-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-ArrowLeft-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-ArrowLeft-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-ArrowRight-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-ArrowRight-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-ArrowRight-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-ArrowRight-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "ArrowRight"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Home-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Home-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Home-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Home-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Home"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-End-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-End-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-End-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-End-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "End"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-PageUp-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-PageUp-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-PageUp-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-PageUp-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageUp"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-PageDown-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-PageDown-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-PageDown-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-PageDown-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "PageDown"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Delete-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Delete-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Delete-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Delete-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Delete"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Insert-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Insert-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Insert-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Insert-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Insert"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Backquote-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Backquote-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Backquote-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Backquote-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backquote"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Minus-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Minus-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Minus-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Minus-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Minus"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Equal-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Equal-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Equal-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Equal-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Equal"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-BracketLeft-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-BracketLeft-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-BracketLeft-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-BracketLeft-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketLeft"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-BracketRight-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-BracketRight-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-BracketRight-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-BracketRight-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "BracketRight"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Backslash-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Backslash-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Backslash-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Backslash-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Backslash"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Semicolon-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Semicolon-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Semicolon-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Semicolon-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Semicolon"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Quote-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Quote-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Quote-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Quote-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Quote"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Comma-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Comma-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Comma-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Comma-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Comma"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Period-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Period-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Period-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Period-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Period"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-Slash-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-Slash-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-Slash-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-Slash-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "Slash"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F1-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F1-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F1-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F1-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F1"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F2-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F2-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F2-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F2-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F2"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F3-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F3-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F3-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F3-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F3"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F4-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F4-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F4-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F4-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F4"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F5-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F5-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F5-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F5-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F5"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F6-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F6-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F6-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F6-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F6"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F7-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F7-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F7-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F7-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F7"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F8-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F8-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F8-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F8-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F8"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F9-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F9-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F9-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F9-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F9"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F10-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F10-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F10-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F10-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F10"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F11-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F11-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F11-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F11-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F11"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mac-F12-normal.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mac-F12-pressed.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mac-F12-focused.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mac-F12-disabled.svg",
+      "platform": "mac",
+      "binding": {
+        "kind": "key",
+        "code": "F12"
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-0-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-0-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-0-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-0-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-1-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-1-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-1-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-1-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-2-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-2-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-2-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-2-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-3-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-3-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-3-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-3-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-4-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-4-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-4-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-4-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-5-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-5-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-5-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-5-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-6-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-6-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-6-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-6-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-7-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-7-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-7-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-7-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-8-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-8-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-8-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-8-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-9-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-9-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-9-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-9-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-10-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-10-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-10-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-10-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-11-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-11-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-11-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-11-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-12-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-12-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-12-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-12-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-13-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-13-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-13-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-13-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-14-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-14-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-14-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-14-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "xbox-button-15-normal.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "normal"
+    },
+    {
+      "path": "xbox-button-15-pressed.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "xbox-button-15-focused.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "focused"
+    },
+    {
+      "path": "xbox-button-15-disabled.svg",
+      "platform": "xbox",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-0-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-0-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-0-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-0-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-1-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-1-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-1-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-1-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-2-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-2-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-2-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-2-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-3-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-3-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-3-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-3-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-4-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-4-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-4-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-4-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-5-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-5-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-5-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-5-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-6-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-6-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-6-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-6-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-7-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-7-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-7-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-7-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-8-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-8-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-8-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-8-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-9-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-9-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-9-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-9-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-10-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-10-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-10-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-10-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-11-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-11-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-11-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-11-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-12-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-12-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-12-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-12-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-13-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-13-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-13-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-13-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-14-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-14-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-14-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-14-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "playstation-button-15-normal.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "normal"
+    },
+    {
+      "path": "playstation-button-15-pressed.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "playstation-button-15-focused.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "focused"
+    },
+    {
+      "path": "playstation-button-15-disabled.svg",
+      "platform": "playstation",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-0-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-0-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-0-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-0-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-1-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-1-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-1-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-1-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-2-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-2-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-2-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-2-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-3-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-3-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-3-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-3-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-4-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-4-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-4-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-4-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-5-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-5-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-5-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-5-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-6-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-6-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-6-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-6-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-7-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-7-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-7-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-7-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-8-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-8-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-8-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-8-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-9-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-9-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-9-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-9-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-10-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-10-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-10-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-10-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-11-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-11-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-11-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-11-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-12-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-12-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-12-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-12-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-13-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-13-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-13-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-13-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-14-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-14-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-14-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-14-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "nintendo-button-15-normal.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "normal"
+    },
+    {
+      "path": "nintendo-button-15-pressed.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "nintendo-button-15-focused.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "focused"
+    },
+    {
+      "path": "nintendo-button-15-disabled.svg",
+      "platform": "nintendo",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-0-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-0-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-0-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-0-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 0
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-1-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-1-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-1-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-1-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 1
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-2-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-2-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-2-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-2-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 2
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-3-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-3-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-3-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-3-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 3
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-4-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-4-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-4-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-4-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 4
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-5-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-5-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-5-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-5-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 5
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-6-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-6-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-6-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-6-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 6
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-7-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-7-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-7-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-7-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 7
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-8-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-8-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-8-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-8-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 8
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-9-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-9-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-9-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-9-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 9
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-10-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-10-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-10-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-10-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 10
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-11-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-11-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-11-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-11-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 11
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-12-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-12-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-12-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-12-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 12
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-13-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-13-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-13-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-13-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 13
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-14-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-14-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-14-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-14-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 14
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "generic-button-15-normal.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "normal"
+    },
+    {
+      "path": "generic-button-15-pressed.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "generic-button-15-focused.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "focused"
+    },
+    {
+      "path": "generic-button-15-disabled.svg",
+      "platform": "generic",
+      "binding": {
+        "kind": "button",
+        "button": 15
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mouse-0-normal.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 0
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mouse-0-pressed.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 0
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mouse-0-focused.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 0
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mouse-0-disabled.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 0
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mouse-1-normal.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 1
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mouse-1-pressed.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 1
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mouse-1-focused.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 1
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mouse-1-disabled.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 1
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mouse-2-normal.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 2
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mouse-2-pressed.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 2
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mouse-2-focused.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 2
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mouse-2-disabled.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 2
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mouse-3-normal.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 3
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mouse-3-pressed.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 3
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mouse-3-focused.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 3
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mouse-3-disabled.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 3
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "mouse-4-normal.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 4
+      },
+      "state": "normal"
+    },
+    {
+      "path": "mouse-4-pressed.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 4
+      },
+      "state": "pressed"
+    },
+    {
+      "path": "mouse-4-focused.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 4
+      },
+      "state": "focused"
+    },
+    {
+      "path": "mouse-4-disabled.svg",
+      "platform": "mouse",
+      "binding": {
+        "kind": "mouse",
+        "button": 4
+      },
+      "state": "disabled"
+    },
+    {
+      "path": "touch-normal.svg",
+      "platform": "touch",
+      "binding": "touch",
+      "state": "normal"
+    },
+    {
+      "path": "touch-pressed.svg",
+      "platform": "touch",
+      "binding": "touch",
+      "state": "pressed"
+    },
+    {
+      "path": "touch-focused.svg",
+      "platform": "touch",
+      "binding": "touch",
+      "state": "focused"
+    },
+    {
+      "path": "touch-disabled.svg",
+      "platform": "touch",
+      "binding": "touch",
+      "state": "disabled"
+    }
+  ]
+}

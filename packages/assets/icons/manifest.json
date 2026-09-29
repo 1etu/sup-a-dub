@@ -1,0 +1,340 @@
+{
+  "version": 2,
+  "author": "Sup-a-Dub project",
+  "achievements": {
+    "natural-ducks": {
+      "bronze": "/assets/icons/achievements/natural-ducks-bronze.svg",
+      "silver": "/assets/icons/achievements/natural-ducks-silver.svg",
+      "gold": "/assets/icons/achievements/natural-ducks-gold.svg"
+    },
+    "run-collector": {
+      "bronze": "/assets/icons/achievements/run-collector-bronze.svg",
+      "silver": "/assets/icons/achievements/run-collector-silver.svg",
+      "gold": "/assets/icons/achievements/run-collector-gold.svg"
+    },
+    "quick-collector": {
+      "bronze": "/assets/icons/achievements/quick-collector-bronze.svg",
+      "silver": "/assets/icons/achievements/quick-collector-silver.svg",
+      "gold": "/assets/icons/achievements/quick-collector-gold.svg"
+    },
+    "ducks-saved": {
+      "bronze": "/assets/icons/achievements/ducks-saved-bronze.svg",
+      "silver": "/assets/icons/achievements/ducks-saved-silver.svg",
+      "gold": "/assets/icons/achievements/ducks-saved-gold.svg"
+    },
+    "practice-finisher": {
+      "bronze": "/assets/icons/achievements/practice-finisher-bronze.svg",
+      "silver": "/assets/icons/achievements/practice-finisher-silver.svg",
+      "gold": "/assets/icons/achievements/practice-finisher-gold.svg"
+    },
+    "duck-chain": {
+      "bronze": "/assets/icons/achievements/duck-chain-bronze.svg",
+      "silver": "/assets/icons/achievements/duck-chain-silver.svg",
+      "gold": "/assets/icons/achievements/duck-chain-gold.svg"
+    },
+    "speed-rescue": {
+      "bronze": "/assets/icons/achievements/speed-rescue-bronze.svg",
+      "silver": "/assets/icons/achievements/speed-rescue-silver.svg",
+      "gold": "/assets/icons/achievements/speed-rescue-gold.svg"
+    },
+    "single-chain": {
+      "bronze": "/assets/icons/achievements/single-chain-bronze.svg",
+      "silver": "/assets/icons/achievements/single-chain-silver.svg",
+      "gold": "/assets/icons/achievements/single-chain-gold.svg"
+    },
+    "completion-streak": {
+      "bronze": "/assets/icons/achievements/completion-streak-bronze.svg",
+      "silver": "/assets/icons/achievements/completion-streak-silver.svg",
+      "gold": "/assets/icons/achievements/completion-streak-gold.svg"
+    },
+    "body-mass": {
+      "bronze": "/assets/icons/achievements/body-mass-bronze.svg",
+      "silver": "/assets/icons/achievements/body-mass-silver.svg",
+      "gold": "/assets/icons/achievements/body-mass-gold.svg"
+    },
+    "flock-mass": {
+      "bronze": "/assets/icons/achievements/flock-mass-bronze.svg",
+      "silver": "/assets/icons/achievements/flock-mass-silver.svg",
+      "gold": "/assets/icons/achievements/flock-mass-gold.svg"
+    },
+    "fast-growth": {
+      "bronze": "/assets/icons/achievements/fast-growth-bronze.svg",
+      "silver": "/assets/icons/achievements/fast-growth-silver.svg",
+      "gold": "/assets/icons/achievements/fast-growth-gold.svg"
+    },
+    "body-absorber": {
+      "bronze": "/assets/icons/achievements/body-absorber-bronze.svg",
+      "silver": "/assets/icons/achievements/body-absorber-silver.svg",
+      "gold": "/assets/icons/achievements/body-absorber-gold.svg"
+    },
+    "pool-champion": {
+      "bronze": "/assets/icons/achievements/pool-champion-bronze.svg",
+      "silver": "/assets/icons/achievements/pool-champion-silver.svg",
+      "gold": "/assets/icons/achievements/pool-champion-gold.svg"
+    },
+    "split-absorber": {
+      "bronze": "/assets/icons/achievements/split-absorber-bronze.svg",
+      "silver": "/assets/icons/achievements/split-absorber-silver.svg",
+      "gold": "/assets/icons/achievements/split-absorber-gold.svg"
+    },
+    "full-flock": {
+      "bronze": "/assets/icons/achievements/full-flock-bronze.svg",
+      "silver": "/assets/icons/achievements/full-flock-silver.svg",
+      "gold": "/assets/icons/achievements/full-flock-gold.svg"
+    },
+    "split-master": {
+      "bronze": "/assets/icons/achievements/split-master-bronze.svg",
+      "silver": "/assets/icons/achievements/split-master-silver.svg",
+      "gold": "/assets/icons/achievements/split-master-gold.svg"
+    },
+    "reunion": {
+      "bronze": "/assets/icons/achievements/reunion-bronze.svg",
+      "silver": "/assets/icons/achievements/reunion-silver.svg",
+      "gold": "/assets/icons/achievements/reunion-gold.svg"
+    },
+    "shark-feeder": {
+      "bronze": "/assets/icons/achievements/shark-feeder-bronze.svg",
+      "silver": "/assets/icons/achievements/shark-feeder-silver.svg",
+      "gold": "/assets/icons/achievements/shark-feeder-gold.svg"
+    },
+    "shark-launcher": {
+      "bronze": "/assets/icons/achievements/shark-launcher-bronze.svg",
+      "silver": "/assets/icons/achievements/shark-launcher-silver.svg",
+      "gold": "/assets/icons/achievements/shark-launcher-gold.svg"
+    },
+    "shark-survivor": {
+      "bronze": "/assets/icons/achievements/shark-survivor-bronze.svg",
+      "silver": "/assets/icons/achievements/shark-survivor-silver.svg",
+      "gold": "/assets/icons/achievements/shark-survivor-gold.svg"
+    },
+    "long-swim": {
+      "bronze": "/assets/icons/achievements/long-swim-bronze.svg",
+      "silver": "/assets/icons/achievements/long-swim-silver.svg",
+      "gold": "/assets/icons/achievements/long-swim-gold.svg"
+    },
+    "distance-swimmer": {
+      "bronze": "/assets/icons/achievements/distance-swimmer-bronze.svg",
+      "silver": "/assets/icons/achievements/distance-swimmer-silver.svg",
+      "gold": "/assets/icons/achievements/distance-swimmer-gold.svg"
+    },
+    "generous-duck": {
+      "bronze": "/assets/icons/achievements/generous-duck-bronze.svg",
+      "silver": "/assets/icons/achievements/generous-duck-silver.svg",
+      "gold": "/assets/icons/achievements/generous-duck-gold.svg"
+    },
+    "collection-mastery": {
+      "bronze": "/assets/icons/achievements/collection-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/collection-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/collection-mastery-gold.svg"
+    },
+    "rescue-mastery": {
+      "bronze": "/assets/icons/achievements/rescue-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/rescue-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/rescue-mastery-gold.svg"
+    },
+    "practice-mastery": {
+      "bronze": "/assets/icons/achievements/practice-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/practice-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/practice-mastery-gold.svg"
+    },
+    "growth-mastery": {
+      "bronze": "/assets/icons/achievements/growth-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/growth-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/growth-mastery-gold.svg"
+    },
+    "combat-mastery": {
+      "bronze": "/assets/icons/achievements/combat-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/combat-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/combat-mastery-gold.svg"
+    },
+    "control-mastery": {
+      "bronze": "/assets/icons/achievements/control-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/control-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/control-mastery-gold.svg"
+    },
+    "sharks-mastery": {
+      "bronze": "/assets/icons/achievements/sharks-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/sharks-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/sharks-mastery-gold.svg"
+    },
+    "endurance-mastery": {
+      "bronze": "/assets/icons/achievements/endurance-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/endurance-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/endurance-mastery-gold.svg"
+    },
+    "charted-pool": {
+      "bronze": "/assets/icons/achievements/charted-pool-bronze.svg",
+      "silver": "/assets/icons/achievements/charted-pool-silver.svg",
+      "gold": "/assets/icons/achievements/charted-pool-gold.svg"
+    },
+    "distant-shores": {
+      "bronze": "/assets/icons/achievements/distant-shores-bronze.svg",
+      "silver": "/assets/icons/achievements/distant-shores-silver.svg",
+      "gold": "/assets/icons/achievements/distant-shores-gold.svg"
+    },
+    "feeding-grounds": {
+      "bronze": "/assets/icons/achievements/feeding-grounds-bronze.svg",
+      "silver": "/assets/icons/achievements/feeding-grounds-silver.svg",
+      "gold": "/assets/icons/achievements/feeding-grounds-gold.svg"
+    },
+    "exploration-mastery": {
+      "bronze": "/assets/icons/achievements/exploration-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/exploration-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/exploration-mastery-gold.svg"
+    },
+    "careful-deliveries": {
+      "bronze": "/assets/icons/achievements/careful-deliveries-bronze.svg",
+      "silver": "/assets/icons/achievements/careful-deliveries-silver.svg",
+      "gold": "/assets/icons/achievements/careful-deliveries-gold.svg"
+    },
+    "prompt-deliveries": {
+      "bronze": "/assets/icons/achievements/prompt-deliveries-bronze.svg",
+      "silver": "/assets/icons/achievements/prompt-deliveries-silver.svg",
+      "gold": "/assets/icons/achievements/prompt-deliveries-gold.svg"
+    },
+    "efficient-rescue": {
+      "bronze": "/assets/icons/achievements/efficient-rescue-bronze.svg",
+      "silver": "/assets/icons/achievements/efficient-rescue-silver.svg",
+      "gold": "/assets/icons/achievements/efficient-rescue-gold.svg"
+    },
+    "rescue-craft-mastery": {
+      "bronze": "/assets/icons/achievements/rescue-craft-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/rescue-craft-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/rescue-craft-mastery-gold.svg"
+    },
+    "distant-feeding": {
+      "bronze": "/assets/icons/achievements/distant-feeding-bronze.svg",
+      "silver": "/assets/icons/achievements/distant-feeding-silver.svg",
+      "gold": "/assets/icons/achievements/distant-feeding-gold.svg"
+    },
+    "burst-recovery": {
+      "bronze": "/assets/icons/achievements/burst-recovery-bronze.svg",
+      "silver": "/assets/icons/achievements/burst-recovery-silver.svg",
+      "gold": "/assets/icons/achievements/burst-recovery-gold.svg"
+    },
+    "shark-harvest": {
+      "bronze": "/assets/icons/achievements/shark-harvest-bronze.svg",
+      "silver": "/assets/icons/achievements/shark-harvest-silver.svg",
+      "gold": "/assets/icons/achievements/shark-harvest-gold.svg"
+    },
+    "shark-tactics-mastery": {
+      "bronze": "/assets/icons/achievements/shark-tactics-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/shark-tactics-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/shark-tactics-mastery-gold.svg"
+    },
+    "shared-snacks": {
+      "bronze": "/assets/icons/achievements/shared-snacks-bronze.svg",
+      "silver": "/assets/icons/achievements/shared-snacks-silver.svg",
+      "gold": "/assets/icons/achievements/shared-snacks-gold.svg"
+    },
+    "flock-voyage": {
+      "bronze": "/assets/icons/achievements/flock-voyage-bronze.svg",
+      "silver": "/assets/icons/achievements/flock-voyage-silver.svg",
+      "gold": "/assets/icons/achievements/flock-voyage-gold.svg"
+    },
+    "balanced-flock": {
+      "bronze": "/assets/icons/achievements/balanced-flock-bronze.svg",
+      "silver": "/assets/icons/achievements/balanced-flock-silver.svg",
+      "gold": "/assets/icons/achievements/balanced-flock-gold.svg"
+    },
+    "flock-craft-mastery": {
+      "bronze": "/assets/icons/achievements/flock-craft-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/flock-craft-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/flock-craft-mastery-gold.svg"
+    },
+    "rival-mass": {
+      "bronze": "/assets/icons/achievements/rival-mass-bronze.svg",
+      "silver": "/assets/icons/achievements/rival-mass-silver.svg",
+      "gold": "/assets/icons/achievements/rival-mass-gold.svg"
+    },
+    "rival-streak": {
+      "bronze": "/assets/icons/achievements/rival-streak-bronze.svg",
+      "silver": "/assets/icons/achievements/rival-streak-silver.svg",
+      "gold": "/assets/icons/achievements/rival-streak-gold.svg"
+    },
+    "comeback-flock": {
+      "bronze": "/assets/icons/achievements/comeback-flock-bronze.svg",
+      "silver": "/assets/icons/achievements/comeback-flock-silver.svg",
+      "gold": "/assets/icons/achievements/comeback-flock-gold.svg"
+    },
+    "rivalry-mastery": {
+      "bronze": "/assets/icons/achievements/rivalry-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/rivalry-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/rivalry-mastery-gold.svg"
+    },
+    "wardrobe-tour": {
+      "bronze": "/assets/icons/achievements/wardrobe-tour-bronze.svg",
+      "silver": "/assets/icons/achievements/wardrobe-tour-silver.svg",
+      "gold": "/assets/icons/achievements/wardrobe-tour-gold.svg"
+    },
+    "dressed-traveler": {
+      "bronze": "/assets/icons/achievements/dressed-traveler-bronze.svg",
+      "silver": "/assets/icons/achievements/dressed-traveler-silver.svg",
+      "gold": "/assets/icons/achievements/dressed-traveler-gold.svg"
+    },
+    "earned-collection": {
+      "bronze": "/assets/icons/achievements/earned-collection-bronze.svg",
+      "silver": "/assets/icons/achievements/earned-collection-silver.svg",
+      "gold": "/assets/icons/achievements/earned-collection-gold.svg"
+    },
+    "collection-craft-mastery": {
+      "bronze": "/assets/icons/achievements/collection-craft-mastery-bronze.svg",
+      "silver": "/assets/icons/achievements/collection-craft-mastery-silver.svg",
+      "gold": "/assets/icons/achievements/collection-craft-mastery-gold.svg"
+    }
+  },
+  "roles": {
+    "player": "/assets/icons/roles/player.svg",
+    "guest": "/assets/icons/roles/guest.svg",
+    "bot": "/assets/icons/roles/bot.svg",
+    "admin": "/assets/icons/roles/admin.svg",
+    "moderator": "/assets/icons/roles/moderator.svg"
+  },
+  "moderation": {
+    "ban": "/assets/icons/moderation/ban.svg",
+    "unban": "/assets/icons/moderation/unban.svg",
+    "mute": "/assets/icons/moderation/mute.svg",
+    "unmute": "/assets/icons/moderation/unmute.svg",
+    "inspect": "/assets/icons/moderation/inspect.svg",
+    "audit": "/assets/icons/moderation/audit.svg",
+    "kick": "/assets/icons/moderation/kick.svg"
+  },
+  "cosmetics": {
+    "head-sail-cap": "/assets/icons/cosmetics/head-sail-cap.svg",
+    "head-bucket": "/assets/icons/cosmetics/head-bucket.svg",
+    "head-crown": "/assets/icons/cosmetics/head-crown.svg",
+    "head-flower": "/assets/icons/cosmetics/head-flower.svg",
+    "head-propeller": "/assets/icons/cosmetics/head-propeller.svg",
+    "head-diver": "/assets/icons/cosmetics/head-diver.svg",
+    "head-captain": "/assets/icons/cosmetics/head-captain.svg",
+    "head-party": "/assets/icons/cosmetics/head-party.svg",
+    "face-round-glasses": "/assets/icons/cosmetics/face-round-glasses.svg",
+    "face-goggles": "/assets/icons/cosmetics/face-goggles.svg",
+    "face-sunglasses": "/assets/icons/cosmetics/face-sunglasses.svg",
+    "face-star-glasses": "/assets/icons/cosmetics/face-star-glasses.svg",
+    "face-monocle": "/assets/icons/cosmetics/face-monocle.svg",
+    "face-sleep-mask": "/assets/icons/cosmetics/face-sleep-mask.svg",
+    "neck-bandana": "/assets/icons/cosmetics/neck-bandana.svg",
+    "neck-bowtie": "/assets/icons/cosmetics/neck-bowtie.svg",
+    "neck-scarf": "/assets/icons/cosmetics/neck-scarf.svg",
+    "neck-life-ring": "/assets/icons/cosmetics/neck-life-ring.svg",
+    "neck-medallion": "/assets/icons/cosmetics/neck-medallion.svg",
+    "neck-flower-lei": "/assets/icons/cosmetics/neck-flower-lei.svg",
+    "wake-rings": "/assets/icons/cosmetics/wake-rings.svg",
+    "wake-bubbles": "/assets/icons/cosmetics/wake-bubbles.svg",
+    "wake-stars": "/assets/icons/cosmetics/wake-stars.svg",
+    "wake-hearts": "/assets/icons/cosmetics/wake-hearts.svg",
+    "wake-rainbow": "/assets/icons/cosmetics/wake-rainbow.svg",
+    "wake-sparkles": "/assets/icons/cosmetics/wake-sparkles.svg",
+    "emote-wave": "/assets/icons/cosmetics/emote-wave.svg",
+    "emote-heart": "/assets/icons/cosmetics/emote-heart.svg",
+    "emote-laugh": "/assets/icons/cosmetics/emote-laugh.svg",
+    "emote-wow": "/assets/icons/cosmetics/emote-wow.svg",
+    "emote-cheer": "/assets/icons/cosmetics/emote-cheer.svg",
+    "emote-splash": "/assets/icons/cosmetics/emote-splash.svg",
+    "celebration-confetti": "/assets/icons/cosmetics/celebration-confetti.svg",
+    "celebration-stars": "/assets/icons/cosmetics/celebration-stars.svg",
+    "celebration-bubbles": "/assets/icons/cosmetics/celebration-bubbles.svg",
+    "celebration-fireworks": "/assets/icons/cosmetics/celebration-fireworks.svg"
+  }
+}

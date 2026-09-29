@@ -1,0 +1,87 @@
+{
+  "id": "tile-trails",
+  "title": "Tile Trails",
+  "bpm": 108,
+  "bars": 48,
+  "seconds": 106.66666666666667,
+  "frames": 3413333,
+  "sampleRate": 32000,
+  "channels": 2,
+  "notes": 1155,
+  "instruments": [
+    "pizzicato",
+    "strings",
+    "piano",
+    "bass",
+    "shaker",
+    "flute",
+    "marimba",
+    "kick",
+    "snare",
+    "tom",
+    "cymbal",
+    "glockenspiel"
+  ],
+  "originalPeak": 1.2853168547153473,
+  "gain": 0.5912938877381433,
+  "peak": 0.76,
+  "rms": 0.12191063105820528,
+  "sections": [
+    {
+      "name": "Trailhead",
+      "startSeconds": 0,
+      "endSeconds": 17.77778125,
+      "rms": 0.10090400749152639
+    },
+    {
+      "name": "Blue Paths",
+      "startSeconds": 17.77778125,
+      "endSeconds": 53.33334375,
+      "rms": 0.11885974519973705
+    },
+    {
+      "name": "Hidden Pool",
+      "startSeconds": 53.33334375,
+      "endSeconds": 71.111125,
+      "rms": 0.11977457276178481
+    },
+    {
+      "name": "Together",
+      "startSeconds": 71.111125,
+      "endSeconds": 88.888875,
+      "rms": 0.15554584922944376
+    },
+    {
+      "name": "Trail Return",
+      "startSeconds": 88.888875,
+      "endSeconds": 106.66665625,
+      "rms": 0.11043492164456552
+    }
+  ],
+  "stems": [
+    {
+      "layer": "melody",
+      "file": "masters/tile-trails-melody.wav",
+      "bytes": 13653376,
+      "sha256": "b4adbd83bf0f5e1628583b48678e3c8cfa420fe180ad60693a48f1451e08ccce"
+    },
+    {
+      "layer": "harmony",
+      "file": "masters/tile-trails-harmony.wav",
+      "bytes": 13653376,
+      "sha256": "b9a3fab8f97f3e57ed3b10346661b7df746639645273eec01bcbee29a3fe6f0f"
+    },
+    {
+      "layer": "bass",
+      "file": "masters/tile-trails-bass.wav",
+      "bytes": 13653376,
+      "sha256": "bbf92858c5f0ffff6e083bbc126b7ef372223a81a01d8b2167b5c834268f741f"
+    },
+    {
+      "layer": "rhythm",
+      "file": "masters/tile-trails-rhythm.wav",
+      "bytes": 13653376,
+      "sha256": "96792869552a8a52197dcee2a6821b3104531efa171d3b030474b27f3514d9ea"
+    }
+  ]
+}

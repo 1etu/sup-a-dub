@@ -1,0 +1,87 @@
+{
+  "id": "deep-end",
+  "title": "Deep End",
+  "bpm": 100,
+  "bars": 48,
+  "seconds": 115.2,
+  "frames": 3686400,
+  "sampleRate": 32000,
+  "channels": 2,
+  "notes": 1369,
+  "instruments": [
+    "pizzicato",
+    "strings",
+    "piano",
+    "bass",
+    "shaker",
+    "flute",
+    "marimba",
+    "kick",
+    "snare",
+    "cymbal",
+    "tom",
+    "glockenspiel"
+  ],
+  "originalPeak": 1.618562400341034,
+  "gain": 0.4695524867251746,
+  "peak": 0.76,
+  "rms": 0.11496517357036465,
+  "sections": [
+    {
+      "name": "Below the Lip",
+      "startSeconds": 0,
+      "endSeconds": 19.2,
+      "rms": 0.08623508375718623
+    },
+    {
+      "name": "Watchful Water",
+      "startSeconds": 19.2,
+      "endSeconds": 38.4,
+      "rms": 0.10689996497482711
+    },
+    {
+      "name": "Silver Fins",
+      "startSeconds": 38.4,
+      "endSeconds": 57.6,
+      "rms": 0.10220007811577608
+    },
+    {
+      "name": "Undertow",
+      "startSeconds": 57.6,
+      "endSeconds": 96,
+      "rms": 0.14370181191570877
+    },
+    {
+      "name": "Clear Water",
+      "startSeconds": 96,
+      "endSeconds": 115.2,
+      "rms": 0.09323399147380648
+    }
+  ],
+  "stems": [
+    {
+      "layer": "melody",
+      "file": "masters/deep-end-melody.wav",
+      "bytes": 14745644,
+      "sha256": "fd32451eaf71db4ac5475c0059a1e74d035f8fb11bb1f428421e69dd5446ec60"
+    },
+    {
+      "layer": "harmony",
+      "file": "masters/deep-end-harmony.wav",
+      "bytes": 14745644,
+      "sha256": "4046ce5b9acbb7186bf255295f85e3a92161695c6f2eb899fc6f95fa3a0ad610"
+    },
+    {
+      "layer": "bass",
+      "file": "masters/deep-end-bass.wav",
+      "bytes": 14745644,
+      "sha256": "5759dc9ab0ea42d4fd4e2855d764eb369f7ebdad9d7018b7bdc45f48c2bf27ac"
+    },
+    {
+      "layer": "rhythm",
+      "file": "masters/deep-end-rhythm.wav",
+      "bytes": 14745644,
+      "sha256": "96ac52bf1d3db48d06fd334cd2a1d58ea67a0d9845748918be4703ab5ac084f4"
+    }
+  ]
+}

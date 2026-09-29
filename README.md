@@ -13,7 +13,13 @@ Sup-a-Dub brings the bath-toy charm of *Super Rub 'a' Dub* to a shared browser p
 
 There is also a quiet corner: Tub 01, twelve stranded ducklings, one pink exit, and a clock to beat.
 
-**[Gallery](#gallery) · [The game](#the-game) · [Run locally](#run-locally) · [Controls](#controls) · [Inside the project](#inside-the-project) · [Hosting](#hosting) · [Credits](#credits)**
+**[Gameplay](#gameplay) · [Gallery](#gallery) · [The game](#the-game) · [Run locally](#run-locally) · [Controls](#controls) · [Inside the project](#inside-the-project) · [Hosting](#hosting) · [Credits](#credits)**
+
+## Gameplay
+
+https://github.com/user-attachments/assets/db5f041a-376c-4454-aaa9-6aefbecefc7a
+
+[Download the clip](docs/marketing/video/gameplay.mp4)
 
 ## Gallery
 

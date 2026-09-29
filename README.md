@@ -17,8 +17,6 @@ There is also a quiet corner: Tub 01, twelve stranded ducklings, one pink exit, 
 
 ## Gameplay
 
-A staged multiplayer duel. Five flocks, a shark ambush, and a fight for first place.
-
 https://github.com/user-attachments/assets/c8769215-942b-4617-90d3-cf42ca05e8c8
 
 [Download the clip](docs/marketing/video/gameplay.mp4)

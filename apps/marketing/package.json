@@ -1,0 +1,14 @@
+{
+  "name": "@supadub/marketing",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun ../../node_modules/vite/bin/vite.js --configLoader native",
+    "build": "bun ../../node_modules/vite/bin/vite.js build --configLoader native"
+  },
+  "dependencies": {
+    "@supadub/assets": "workspace:*",
+    "@supadub/audioengine": "workspace:*"
+  }
+}

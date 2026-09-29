@@ -145,6 +145,14 @@
       "dependencies": {
         "@supadub/core": "workspace:*"
       }
+    },
+    "apps/marketing": {
+      "name": "@supadub/marketing",
+      "version": "0.1.0",
+      "dependencies": {
+        "@supadub/assets": "workspace:*",
+        "@supadub/audioengine": "workspace:*"
+      }
     }
   },
   "packages": {
@@ -1022,6 +1030,9 @@
     ],
     "@supadub/inputengine": [
       "@supadub/inputengine@workspace:packages/inputengine"
+    ],
+    "@supadub/marketing": [
+      "@supadub/marketing@workspace:apps/marketing"
     ]
   }
 }

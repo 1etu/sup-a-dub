@@ -1,0 +1,19 @@
+SUP-A-DUB — PROMOTIONAL WEBSITE
+
+This is an independent fan project. Super Rub 'a' Dub and its name belong to their respective owners.
+
+The duck pictures are renders of the models used by Sup-a-Dub. The base duck model was published by Sony Computer Entertainment America and is distributed through the Khronos glTF Sample Assets collection. See SCEA.txt for its license.
+https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Duck
+
+The blue shark, captain's hat, water shader, interface artwork, sounds, and game code are Sup-a-Dub project assets. The shark is a recreation, not a model extracted from the original game.
+
+The screenshots and film are captures of Sup-a-Dub. The film stages a duel with five multiplayer clients. The toy pictures were rendered from the same game models on 30 September 2026.
+
+Supadub Display is a modified Righteous font by the Sup-a-Dub project. The base font is by Astigmatic. Rajdhani is by the Indian Type Foundry. Both use the SIL Open Font License. See display-license.txt and numbers-license.txt.
+https://github.com/google/fonts/tree/main/ofl/righteous
+https://github.com/google/fonts/tree/main/ofl/rajdhani
+
+The downloadable wallpaper was made for this project with OpenAI ImageGen. It is promotional artwork, not a gameplay screenshot.
+
+Source code and full asset records:
+https://github.com/1etu/sup-a-dub

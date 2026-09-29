@@ -10,8 +10,9 @@
   ],
   "scripts": {
     "dev": "bun scripts/dev.ts",
+    "dev:promo": "bun run --filter @supadub/marketing dev",
     "assets": "bun scripts/sync-assets.ts",
-    "build": "bun run assets && bun run typecheck && bun run --filter @supadub/web build",
+    "build": "bun run assets && bun run typecheck && bun run --filter @supadub/web build && bun run --filter @supadub/marketing build",
     "start": "bun apps/server/src/index.ts",
     "typecheck": "tsc --noEmit",
     "admin": "bun scripts/admin.ts",

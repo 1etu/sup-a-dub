@@ -30,4 +30,6 @@ The [brand files](../../docs/marketing/brand/) include outlined Supadub Display 
 
 ## Distribution
 
+The promotional artwork in `marketing/` uses renders of the licensed duck and project toy models. WebP copies of existing game captures supply the gallery. The replay poster comes from the staged multiplayer clip. The website wordmark omits the decorative underline. The font outlines remain unchanged during WOFF2 conversion. [Website credits](marketing/CREDITS.txt) retain the source URLs and notices.
+
 `bun run assets` copies runtime files and notices into the web public directory. Keep those notices in hosted builds. Third-party assets retain their own licenses. The [dependency notices](../../THIRD_PARTY_NOTICES.md) include the Three.js MIT text.

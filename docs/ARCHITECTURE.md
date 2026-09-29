@@ -36,4 +36,10 @@ To add a cosmetic, register its definition, asset factory, and unlock rule. To a
 
 ## Deployment boundary
 
+`apps/marketing` owns the promotional page, toy selector, replay player, photo viewer, and optional sound controls. It imports sound recipes from `assets` through `audioengine`. It does not connect to the game simulation or account APIs.
+
+The page uses static renders of the actual game models. A separate WebGL canvas draws the water background. The shader lives in `assets`. The page owns its canvas lifetime, six ripple slots, and 30 Hz draw limit. The canvas has a one-million-pixel budget. Reduced motion stops its animation. A lost graphics context exposes the static tile background.
+
+The build copies a fixed list of images, footage, and license notices into `/promo/art/`. The font files use WOFF2 compression. The page contains no Three.js runtime. The video loads after a play request.
+
 The current server is a single process. Two processes have separate live pools. SQLite needs persistent storage, and public browser sessions need HTTPS. See [Hosting](HOSTING.md).

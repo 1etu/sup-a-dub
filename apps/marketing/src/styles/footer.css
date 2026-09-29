@@ -1,0 +1,130 @@
+.last-splash {
+  text-align: center;
+  min-height: 445px;
+  overflow: hidden;
+  padding: 60px 28px 90px;
+  background: radial-gradient(ellipse at 50% 80%, #70dce738, transparent 70%);
+}
+.last-splash h2 {
+  font-size: 58px;
+  position: relative;
+  z-index: 2;
+}
+.last-splash .play-button {
+  margin-top: 24px;
+  z-index: 3;
+}
+.last-splash .play-note {
+  position: relative;
+  z-index: 2;
+}
+.footer-duck {
+  position: absolute;
+  width: 400px;
+  left: calc(50% + 170px);
+  bottom: -57px;
+  transform: rotate(-16deg);
+  pointer-events: none;
+}
+.site-footer {
+  padding: 35px max(30px, calc((100% - 1140px) / 2));
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  background: #145c9173;
+}
+.site-footer > a {
+  flex: none;
+  width: 165px;
+}
+.site-footer p {
+  font-size: 11px;
+  line-height: 1.7;
+  color: #d6eefc;
+}
+.site-footer > div {
+  display: flex;
+  gap: 19px;
+}
+.site-footer > div > a {
+  font:
+    9px Supadub,
+    sans-serif;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.site-footer > div > a:hover {
+  color: var(--lime);
+}
+dialog {
+  border: 0;
+  background: transparent;
+  color: #fff;
+  max-width: min(1160px, 95vw);
+  padding: 32px;
+  margin: auto;
+  overflow: visible;
+}
+dialog::backdrop {
+  background: #082b55df;
+  backdrop-filter: blur(7px);
+}
+.photo-dialog-shell {
+  background: linear-gradient(#f6ffff, #b4d3e6);
+  padding: 15px;
+  border: 2px solid #fff;
+  border-radius: 20px;
+  box-shadow:
+    0 7px 0 #75a2c1,
+    0 18px 50px #051f49;
+}
+.photo-dialog-shell > img {
+  width: 100%;
+  height: auto;
+  max-height: 72svh;
+  object-fit: contain;
+  border-radius: 7px;
+  background: #184d7b;
+}
+.close-viewer {
+  position: absolute;
+  right: 14px;
+  top: 10px;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  font:
+    31px Arial,
+    sans-serif;
+  background: #e273ae;
+  color: #fff;
+  box-shadow: 0 2px 0 #a75288;
+}
+.photo-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  padding-top: 11px;
+  color: #205c88;
+}
+.photo-controls h2 {
+  font:
+    14px Supadub,
+    sans-serif;
+  text-align: center;
+}
+.photo-controls button {
+  background: none;
+  color: #619940;
+  font-size: 24px;
+  min-width: 44px;
+  min-height: 44px;
+}
+.photo-controls button:hover {
+  color: #316f3b;
+}

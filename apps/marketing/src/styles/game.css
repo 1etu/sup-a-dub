@@ -1,0 +1,151 @@
+.section-shell {
+  max-width: 1160px;
+  margin: auto;
+  text-align: center;
+  padding: 100px 40px;
+}
+.eyebrow {
+  font:
+    12px Supadub,
+    sans-serif;
+  letter-spacing: 0.1em;
+  margin-bottom: 18px;
+  color: #e5faff;
+  text-shadow: 0 2px #257193;
+}
+.chrome {
+  font:
+    clamp(30px, 4.2vw, 55px)/1.08 Supadub,
+    sans-serif;
+  letter-spacing: -0.035em;
+  background: linear-gradient(#f0ffff 0, #a6eeff 28%, #48b4ed 49%, #1384c9 51%, #143d81 98%);
+  color: #86dfff;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1.25px #edffff;
+  filter: drop-shadow(0 2px 0 #55cce4) drop-shadow(0 5px 0 #286d9a80);
+  padding-bottom: 6px;
+}
+.chrome.pink {
+  background-image: linear-gradient(#ffe1ef 0, #fbbdd9 33%, #f49bc7 49%, #ea72b0 51%, #d84694 100%);
+  -webkit-text-stroke: 1.6px #fff1fc;
+  filter: drop-shadow(0 2px 0 #e283c0) drop-shadow(0 5px 0 #22609650);
+}
+.intro-copy {
+  font-size: 18px;
+  line-height: 1.7;
+  margin: 25px auto 0;
+  max-width: 660px;
+  text-shadow: 0 1px 3px #135a86;
+}
+.how-to {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 26px;
+  margin-top: 5px;
+}
+.how-step {
+  position: relative;
+}
+.step-art {
+  height: 242px;
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+.step-art > img {
+  width: 310px;
+  max-width: none;
+  position: absolute;
+  left: 50%;
+  top: -29px;
+  transform: translateX(-50%);
+  filter: drop-shadow(0 12px 6px #12679933);
+}
+.step-art.duckling-art > img {
+  width: 180px;
+  left: 42%;
+  top: 5px;
+  transform: translateX(-50%) rotate(-15deg);
+}
+.step-art.duckling-art > img:nth-child(2) {
+  width: 140px;
+  left: 65%;
+  top: 65px;
+  transform: translateX(-50%) rotate(10deg);
+}
+.step-art.duckling-art > img:nth-child(3) {
+  width: 110px;
+  left: 29%;
+  top: 99px;
+  transform: translateX(-50%) rotate(-15deg);
+}
+.duckling-art .soap-bubble {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  top: 30px;
+  left: calc(42% - 65px);
+}
+.how-step h3 {
+  font:
+    15px Supadub,
+    sans-serif;
+  color: var(--lime);
+  text-shadow: 0 2px #166291;
+  line-height: 1.5;
+}
+.how-step h3 > span {
+  display: block;
+  font:
+    19px PoolNumbers,
+    sans-serif;
+  color: #fff;
+  margin-bottom: 6px;
+  line-height: 1;
+}
+.how-step p {
+  font-size: 14px;
+  margin-top: 12px;
+  line-height: 1.7;
+}
+.little-spark {
+  position: absolute;
+  color: #edffb0;
+  font-size: 48px;
+  filter: drop-shadow(0 0 8px #fff8);
+}
+.spark-one {
+  right: 40px;
+  top: 37px;
+}
+.spark-two {
+  left: 42px;
+  bottom: 47px;
+  font-size: 30px;
+}
+.warning-splash {
+  position: absolute;
+  right: 3px;
+  top: 27px;
+  transform: rotate(12deg);
+  font:
+    19px Supadub,
+    sans-serif;
+  color: var(--lime);
+  text-shadow: 0 2px #246c9d;
+}
+.practice-note {
+  display: inline-block;
+  margin-top: 50px;
+  font-size: 14px;
+  font-style: italic;
+  padding: 22px 24px 0;
+}
+.small-star {
+  font-size: 23px;
+  color: var(--lime);
+  vertical-align: middle;
+  margin-right: 6px;
+}

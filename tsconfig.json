@@ -74,6 +74,8 @@
   "include": [
     "apps/*/src",
     "apps/web/vite.config.ts",
+    "apps/marketing/vite.config.ts",
+    "apps/marketing/assets.ts",
     "packages/*/src",
     "scripts/admin.ts",
     "scripts/dev.ts",

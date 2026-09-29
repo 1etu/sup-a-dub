@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#328ecd" />
+    <meta
+      name="description"
+      content="A little duck. A very big tub. Jump into Sup-a-Dub, a free multiplayer browser game full of rubber ducks, hungry sharks, and glorious little splashes."
+    />
+    <meta property="og:title" content="Sup-a-Dub — The tub got bigger." />
+    <meta
+      property="og:description"
+      content="Little ducks. Big trouble. A free multiplayer game, straight from your browser."
+    />
+    <meta property="og:image" content="art/wallpaper.png" />
+    <title>Sup-a-Dub — The tub got bigger.</title>
+    <link rel="icon" href="art/icon.png" />
+    <link rel="preload" href="art/wordmark.svg" as="image" />
+  </head>
+  <body>
+    <a class="skip-link" href="#the-game">Skip to the game</a>
+    <canvas id="water" aria-hidden="true"></canvas>
+    <div class="screen-grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="mini-logo" href="#top" aria-label="Sup-a-Dub home"
+        ><img src="art/wordmark.svg" width="1452" height="265" alt="Sup-a-Dub"
+      /></a>
+      <nav aria-label="Main navigation">
+        <a href="#the-game">THE GAME</a>
+        <a href="#watch">WATCH</a>
+        <a href="#toy-box">THE TOYS</a>
+        <a href="#photos">PHOTOS</a>
+      </nav>
+      <button class="sound-switch" type="button" aria-label="Turn sound on" aria-pressed="false">
+        <span class="sound-icon" aria-hidden="true">♪</span><span data-sound-label>SOUND OFF</span>
+      </button>
+    </header>
+
+    <main>
+      <section class="hero" id="top" aria-labelledby="hero-title">
+        <div class="hero-shimmer" aria-hidden="true"></div>
+        <div class="bubble-field" aria-hidden="true"></div>
+        <div class="hero-copy">
+          <p class="hero-kicker">THE TUB GOT BIGGER.</p>
+          <h1 id="hero-title">
+            <img src="art/wordmark.svg" width="1452" height="265" alt="Sup-a-Dub" fetchpriority="high" />
+          </h1>
+          <p class="hero-tagline">Little ducks. Big trouble.</p>
+          <a class="play-button" data-play href="/"
+            ><span class="play-triangle" aria-hidden="true"></span>JUMP IN!</a
+          >
+          <p class="play-note">Free to play. Straight from your browser.</p>
+        </div>
+        <button
+          class="floating-duck hero-yellow"
+          data-quack
+          type="button"
+          aria-label="Give the yellow duck a squeeze"
+        >
+          <span class="duck-shadow"></span
+          ><img src="art/yellow.webp" width="720" height="720" alt="" fetchpriority="high" />
+        </button>
+        <button
+          class="floating-duck hero-pink"
+          data-quack
+          type="button"
+          aria-label="Give the pink duck a squeeze"
+        >
+          <span class="duck-shadow"></span><img src="art/pink.webp" width="720" height="720" alt="" />
+        </button>
+        <div class="duck-parade" aria-hidden="true">
+          <img src="art/yellow.webp" alt="" /><img src="art/yellow.webp" alt="" /><img
+            src="art/yellow.webp"
+            alt=""
+          />
+        </div>
+        <a class="round-sticker" href="#watch"
+          ><span>MAKE A</span><strong>SPLASH!</strong><span class="sticker-arrow" aria-hidden="true">▶</span
+          ><small>WATCH THE FILM</small></a
+        >
+        <a class="scroll-cue" href="#the-game"
+          ><span>THERE'S MORE DOWN HERE</span><span aria-hidden="true">⌄</span></a
+        >
+      </section>
+
+      <section class="game-section section-shell" id="the-game" aria-labelledby="game-title">
+        <p class="eyebrow">WELCOME TO THE DEEP END</p>
+        <h2 class="chrome pink" id="game-title">A LITTLE DUCK.<br />A LOT OF TROUBLE.</h2>
+        <p class="intro-copy">
+          It starts with a duckling. Then another. Then a flock.<br class="desktop-break" />
+          Before you know it, the whole pool wants a piece of you.
+        </p>
+        <div class="how-to">
+          <article class="how-step gather-step">
+            <div class="step-art duckling-art" aria-hidden="true">
+              <img src="art/yellow.webp" alt="" /><img src="art/yellow.webp" alt="" /><img
+                src="art/yellow.webp"
+                alt=""
+              /><span class="soap-bubble"></span>
+            </div>
+            <h3><span>1</span>GATHER YOUR FLOCK</h3>
+            <p>Pop the bubbles. Rescue the little ones.<br />Every duckling makes you bigger.</p>
+          </article>
+          <article class="how-step grow-step">
+            <div class="step-art" aria-hidden="true">
+              <img src="art/gold.webp" alt="" /><span class="little-spark spark-one">✦</span
+              ><span class="little-spark spark-two">✦</span>
+            </div>
+            <h3><span>2</span>GET A LITTLE GREEDY</h3>
+            <p>Outgrow your rivals and gulp them up.<br />Just mind the bigger duck behind you.</p>
+          </article>
+          <article class="how-step split-step">
+            <div class="step-art" aria-hidden="true">
+              <img src="art/shark.webp" alt="" /><span class="warning-splash">UH-OH!</span>
+            </div>
+            <h3><span>3</span>TURN THE TIDE</h3>
+            <p>Split your flock. Feed a hungry shark.<br />A clever splash changes everything.</p>
+          </article>
+        </div>
+        <p class="practice-note">
+          <span class="small-star" aria-hidden="true">✦</span> Fancy a quieter dip? Tub 01 has twelve
+          ducklings waiting for a lift home.
+        </p>
+      </section>
+
+      <section class="film-section section-shell" id="watch" aria-labelledby="film-title">
+        <div class="replay-heading">
+          <p class="film-mode">ENDLESS</p>
+          <h2 class="chrome pink" id="film-title">REPLAY</h2>
+        </div>
+        <div class="film-screen">
+          <video
+            id="game-film"
+            controls
+            playsinline
+            preload="none"
+            poster="art/film.webp"
+            aria-label="Scripted five-player multiplayer duel"
+          >
+            <source src="art/gameplay.mp4" type="video/mp4" />
+          </video>
+          <button class="film-start" hidden type="button" aria-label="Play the gameplay replay">
+            <span class="replay-arrow" aria-hidden="true">▶</span>
+            <strong>PLAY</strong>
+          </button>
+        </div>
+        <div class="replay-footer">
+          <p>Five flocks. One shark. Things get messy.</p>
+          <a class="replay-prompt" data-play href="/"><span aria-hidden="true">×</span> YOUR TURN</a>
+        </div>
+      </section>
+
+      <section class="toy-section" id="toy-box" aria-labelledby="toy-title">
+        <div class="section-shell toy-layout">
+          <div class="toy-copy">
+            <p class="eyebrow">MAKE YOURSELF AT HOME</p>
+            <h2 class="chrome pink" id="toy-title">WHO'S YOUR<br />BATH BUDDY?</h2>
+            <p>
+              Forty toys to discover. Hats, glasses,<br class="desktop-break" />
+              fancy wakes… the works.
+            </p>
+            <p>
+              Earn your medals. Find your favorite.<br class="desktop-break" />
+              Make a little name for yourself.
+            </p>
+            <div class="toy-stamp" aria-label="40 toy skins">
+              <strong>40</strong><span>TOYS.<br />ALL PERSONALITY.</span>
+            </div>
+          </div>
+          <div class="toy-selector" role="group" aria-label="Preview the toys">
+            <button class="selector-arrow previous" type="button" aria-label="Previous toy">
+              <span aria-hidden="true">◀</span>
+            </button>
+            <div class="toy-preview">
+              <span class="toy-waterline" aria-hidden="true"></span
+              ><img
+                id="toy-image"
+                src="art/gold.webp"
+                width="720"
+                height="720"
+                alt="Glossy gold rubber duck"
+                loading="lazy"
+              /><span class="toy-spark" aria-hidden="true">✦</span>
+            </div>
+            <button class="selector-arrow next" type="button" aria-label="Next toy">
+              <span aria-hidden="true">▶</span>
+            </button>
+            <div class="toy-caption" aria-live="polite" aria-atomic="true">
+              <h3 id="toy-name">GOLD</h3>
+              <p id="toy-description">Top of the pecking order.</p>
+            </div>
+            <div class="toy-options" aria-label="Choose a toy">
+              <button
+                type="button"
+                data-toy="0"
+                aria-label="Gold duck"
+                aria-pressed="true"
+                style="--swatch: #f2c634"
+              ></button>
+              <button
+                type="button"
+                data-toy="1"
+                aria-label="Yellow duck"
+                aria-pressed="false"
+                style="--swatch: #ffe448"
+              ></button>
+              <button
+                type="button"
+                data-toy="2"
+                aria-label="Pink duck"
+                aria-pressed="false"
+                style="--swatch: #f681b9"
+              ></button>
+              <button
+                type="button"
+                data-toy="3"
+                aria-label="Mint duck"
+                aria-pressed="false"
+                style="--swatch: #8feccc"
+              ></button>
+              <button
+                type="button"
+                data-toy="4"
+                aria-label="Captain duck"
+                aria-pressed="false"
+                style="--swatch: #f9fcff"
+              >
+                <span aria-hidden="true">★</span>
+              </button>
+              <button
+                type="button"
+                data-toy="5"
+                aria-label="Blue shark"
+                aria-pressed="false"
+                style="--swatch: #779fdf"
+              >
+                <span aria-hidden="true">▲</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="gallery-section section-shell" id="photos" aria-labelledby="photos-title">
+        <p class="eyebrow">POSTCARDS FROM THE POOL</p>
+        <h2 class="chrome" id="photos-title">WISH YOU WERE HERE.</h2>
+        <p class="gallery-intro">A few happy snaps. Click one for a closer look.</p>
+        <div class="postcards">
+          <button class="postcard" type="button" data-photo="0">
+            <span class="postcard-tape" aria-hidden="true"></span
+            ><img
+              src="art/rescue.webp"
+              width="1280"
+              height="720"
+              alt="Gold duck rescuing a trail of ducklings in Tub 01"
+              loading="lazy"
+            /><span class="postcard-caption">EVERYBODY, FOLLOW ME!<small>TUB 01 · BUBBLE RESCUE</small></span>
+          </button>
+          <button class="postcard" type="button" data-photo="1">
+            <span class="postcard-tape" aria-hidden="true"></span
+            ><img
+              src="art/endless.webp"
+              width="1280"
+              height="720"
+              alt="The pink heart pool with other players and the live leaderboard"
+              loading="lazy"
+            /><span class="postcard-caption">PLENTY OF ROOM. FOR NOW.<small>THE ENDLESS POOL</small></span>
+          </button>
+          <button class="postcard" type="button" data-photo="2">
+            <span class="postcard-tape" aria-hidden="true"></span
+            ><img
+              src="art/toys.webp"
+              width="1280"
+              height="720"
+              alt="A collection of colorful duck, shark, and other bath toy skins"
+              loading="lazy"
+            /><span class="postcard-caption">ONE FOR EVERY MOOD.<small>A PEEK IN THE TOY BOX</small></span>
+          </button>
+        </div>
+        <a class="wallpaper-link" href="art/wallpaper.png" download="sup-a-dub-wallpaper.png"
+          ><span aria-hidden="true">↓</span> TAKE A LITTLE SPLASH HOME
+          <small>Download the wallpaper</small></a
+        >
+      </section>
+
+      <section class="last-splash" aria-labelledby="last-title">
+        <div class="bubble-field" aria-hidden="true"></div>
+        <p class="eyebrow">YOUR FLOCK IS WAITING</p>
+        <h2 class="chrome pink" id="last-title">READY, STEADY…<br />QUACK!</h2>
+        <a class="play-button" data-play href="/"
+          ><span class="play-triangle" aria-hidden="true"></span>LET'S PLAY!</a
+        >
+        <p class="play-note">No download. No dry feet.</p>
+        <img class="footer-duck" src="art/captain.webp" width="720" height="720" alt="" loading="lazy" />
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a href="#top" aria-label="Back to the top"
+        ><img src="art/wordmark.svg" width="1452" height="265" alt="Sup-a-Dub"
+      /></a>
+      <p>
+        An independent tribute to <em>Super Rub 'a' Dub</em>.<br />Made for the love of little rubber ducks.
+      </p>
+      <div>
+        <a href="https://github.com/1etu/sup-a-dub" target="_blank" rel="noopener noreferrer">GITHUB</a
+        ><a href="art/credits.txt">CREDITS</a><a href="#top">BACK TO TOP ↑</a>
+      </div>
+    </footer>
+
+    <dialog id="photo-viewer" aria-labelledby="photo-title">
+      <div class="photo-dialog-shell">
+        <button class="close-viewer" type="button" aria-label="Close photo">×</button
+        ><img id="full-photo" src="art/rescue.webp" alt="" />
+        <div class="photo-controls">
+          <button type="button" data-photo-previous aria-label="Previous photo">◀</button>
+          <h2 id="photo-title">EVERYBODY, FOLLOW ME!</h2>
+          <button type="button" data-photo-next aria-label="Next photo">▶</button>
+        </div>
+      </div>
+    </dialog>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -65,6 +65,10 @@ bun run start
 
 Open **http://localhost:3001**. Bun serves the client, API, and WebSocket connection from one origin. No external database service is required.
 
+The promotional page runs at **http://localhost:3001/promo/** after the production build. The game stays at the root address.
+
+For page design work, run `bun run dev:promo` in another terminal. Open **http://localhost:5174/promo/**. Its play buttons open the game on port 5173. Set `VITE_GAME_URL` before the build to change their destination.
+
 ## Controls
 
 | Action | Default |
@@ -88,6 +92,7 @@ The monorepo separates game content from the engines that run it.
 | Location | Responsibility |
 | --- | --- |
 | `apps/web` | Menus, input, accounts, and the game client |
+| `apps/marketing` | Promotional page, replay player, and toy previews |
 | `apps/server` | Authoritative simulation, sessions, moderation, and SQLite |
 | `packages/simulation`, `protocol`, `network` | Game rules and bounded message transport |
 | `packages/gameengine`, `graphics` | Scenes, water, cameras, and rendering |

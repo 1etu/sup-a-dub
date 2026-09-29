@@ -327,6 +327,8 @@ export async function createGameServer(options: ServerOptions = {}) {
     } catch {
       return fail('This path is invalid.', 400, headers);
     }
+    if (pathname === '/promo') return new Response(null, { status: 302, headers: { location: '/promo/' } });
+    if (pathname === '/promo/') pathname = '/promo/index.html';
     const candidate = resolve(staticRoot, `.${pathname}`);
     if (candidate !== staticRoot && !candidate.startsWith(`${staticRoot}${sep}`))
       return fail('This page does not exist.', 404, headers);
@@ -335,12 +337,14 @@ export async function createGameServer(options: ServerOptions = {}) {
       return new Response(request.method === 'HEAD' ? null : file, {
         headers: {
           'content-type': file.type,
-          'cache-control': pathname.startsWith('/assets/')
-            ? 'public, max-age=31536000, immutable'
-            : 'no-cache',
+          'cache-control':
+            pathname.startsWith('/assets/') || pathname.startsWith('/promo/assets/')
+              ? 'public, max-age=31536000, immutable'
+              : 'no-cache',
           'x-content-type-options': 'nosniff',
         },
       });
+    if (pathname.startsWith('/promo/')) return fail('This page does not exist.', 404, headers);
     const index = Bun.file(resolve(staticRoot, 'index.html'));
     if (!pathname.includes('.') && (await index.exists()))
       return new Response(index, { headers: { 'content-type': 'text/html', 'cache-control': 'no-cache' } });

@@ -10,7 +10,8 @@
     "./sfx": "./src/sfx/index.ts",
     "./sfx/*": "./src/sfx/*.ts",
     "./controls": "./src/controls/index.ts",
-    "./music": "./src/music/index.ts"
+    "./music": "./src/music/index.ts",
+    "./marketing": "./src/marketing/index.ts"
   },
   "dependencies": {
     "@supadub/audioengine": "workspace:*",

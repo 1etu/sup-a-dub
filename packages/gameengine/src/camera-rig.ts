@@ -23,10 +23,12 @@ export class CameraRig {
   private readonly aim = new THREE.Vector3();
   private viewport: CanvasBounds = { left: 0, top: 0, width: 1280, height: 720 };
   private replayBlend = 0;
+  private flockZoom = 1.08;
 
   reset(): void {
     this.center.set(0, 0, 0);
     this.replayBlend = 0;
+    this.flockZoom = 1.08;
   }
   resize(bounds: CanvasBounds): void {
     this.viewport = {
@@ -72,11 +74,13 @@ export class CameraRig {
     const aspect = this.viewport.width / this.viewport.height;
     const distance =
       aspect < 1.15 ? (playing && mode === 'practice' ? 1.42 / aspect : preview ? 1.35 : 1.08) : 1;
-    const zoom = playing
-      ? mode === 'endless'
-        ? Math.max(1.08, owned.radius / 7.3) / Math.min(1, this.camera.aspect)
-        : 1.2
-      : 1;
+    const targetZoom = Math.max(1.08, owned.radius / 7.3, (owned.largestRadius ?? 0) * 0.47);
+    if (mode === 'endless' && playing) {
+      this.flockZoom = presentation.reducedMotion
+        ? targetZoom
+        : THREE.MathUtils.lerp(this.flockZoom, targetZoom, 1 - Math.exp(-step * 4.5));
+    } else this.flockZoom = 1.08;
+    const zoom = playing ? (mode === 'endless' ? this.flockZoom / Math.min(1, this.camera.aspect) : 1.2) : 1;
     const blend = this.replayBlend * this.replayBlend * (3 - 2 * this.replayBlend);
     const practice = mode === 'practice' && playing;
     const fieldOfView = THREE.MathUtils.lerp(practice ? 34.792 : 37, 37, blend);

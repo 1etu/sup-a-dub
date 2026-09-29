@@ -2,7 +2,7 @@ import { bodySpeed, ENDLESS, type BodyState, type Vec2 } from '@supadub/protocol
 import type { ControlState } from './input';
 
 export type VisualBody = { state: BodyState; x: number; z: number; angle: number };
-export type FlockBounds = Vec2 & { radius: number };
+export type FlockBounds = Vec2 & { radius: number; largestRadius?: number };
 
 export class BodyMotion {
   readonly bodies = new Map<string, VisualBody>();
@@ -33,6 +33,7 @@ export class BodyMotion {
       maxX = -Infinity,
       minZ = Infinity,
       maxZ = -Infinity;
+    let largestRadius = 0;
     for (const body of this.bodies.values()) {
       const state = body.state;
       let vx = state.vx,
@@ -65,6 +66,7 @@ export class BodyMotion {
       const desired = Math.hypot(vx, vz) > 0.05 ? Math.atan2(vx, vz) : state.angle;
       body.angle += Math.atan2(Math.sin(desired - body.angle), Math.cos(desired - body.angle)) * turn;
       if (state.ownerId === this.selfId) {
+        largestRadius = Math.max(largestRadius, state.radius);
         minX = Math.min(minX, body.x - state.radius);
         maxX = Math.max(maxX, body.x + state.radius);
         minZ = Math.min(minZ, body.z - state.radius);
@@ -76,6 +78,7 @@ export class BodyMotion {
         x: (minX + maxX) / 2,
         z: (minZ + maxZ) / 2,
         radius: Math.max(8, Math.hypot(maxX - minX, maxZ - minZ) * 0.5 + 3),
+        largestRadius,
       };
     return this.bounds;
   }
